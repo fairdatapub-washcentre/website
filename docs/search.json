@@ -40,424 +40,11 @@
     ]
   },
   {
-    "objectID": "code_of_conduct.html",
-    "href": "code_of_conduct.html",
-    "title": "Contributor Covenant Code of Conduct",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.\n\n\n\nExamples of behavior that contributes to a positive environment for our community include:\n\nDemonstrating empathy and kindness toward other people\nBeing respectful of differing opinions, viewpoints, and experiences\nGiving and gracefully accepting constructive feedback\nAccepting responsibility and apologizing to those affected by our mistakes, and learning from the experience\nFocusing on what is best not just for us as individuals, but for the overall community\n\nExamples of unacceptable behavior include:\n\nThe use of sexualized language or imagery, and sexual attention or advances of any kind\nTrolling, insulting or derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information, such as a physical or email address, without their explicit permission\nOther conduct which could reasonably be considered inappropriate in a professional setting\n\n\n\n\nCommunity leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.\nCommunity leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.\n\n\n\nThis Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.\n\n\n\nInstances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at ghe@mavt.ethz.ch. All complaints will be reviewed and investigated promptly and fairly.\nAll community leaders are obligated to respect the privacy and security of the reporter of any incident.\n\n\n\nCommunity leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:\n\n\nCommunity Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.\nConsequence: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.\n\n\n\nCommunity Impact: A violation through a single incident or series of actions.\nConsequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.\n\n\n\nCommunity Impact: A serious violation of community standards, including sustained inappropriate behavior.\nConsequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.\n\n\n\nCommunity Impact: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.\nConsequence: A permanent ban from any sort of public interaction within the community.\n\n\n\n\nThis Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.\nFor answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations."
-  },
-  {
-    "objectID": "code_of_conduct.html#our-pledge",
-    "href": "code_of_conduct.html#our-pledge",
-    "title": "Contributor Covenant Code of Conduct",
-    "section": "",
-    "text": "We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community."
-  },
-  {
-    "objectID": "code_of_conduct.html#our-standards",
-    "href": "code_of_conduct.html#our-standards",
-    "title": "Contributor Covenant Code of Conduct",
-    "section": "",
-    "text": "Examples of behavior that contributes to a positive environment for our community include:\n\nDemonstrating empathy and kindness toward other people\nBeing respectful of differing opinions, viewpoints, and experiences\nGiving and gracefully accepting constructive feedback\nAccepting responsibility and apologizing to those affected by our mistakes, and learning from the experience\nFocusing on what is best not just for us as individuals, but for the overall community\n\nExamples of unacceptable behavior include:\n\nThe use of sexualized language or imagery, and sexual attention or advances of any kind\nTrolling, insulting or derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information, such as a physical or email address, without their explicit permission\nOther conduct which could reasonably be considered inappropriate in a professional setting"
-  },
-  {
-    "objectID": "code_of_conduct.html#enforcement-responsibilities",
-    "href": "code_of_conduct.html#enforcement-responsibilities",
-    "title": "Contributor Covenant Code of Conduct",
-    "section": "",
-    "text": "Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.\nCommunity leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate."
-  },
-  {
-    "objectID": "code_of_conduct.html#scope",
-    "href": "code_of_conduct.html#scope",
-    "title": "Contributor Covenant Code of Conduct",
-    "section": "",
-    "text": "This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event."
-  },
-  {
-    "objectID": "code_of_conduct.html#enforcement",
-    "href": "code_of_conduct.html#enforcement",
-    "title": "Contributor Covenant Code of Conduct",
-    "section": "",
-    "text": "Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at ghe@mavt.ethz.ch. All complaints will be reviewed and investigated promptly and fairly.\nAll community leaders are obligated to respect the privacy and security of the reporter of any incident."
-  },
-  {
-    "objectID": "code_of_conduct.html#enforcement-guidelines",
-    "href": "code_of_conduct.html#enforcement-guidelines",
-    "title": "Contributor Covenant Code of Conduct",
-    "section": "",
-    "text": "Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:\n\n\nCommunity Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.\nConsequence: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.\n\n\n\nCommunity Impact: A violation through a single incident or series of actions.\nConsequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.\n\n\n\nCommunity Impact: A serious violation of community standards, including sustained inappropriate behavior.\nConsequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.\n\n\n\nCommunity Impact: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.\nConsequence: A permanent ban from any sort of public interaction within the community."
-  },
-  {
-    "objectID": "code_of_conduct.html#attribution",
-    "href": "code_of_conduct.html#attribution",
-    "title": "Contributor Covenant Code of Conduct",
-    "section": "",
-    "text": "This Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.\nFor answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations."
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#email-from-github",
-    "href": "slides/lec-01-welcome.html#email-from-github",
-    "title": "Welcome & get ready for the workshop",
-    "section": "Email from GitHub?",
-    "text": "Email from GitHub?\nWhile we are getting ready, please check for this email from GitHub and accept the invitation to join the GitHub organisation for the course. Used Gmail to sign up? Check the folders that aren’t your primary inbox (e.g Updates)."
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#why-all-of-this",
-    "href": "slides/lec-01-welcome.html#why-all-of-this",
-    "title": "Welcome & get ready for the workshop",
-    "section": "Why all of this?",
-    "text": "Why all of this?"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#your-turn-about-you",
-    "href": "slides/lec-01-welcome.html#your-turn-about-you",
-    "title": "Welcome & get ready for the workshop",
-    "section": "Your turn: About you",
-    "text": "Your turn: About you\n\nPick an item and take notes for 1 minute:\nWhat does the item you have picked have to do with the reason for you being here?\n\n\n\n\n\n−+\n01:00"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#in-pairs",
-    "href": "slides/lec-01-welcome.html#in-pairs",
-    "title": "Welcome & get ready for the workshop",
-    "section": "In pairs",
-    "text": "In pairs\n\nTake 2 minutes each to share with your partner:\nWhat does the item you have picked have to do with the reason for you being here?\n\n\n\n\n\n−+\n05:00"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#course-structure",
-    "href": "slides/lec-01-welcome.html#course-structure",
-    "title": "Welcome & get ready for the workshop",
-    "section": "Course structure",
-    "text": "Course structure\n\nMy turn: Lecture segments + live coding\nOur turn: Live coding + follow along\nYour turn: Exercises in pairs"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#my-turn-lecture-segments-live-coding",
-    "href": "slides/lec-01-welcome.html#my-turn-lecture-segments-live-coding",
-    "title": "Welcome & get ready for the workshop",
-    "section": "My turn: Lecture segments + live coding",
-    "text": "My turn: Lecture segments + live coding\n\nInstructor writes and narrates code out loud\nInstructor explains concepts and principles that are relevant\nCode is displayed on screen"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#our-turn-live-coding-follow-along",
-    "href": "slides/lec-01-welcome.html#our-turn-live-coding-follow-along",
-    "title": "Welcome & get ready for the workshop",
-    "section": "Our turn: Live coding + follow along",
-    "text": "Our turn: Live coding + follow along\n\nInstructor writes and narrates code out loud\nInstructor explains concepts and principles that are relevant\nCode is displayed on screen\nLearners join by writing and executing the same code"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#your-turn-exercises-in-pairs",
-    "href": "slides/lec-01-welcome.html#your-turn-exercises-in-pairs",
-    "title": "Welcome & get ready for the workshop",
-    "section": "Your turn: Exercises in pairs",
-    "text": "Your turn: Exercises in pairs\n\nTwo learners work together in pairs\nOne person does the typing (the driver)\nOne person offers comments and suggestions (the navigator)"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#getting-help",
-    "href": "slides/lec-01-welcome.html#getting-help",
-    "title": "Welcome & get ready for the workshop",
-    "section": "Getting help",
-    "text": "Getting help\n\nplease use a pink sticky note to indicate that you have a problem. I will try to address your issue if time permits.\nduring your turn exercises, please use a yellow sticky note to indicate when you have completed an exercise."
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#platforms-and-tools",
-    "href": "slides/lec-01-welcome.html#platforms-and-tools",
-    "title": "Welcome & get ready for the workshop",
-    "section": "Platforms and Tools",
-    "text": "Platforms and Tools\n\nCourse website\nR\ntidyverse R Packages\nwashr R Package\nPosit Cloud\nRStudio IDE\nGit / GitHub"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#course-website",
-    "href": "slides/lec-01-welcome.html#course-website",
-    "title": "Welcome & get ready for the workshop",
-    "section": "Course website",
-    "text": "Course website\nfairdatapub-washcentre.github.io/website/"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#our-turn-open-and-bookmark-the-course-webiste",
-    "href": "slides/lec-01-welcome.html#our-turn-open-and-bookmark-the-course-webiste",
-    "title": "Welcome & get ready for the workshop",
-    "section": "Our turn: Open and bookmark the course webiste",
-    "text": "Our turn: Open and bookmark the course webiste\n\nOpen a web browser on your laptop.\nNavigate to the course website: fairdatapub-washcentre.github.io/website/\nCreate a bookmarks folder named fairdatapub-washcentre in your bookmarks toolbar\nAdd a bookmark of the course website to the folder fairdatapub-washcentre\n\n\n\n\n−+\n05:00"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#section-7",
-    "href": "slides/lec-01-welcome.html#section-7",
-    "title": "Welcome & get ready for the workshop",
-    "section": "",
-    "text": "Artwork from @juliesquid for @openscapes (illustrated by @allison_horst)"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#version-control-with-git-and-github",
-    "href": "slides/lec-01-welcome.html#version-control-with-git-and-github",
-    "title": "Welcome & get ready for the workshop",
-    "section": "Version Control with Git and GitHub",
-    "text": "Version Control with Git and GitHub\nA way to share files with others, so they can:\n\ndownload\nre-use\ncontribute\n\nYou can view the history of files, and jump back in time to any point."
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#why-is-it-useful",
-    "href": "slides/lec-01-welcome.html#why-is-it-useful",
-    "title": "Welcome & get ready for the workshop",
-    "section": "Why is it useful?",
-    "text": "Why is it useful?"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#git-and-github",
-    "href": "slides/lec-01-welcome.html#git-and-github",
-    "title": "Welcome & get ready for the workshop",
-    "section": "Git and GitHub",
-    "text": "Git and GitHub\n\n\n\n\n\n\n\n\n\n\n\n\nGit is a software for version control\nCreated in 2005\nPopular among programmers collaboratively developing code\nTracks changes in a set of files (directory/folder/repository)\n\n\n\n\n\n\n\n\n\n\n\n\nGitHub is a hosting platform for version control using Git\nLaunched in 2008, aquired by Microsoft in in 2018, Microsoft for US$ 7.5 billion\n\n100 million Users (20.5 in 2022 alone) (October, 2023)\n\nSocial media for software developers"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#my-turn-a-tour-of-github",
-    "href": "slides/lec-01-welcome.html#my-turn-a-tour-of-github",
-    "title": "Welcome & get ready for the workshop",
-    "section": "My turn: A tour of GitHub",
-    "text": "My turn: A tour of GitHub\n\nSit back and enjoy!"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#your-turn-get-a-github-account-if-you-havent-yet",
-    "href": "slides/lec-01-welcome.html#your-turn-get-a-github-account-if-you-havent-yet",
-    "title": "Welcome & get ready for the workshop",
-    "section": "Your turn: Get a GitHub account (if you haven’t yet)",
-    "text": "Your turn: Get a GitHub account (if you haven’t yet)\n\nOpen a web browser on your laptop.\nNavigate to the course website: fairdatapub-washcentre.github.io/website/\nIf you haven’t yet, bookmark the course website\nIn the left-hand menu, clock on Module 1, then select am-01: GitHub\nFollow the instructions\nPlace a yellow sticky note on your laptop when you have completed the assignment\n\n\n\n\n−+\n05:00"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#email-from-github-1",
-    "href": "slides/lec-01-welcome.html#email-from-github-1",
-    "title": "Welcome & get ready for the workshop",
-    "section": "Email from GitHub?",
-    "text": "Email from GitHub?\nPlease check for this email from GitHub and accept the invitation to join the GitHub organisation for the course. Used Gmail to sign up? Check the folders that aren’t your primary inbox (e.g Updates)."
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#section-8",
-    "href": "slides/lec-01-welcome.html#section-8",
-    "title": "Welcome & get ready for the workshop",
-    "section": "-",
-    "text": "-"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#section-9",
-    "href": "slides/lec-01-welcome.html#section-9",
-    "title": "Welcome & get ready for the workshop",
-    "section": "-",
-    "text": "-"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#section-10",
-    "href": "slides/lec-01-welcome.html#section-10",
-    "title": "Welcome & get ready for the workshop",
-    "section": "-",
-    "text": "-"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#section-11",
-    "href": "slides/lec-01-welcome.html#section-11",
-    "title": "Welcome & get ready for the workshop",
-    "section": "-",
-    "text": "-"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#section-12",
-    "href": "slides/lec-01-welcome.html#section-12",
-    "title": "Welcome & get ready for the workshop",
-    "section": "-",
-    "text": "-"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#section-13",
-    "href": "slides/lec-01-welcome.html#section-13",
-    "title": "Welcome & get ready for the workshop",
-    "section": "-",
-    "text": "-"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#section-14",
-    "href": "slides/lec-01-welcome.html#section-14",
-    "title": "Welcome & get ready for the workshop",
-    "section": "-",
-    "text": "-"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#your-turn-log-into-posit-cloud-with-github-account",
-    "href": "slides/lec-01-welcome.html#your-turn-log-into-posit-cloud-with-github-account",
-    "title": "Welcome & get ready for the workshop",
-    "section": "Your turn: Log into Posit Cloud with GitHub account",
-    "text": "Your turn: Log into Posit Cloud with GitHub account\n\nOpen a web browser on your laptop.\nNavigate to the course website: fairdatapub-washcentre.github.io/website/\nIf you haven’t yet, bookmark the course website\nIn the left-hand menu, clock on Module 1, then select am-02: Posit Cloud\nFollow the instructions\nPlace a yellow sticky note on your laptop when you have completed the assignment\n\n\n\n\n\n\n\nGitHub Authorisation\n\n\n\nIf this is your first time logging in to Posit Cloud with your GitHub account, you will be prompted to authorize Posit Cloud to access your GitHub account information.\nOnce you have authorized access, you will be redirected back to the Posit Cloud website and logged in to your account.\n\n\n\n\n\n\n\n−+\n05:00"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#take-a-break",
-    "href": "slides/lec-01-welcome.html#take-a-break",
-    "title": "Welcome & get ready for the workshop",
-    "section": "Take a break",
-    "text": "Take a break\nPlease get up and move! Let your emails rest in peace.\n\n\n\n\n−+\n15:00\n\n\n\n\n\nPhoto by Blake Wisz"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#your-turn-md-01-exercises",
-    "href": "slides/lec-01-welcome.html#your-turn-md-01-exercises",
-    "title": "Welcome & get ready for the workshop",
-    "section": "Your turn: md-01-exercises",
-    "text": "Your turn: md-01-exercises\n\n\nOpen posit.cloud in your browser (use your bookmark).\nOpen the rbt-fs24 workspace for the course.\nClick Start next to md-01-exercises.\nIn the File Manager in the bottom right window, locate the hello-quarto.qmd file and click on it to open it in the top left window.\nRender the document.\nAdd your name to the author: key in the YAML header\nRender the document\nInspect components of the document and make one more update and re-render.\nDiscuss notes about updates you’ve made with your neighbor. Note any aspects of the document that are not clear after the tour and your first interaction with it."
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#take-a-break-1",
-    "href": "slides/lec-01-welcome.html#take-a-break-1",
-    "title": "Welcome & get ready for the workshop",
-    "section": "Take a break",
-    "text": "Take a break\nPlease get up and move! Let your emails rest in peace.\n\n\n\n\n−+\n15:00\n\n\n\n\n\nPhoto by Blake Wisz"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#module-1-documentation",
-    "href": "slides/lec-01-welcome.html#module-1-documentation",
-    "title": "Welcome & get ready for the workshop",
-    "section": "Module 1 documentation",
-    "text": "Module 1 documentation\n\nfairdatapub-washcentre.github.io/website/modules/md-01.html"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#thanks",
-    "href": "slides/lec-01-welcome.html#thanks",
-    "title": "Welcome & get ready for the workshop",
-    "section": "Thanks! 🌻",
-    "text": "Thanks! 🌻\nSlides created via revealjs and Quarto: https://quarto.org/docs/presentations/revealjs/ Access slides as PDF on GitHub\nAll material is licensed under Creative Commons Attribution Share Alike 4.0 International.\n\n\n\n fairdatapub-washcentre.github.io/website/"
-  },
-  {
-    "objectID": "assignments/md-01/am-01-3-github.html",
-    "href": "assignments/md-01/am-01-3-github.html",
-    "title": "Interaction with GitHub",
-    "section": "",
-    "text": "Here are the step-by-step instructions to set up a GitHub personal access token:\n\n\n\n\n\n\nImportant\n\n\n\n\n\nTreat your access tokens like passwords and keep them secure (e.g. a password managing software).\n\n\n\n\nLog in to your GitHub account.\nClick on your profile picture in the top-right corner of the page.\nSelect “Settings” from the dropdown menu.\nIn the left sidebar, click on “Developer settings”.\nClick on “Personal access tokens”.\nClick on “Tokens (classic)”.\nClick on “Generate new token” and from the dropdown menu select “Generate new token (classic)”.\nIn the “Note” field, give your token the name: GITHUB_PAT\nUnder Expiration, select “No expiration”\nUnder “Select scopes”, select: repo, workflow, user\nClick on “Generate token”.\nYour personal access token will be displayed on the screen. Copy it and store it in a safe place.\n\nWe will need this GitHub PAT several times during the workshop.\nRemember to treat your access tokens like passwords and keep them secure (e.g. a password manager software). If you do not use a password manager software, do not store the token in an MS Word document. Instead, rather use a simple text editor like Notepad (Windows) or TextEdit (Mac).",
-    "crumbs": [
-      "Module 01",
-      "am-03: GitHub PAT"
-    ]
-  },
-  {
-    "objectID": "assignments/md-01/am-01-3-github.html#step-1-set-up-a-github-personal-access-token",
-    "href": "assignments/md-01/am-01-3-github.html#step-1-set-up-a-github-personal-access-token",
-    "title": "Interaction with GitHub",
-    "section": "",
-    "text": "Here are the step-by-step instructions to set up a GitHub personal access token:\n\n\n\n\n\n\nImportant\n\n\n\n\n\nTreat your access tokens like passwords and keep them secure (e.g. a password managing software).\n\n\n\n\nLog in to your GitHub account.\nClick on your profile picture in the top-right corner of the page.\nSelect “Settings” from the dropdown menu.\nIn the left sidebar, click on “Developer settings”.\nClick on “Personal access tokens”.\nClick on “Tokens (classic)”.\nClick on “Generate new token” and from the dropdown menu select “Generate new token (classic)”.\nIn the “Note” field, give your token the name: GITHUB_PAT\nUnder Expiration, select “No expiration”\nUnder “Select scopes”, select: repo, workflow, user\nClick on “Generate token”.\nYour personal access token will be displayed on the screen. Copy it and store it in a safe place.\n\nWe will need this GitHub PAT several times during the workshop.\nRemember to treat your access tokens like passwords and keep them secure (e.g. a password manager software). If you do not use a password manager software, do not store the token in an MS Word document. Instead, rather use a simple text editor like Notepad (Windows) or TextEdit (Mac).",
-    "crumbs": [
-      "Module 01",
-      "am-03: GitHub PAT"
-    ]
-  },
-  {
-    "objectID": "assignments/md-01/am-01-1-github.html",
-    "href": "assignments/md-01/am-01-1-github.html",
-    "title": "Get an account on GitHub",
-    "section": "",
-    "text": "To set up an account on GitHub, follow these general steps:\n\nGo to the GitHub website at https://github.com/.\nClick on the “Sign up” button on the top right corner of the page.\nEnter your preferred username, email address, and password in the provided fields.\nChoose whether you want to receive updates and announcements via email.\nComplete the verification process by solving a puzzle and entering a verification code sent to your email.\n\n\n\n\n\n\n\nUsername advice from: Happy Git and GitHub for the useR\n\n\n\n\n\nYou will be able to upgrade to a paid level of service, apply discounts, join organizations, etc. in the future, so don’t fret about any of that now. Except your username. You might want to give that some thought.\nA few tips, which sadly tend to contradict each other:\n\nIncorporate your actual name! People like to know who they’re dealing with. Also makes your username easier for people to guess or remember.\nReuse your username from other contexts, e.g., Twitter or Slack. But, of course, someone with no GitHub activity will probably be squatting on that.\nPick a username you will be comfortable revealing to your future boss.\nShorter is better than longer.\nBe as unique as possible in as few characters as possible. In some settings GitHub auto-completes or suggests usernames.\nMake it timeless. Don’t highlight your current university, employer, or place of residence, e.g. JennyFromTheBlock.\nAvoid words laden with special meaning in programming.\nAvoid the use of upper vs. lower case to separate words. We highly recommend all lowercase. GitHub treats usernames in a case insensitive way, but using all lowercase is kinder to people doing downstream regular expression work with usernames, in various languages. A better strategy for word separation is to use a hyphen -.\n\nYou can change your username later, but better to get this right the first time.\n\nhttps://help.github.com/articles/changing-your-github-username/\nhttps://help.github.com/articles/what-happens-when-i-change-my-username/",
-    "crumbs": [
-      "Module 01",
-      "am-01: GitHub Account"
-    ]
-  },
-  {
-    "objectID": "assignments/md-01/am-01-1-github.html#step-1-get-an-account-on-github",
-    "href": "assignments/md-01/am-01-1-github.html#step-1-get-an-account-on-github",
-    "title": "Get an account on GitHub",
-    "section": "",
-    "text": "To set up an account on GitHub, follow these general steps:\n\nGo to the GitHub website at https://github.com/.\nClick on the “Sign up” button on the top right corner of the page.\nEnter your preferred username, email address, and password in the provided fields.\nChoose whether you want to receive updates and announcements via email.\nComplete the verification process by solving a puzzle and entering a verification code sent to your email.\n\n\n\n\n\n\n\nUsername advice from: Happy Git and GitHub for the useR\n\n\n\n\n\nYou will be able to upgrade to a paid level of service, apply discounts, join organizations, etc. in the future, so don’t fret about any of that now. Except your username. You might want to give that some thought.\nA few tips, which sadly tend to contradict each other:\n\nIncorporate your actual name! People like to know who they’re dealing with. Also makes your username easier for people to guess or remember.\nReuse your username from other contexts, e.g., Twitter or Slack. But, of course, someone with no GitHub activity will probably be squatting on that.\nPick a username you will be comfortable revealing to your future boss.\nShorter is better than longer.\nBe as unique as possible in as few characters as possible. In some settings GitHub auto-completes or suggests usernames.\nMake it timeless. Don’t highlight your current university, employer, or place of residence, e.g. JennyFromTheBlock.\nAvoid words laden with special meaning in programming.\nAvoid the use of upper vs. lower case to separate words. We highly recommend all lowercase. GitHub treats usernames in a case insensitive way, but using all lowercase is kinder to people doing downstream regular expression work with usernames, in various languages. A better strategy for word separation is to use a hyphen -.\n\nYou can change your username later, but better to get this right the first time.\n\nhttps://help.github.com/articles/changing-your-github-username/\nhttps://help.github.com/articles/what-happens-when-i-change-my-username/",
-    "crumbs": [
-      "Module 01",
-      "am-01: GitHub Account"
-    ]
-  },
-  {
-    "objectID": "assignments/md-01/am-01-2-posit.html",
-    "href": "assignments/md-01/am-01-2-posit.html",
-    "title": "Working with R, RStudio on Posit Cloud",
-    "section": "",
-    "text": "Log into Posit Cloud with GitHub account\nHere are the instructions to login to Posit Cloud using a GitHub account:\n\nGo to the Posit Cloud Sign Up page: https://login.posit.cloud/register\nClick on the Sign Up with GitHub button.\nEnter your GitHub username and password when prompted.\nIf this is your first time logging in to Posit Cloud with your GitHub account, you will be prompted to authorize Posit Cloud to access your GitHub account information.\nOnce you have authorized access, you will be redirected back to the Posit Cloud website and logged in to your account.\n\nNote that you will need to have a GitHub account in order to use this login method. If you do not have a GitHub account, you will need to create one before you can log in to Posit Cloud.\n\n\nJoin the course workspace on Posit Cloud\n\nOpen this link: https://posit.cloud/spaces/588816/join?access_code=emTb5Dw2068YJtLt-UDEkQjNuW5qayU7yCV-g45A",
-    "crumbs": [
-      "Module 01",
-      "am-02: Posit Cloud"
-    ]
-  },
-  {
-    "objectID": "assignments/md-01/am-01-4-github.html",
-    "href": "assignments/md-01/am-01-4-github.html",
-    "title": "Interaction with GitHub",
-    "section": "",
-    "text": "Open github.com in your browser.\nNavigate to the GitHub organisation for the course.\nFind the repository git-configuration-USERNAME that ends with your GitHub username, and open it.\nClick on the green “Code” button.\nCopy the HTTPS URL to your clipboard.\nOpen the fairdatapub-washcentre workspace on posit.cloud: https://posit.cloud/spaces/588816/content/all?sort=name_asc\nClick New Project &gt; New Project from Git Repository.\nPaste the HTTPS URL from GitHub into the “URL of your Git Repository” field.\nWait until the project is deployed.\nContinue with the next step.",
-    "crumbs": [
-      "Module 01",
-      "am-04: Git configuration"
-    ]
-  },
-  {
-    "objectID": "assignments/md-01/am-01-4-github.html#step-1-clone-a-repository",
-    "href": "assignments/md-01/am-01-4-github.html#step-1-clone-a-repository",
-    "title": "Interaction with GitHub",
-    "section": "",
-    "text": "Open github.com in your browser.\nNavigate to the GitHub organisation for the course.\nFind the repository git-configuration-USERNAME that ends with your GitHub username, and open it.\nClick on the green “Code” button.\nCopy the HTTPS URL to your clipboard.\nOpen the fairdatapub-washcentre workspace on posit.cloud: https://posit.cloud/spaces/588816/content/all?sort=name_asc\nClick New Project &gt; New Project from Git Repository.\nPaste the HTTPS URL from GitHub into the “URL of your Git Repository” field.\nWait until the project is deployed.\nContinue with the next step.",
-    "crumbs": [
-      "Module 01",
-      "am-04: Git configuration"
-    ]
-  },
-  {
-    "objectID": "assignments/md-01/am-01-4-github.html#step-2-introduce-yourself-to-git",
-    "href": "assignments/md-01/am-01-4-github.html#step-2-introduce-yourself-to-git",
-    "title": "Interaction with GitHub",
-    "section": "Step 2: Introduce yourself to git",
-    "text": "Step 2: Introduce yourself to git\n\nIn Posit Cloud, if not already open, open the git-configuration-USERNAME project that ends with your GitHub username.\nOpen the git-configuration.qmd file from the bottom right window of RStudio.\nEdit the code chunk under “Git configuration details” and replace the placeholders with your name and email address (these will be the details that git will use to identify you when you commit changes to the repository).\nRender the document.\nContinue with the next step.\n\n\nlibrary(usethis)\n\n# Replace Your Name and Your Email with your details. Do not delete the quotes \"\".\nuse_git_config(user.name = \"Your Name\", user.email = \"Your Email\")",
-    "crumbs": [
-      "Module 01",
-      "am-04: Git configuration"
-    ]
-  },
-  {
-    "objectID": "assignments/md-01/am-01-4-github.html#step-3-commit-and-push-your-changes",
-    "href": "assignments/md-01/am-01-4-github.html#step-3-commit-and-push-your-changes",
-    "title": "Interaction with GitHub",
-    "section": "Step 3: Commit and push your changes",
-    "text": "Step 3: Commit and push your changes\n\nNavigate to the Git pane in the top-right window of RStudio.\nCheck the box next to the git-configuration.qmd file to stage it for commit.\nClick on the “Commit” button.\nEnter a commit message in the “Commit message” field.\nClick on the “Commit” button.\nClick on the “Push” button.\nEnter your GitHub username and GitHub Personal Access Token (PAT) in the “Username” and “Password” fields\n\n\n\n\n\n\n\nDo not use your GitHub password\n\n\n\nYou need to enter the GitHub Personal Access Token (PAT) you created in a previous assignment to push your changes back to GitHub.",
-    "crumbs": [
-      "Module 01",
-      "am-04: Git configuration"
-    ]
-  },
-  {
-    "objectID": "assignments/md-01/am-01-4-github.html#step-4-open-an-issue-on-github",
-    "href": "assignments/md-01/am-01-4-github.html#step-4-open-an-issue-on-github",
-    "title": "Interaction with GitHub",
-    "section": "Step 4: Open an issue on GitHub",
-    "text": "Step 4: Open an issue on GitHub\n\nOpen github.com in your browser.\nNavigate to the GitHub organisation for the course: https://github.com/fairdatapub-washcentre\nFind the repository git-configuration that ends with your GitHub username.\nClick on the “Issues” tab.\nClick on the green “New issue” button.\nIn the “Title” field write: “Completed git configuration assignments”.\nIn the “Leave a comment” field, tag the course instructor @larnsce.",
-    "crumbs": [
-      "Module 01",
-      "am-04: Git configuration"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "FAIR Data Publishing - Workshop",
-    "section": "",
-    "text": "Thank you for your interest in this workshop. Your course instructor Lars Schöbitz is looking forward to meet you.\nThe location for this 1-day workshop will be communicated by Email.\nPlease ensure you bring the following items to the workshop:",
-    "crumbs": [
-      "Course Overview"
-    ]
-  },
-  {
-    "objectID": "index.html#what-is-this-workshop-all-about",
-    "href": "index.html#what-is-this-workshop-all-about",
-    "title": "FAIR Data Publishing - Workshop",
-    "section": " What is this workshop all about?",
-    "text": "What is this workshop all about?\nThis workshop is designed to provide you with an introduction to the principles of FAIR data publishing. It draws from experiences and workflows established by the Global Health Engineering group at ETH Zurich and through their work on the openwashdata community.",
-    "crumbs": [
-      "Course Overview"
-    ]
-  },
-  {
-    "objectID": "index.html#opening",
-    "href": "index.html#opening",
-    "title": "FAIR Data Publishing - Workshop",
-    "section": " Opening",
-    "text": "Opening\nThe workshop will open with a 30-minute talk to set the scene and allow participants to get impression of the bigger picture.\nView slides in full screen | Download slides as PDF",
-    "crumbs": [
-      "Course Overview"
-    ]
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "slides/lec-00-opening.html#meet-a-data-steward-1",
@@ -677,46 +264,396 @@
     "text": "Thanks! 🌻\nSlides created via revealjs and Quarto: https://quarto.org/docs/presentations/revealjs/\nSlide background image taken from Danielle Navarro\nAccess slides as PDF on GitHub\nAll material is licensed under Creative Commons Attribution Share Alike 4.0 International."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "slides/lec-01-welcome.html#email-from-github",
+    "href": "slides/lec-01-welcome.html#email-from-github",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Email from GitHub?",
+    "text": "Email from GitHub?\nWhile we are getting ready, please check for this email from GitHub and accept the invitation to join the GitHub organisation for the course. Used Gmail to sign up? Check the folders that aren’t your primary inbox (e.g Updates)."
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#why-all-of-this",
+    "href": "slides/lec-01-welcome.html#why-all-of-this",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Why all of this?",
+    "text": "Why all of this?"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#your-turn-about-you",
+    "href": "slides/lec-01-welcome.html#your-turn-about-you",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Your turn: About you",
+    "text": "Your turn: About you\n\nPick an item from the table and think for 1 minute:\nWhat does the item you have picked have to do with the reason for you being here?\n\n\n\n\n−+\n02:00"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#in-pairs",
+    "href": "slides/lec-01-welcome.html#in-pairs",
+    "title": "Welcome & get ready for the workshop",
+    "section": "In pairs",
+    "text": "In pairs\n\nTake 2 minutes each to share with your partner:\nWhat does the item you have picked have to do with the reason for you being here?\n\n\n\n\n\n−+\n05:00"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#course-structure",
+    "href": "slides/lec-01-welcome.html#course-structure",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Course structure",
+    "text": "Course structure\n\nMy turn: Lecture segments + live coding\nOur turn: Live coding + follow along\nYour turn: Exercises in pairs"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#my-turn-lecture-segments-live-coding",
+    "href": "slides/lec-01-welcome.html#my-turn-lecture-segments-live-coding",
+    "title": "Welcome & get ready for the workshop",
+    "section": "My turn: Lecture segments + live coding",
+    "text": "My turn: Lecture segments + live coding\n\nInstructor writes and narrates code out loud\nInstructor explains concepts and principles that are relevant\nCode is displayed on screen"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#our-turn-live-coding-follow-along",
+    "href": "slides/lec-01-welcome.html#our-turn-live-coding-follow-along",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Our turn: Live coding + follow along",
+    "text": "Our turn: Live coding + follow along\n\nInstructor writes and narrates code out loud\nInstructor explains concepts and principles that are relevant\nCode is displayed on screen\nLearners join by writing and executing the same code"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#your-turn-exercises-in-pairs",
+    "href": "slides/lec-01-welcome.html#your-turn-exercises-in-pairs",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Your turn: Exercises in pairs",
+    "text": "Your turn: Exercises in pairs\n\nTwo learners work together in pairs\nOne person does the typing (the driver)\nOne person offers comments and suggestions (the navigator)"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#getting-help",
+    "href": "slides/lec-01-welcome.html#getting-help",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Getting help",
+    "text": "Getting help\n\nplease use a pink sticky note to indicate that you have a problem. I will try to address your issue if time permits.\nduring your turn exercises, please use a yellow sticky note to indicate when you have completed an exercise."
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#platforms-and-tools",
+    "href": "slides/lec-01-welcome.html#platforms-and-tools",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Platforms and Tools",
+    "text": "Platforms and Tools\n\nCourse website\nR\ntidyverse R Packages\nwashr R Package\nPosit Cloud\nRStudio IDE\nGit / GitHub"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#course-website",
+    "href": "slides/lec-01-welcome.html#course-website",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Course website",
+    "text": "Course website\nfairdatapub-washcentre.github.io/website/"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#our-turn-open-and-bookmark-the-course-webiste",
+    "href": "slides/lec-01-welcome.html#our-turn-open-and-bookmark-the-course-webiste",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Our turn: Open and bookmark the course webiste",
+    "text": "Our turn: Open and bookmark the course webiste\n\nOpen a web browser on your laptop.\nNavigate to the course website: fairdatapub-washcentre.github.io/website/\nCreate a bookmarks folder named fairdatapub-washcentre in your bookmarks toolbar\nAdd a bookmark of the course website to the folder fairdatapub-washcentre\n\n\n\n\n−+\n05:00"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#section-7",
+    "href": "slides/lec-01-welcome.html#section-7",
+    "title": "Welcome & get ready for the workshop",
+    "section": "-",
+    "text": "-"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#version-control-with-git-and-github",
+    "href": "slides/lec-01-welcome.html#version-control-with-git-and-github",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Version Control with Git and GitHub",
+    "text": "Version Control with Git and GitHub\nA way to share files with others, so they can:\n\ndownload\nre-use\ncontribute\n\nYou can view the history of files, and jump back in time to any point."
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#why-is-it-useful",
+    "href": "slides/lec-01-welcome.html#why-is-it-useful",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Why is it useful?",
+    "text": "Why is it useful?"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#git-and-github",
+    "href": "slides/lec-01-welcome.html#git-and-github",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Git and GitHub",
+    "text": "Git and GitHub\n\n\n\n\n\n\n\n\n\n\n\n\nGit is a software for version control\nCreated in 2005\nPopular among programmers collaboratively developing code\nTracks changes in a set of files (directory/folder/repository)\n\n\n\n\n\n\n\n\n\n\n\n\nGitHub is a hosting platform for version control using Git\nLaunched in 2008, aquired by Microsoft in in 2018, Microsoft for US$ 7.5 billion\n\n100 million Users (20.5 in 2022 alone) (October, 2023)\n\nSocial media for software developers"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#my-turn-a-tour-of-github",
+    "href": "slides/lec-01-welcome.html#my-turn-a-tour-of-github",
+    "title": "Welcome & get ready for the workshop",
+    "section": "My turn: A tour of GitHub",
+    "text": "My turn: A tour of GitHub\n\nSit back and enjoy!"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#your-turn-get-a-github-account-if-you-havent-yet",
+    "href": "slides/lec-01-welcome.html#your-turn-get-a-github-account-if-you-havent-yet",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Your turn: Get a GitHub account (if you haven’t yet)",
+    "text": "Your turn: Get a GitHub account (if you haven’t yet)\n\nNavigate to the course website: fairdatapub-washcentre.github.io/website/\nIn the left-hand menu, click on Module 1, then select am-01: am-01: GitHub Account\nFollow the instructions\nPlace a yellow sticky note on your laptop when you have completed the assignment\n\n\n\n\n−+\n05:00"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#email-from-github-1",
+    "href": "slides/lec-01-welcome.html#email-from-github-1",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Email from GitHub?",
+    "text": "Email from GitHub?\nPlease check for this email from GitHub and accept the invitation to join the GitHub organisation for the course. Used Gmail to sign up? Check the folders that aren’t your primary inbox (e.g Updates)."
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#section-8",
+    "href": "slides/lec-01-welcome.html#section-8",
+    "title": "Welcome & get ready for the workshop",
+    "section": "-",
+    "text": "-"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#section-9",
+    "href": "slides/lec-01-welcome.html#section-9",
+    "title": "Welcome & get ready for the workshop",
+    "section": "-",
+    "text": "-"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#section-10",
+    "href": "slides/lec-01-welcome.html#section-10",
+    "title": "Welcome & get ready for the workshop",
+    "section": "-",
+    "text": "-"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#section-11",
+    "href": "slides/lec-01-welcome.html#section-11",
+    "title": "Welcome & get ready for the workshop",
+    "section": "-",
+    "text": "-"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#section-12",
+    "href": "slides/lec-01-welcome.html#section-12",
+    "title": "Welcome & get ready for the workshop",
+    "section": "-",
+    "text": "-"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#section-13",
+    "href": "slides/lec-01-welcome.html#section-13",
+    "title": "Welcome & get ready for the workshop",
+    "section": "-",
+    "text": "-"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#section-14",
+    "href": "slides/lec-01-welcome.html#section-14",
+    "title": "Welcome & get ready for the workshop",
+    "section": "-",
+    "text": "-"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#your-turn-log-into-posit-cloud-with-github-account",
+    "href": "slides/lec-01-welcome.html#your-turn-log-into-posit-cloud-with-github-account",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Your turn: Log into Posit Cloud with GitHub account",
+    "text": "Your turn: Log into Posit Cloud with GitHub account\n\nNavigate to the course website: fairdatapub-washcentre.github.io/website/\nIn the left-hand menu, click on Module 1, then select am-02: Posit Cloud\nFollow the instructions\nPlace a yellow sticky note on your laptop when you have completed the assignment\n\n\n\n\n\n\n\nGitHub Authorisation\n\n\n\nIf this is your first time logging in to Posit Cloud with your GitHub account, you will be prompted to authorize Posit Cloud to access your GitHub account information.\nOnce you have authorized access, you will be redirected back to the Posit Cloud website and logged in to your account.\n\n\n\n\n\n\n\n−+\n05:00"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#take-a-break",
+    "href": "slides/lec-01-welcome.html#take-a-break",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Take a break",
+    "text": "Take a break\nPlease get up and move! Let your emails rest in peace.\n\n\n\n\n−+\n10:00\n\n\n\n\nImage generated with DALL-E 3 by OpenAI"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#your-turn-md-01-exercises",
+    "href": "slides/lec-01-welcome.html#your-turn-md-01-exercises",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Your turn: md-01-exercises",
+    "text": "Your turn: md-01-exercises\n\n\nOpen posit.cloud in your browser (use your bookmark).\nOpen the rbt-fs24 workspace for the course.\nClick Start next to md-01-exercises.\nIn the File Manager in the bottom right window, locate the hello-quarto.qmd file and click on it to open it in the top left window.\nRender the document.\nAdd your name to the author: key in the YAML header\nRender the document\nInspect components of the document and make one more update and re-render.\nDiscuss notes about updates you’ve made with your neighbor. Note any aspects of the document that are not clear after the tour and your first interaction with it."
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#take-a-break-1",
+    "href": "slides/lec-01-welcome.html#take-a-break-1",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Take a break",
+    "text": "Take a break\nPlease get up and move! Let your emails rest in peace.\n\n\n\n\n−+\n05:00\n\n\n\n\nImage generated with DALL-E 3 by OpenAI"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#module-1-documentation",
+    "href": "slides/lec-01-welcome.html#module-1-documentation",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Module 1 documentation",
+    "text": "Module 1 documentation\n\nfairdatapub-washcentre.github.io/website/modules/md-01.html"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#thanks",
+    "href": "slides/lec-01-welcome.html#thanks",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Thanks! 🌻",
+    "text": "Thanks! 🌻\nSlides created via revealjs and Quarto: https://quarto.org/docs/presentations/revealjs/\nAccess slides as PDF on GitHub\nAll material is licensed under Creative Commons Attribution Share Alike 4.0 International.\n\n\n\n fairdatapub-washcentre.github.io/website/"
+  },
+  {
+    "objectID": "assignments/md-01/am-01-3-github.html",
+    "href": "assignments/md-01/am-01-3-github.html",
+    "title": "Interaction with GitHub",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Here are the step-by-step instructions to set up a GitHub personal access token:\n\n\n\n\n\n\nImportant\n\n\n\n\n\nTreat your access tokens like passwords and keep them secure (e.g. a password managing software).\n\n\n\n\nLog in to your GitHub account.\nClick on your profile picture in the top-right corner of the page.\nSelect “Settings” from the dropdown menu.\nIn the left sidebar, click on “Developer settings”.\nClick on “Personal access tokens”.\nClick on “Tokens (classic)”.\nClick on “Generate new token” and from the dropdown menu select “Generate new token (classic)”.\nIn the “Note” field, give your token the name: GITHUB_PAT\nUnder Expiration, select “No expiration”\nUnder “Select scopes”, select: repo, workflow, user\nClick on “Generate token”.\nYour personal access token will be displayed on the screen. Copy it and store it in a safe place.\n\nWe will need this GitHub PAT several times during the workshop.\nRemember to treat your access tokens like passwords and keep them secure (e.g. a password manager software). If you do not use a password manager software, do not store the token in an MS Word document. Instead, rather use a simple text editor like Notepad (Windows) or TextEdit (Mac).",
+    "crumbs": [
+      "Module 01",
+      "am-03: GitHub PAT"
+    ]
   },
   {
-    "objectID": "modules/md-02.html",
-    "href": "modules/md-02.html",
-    "title": "Module 2",
+    "objectID": "assignments/md-01/am-01-3-github.html#step-1-set-up-a-github-personal-access-token",
+    "href": "assignments/md-01/am-01-3-github.html#step-1-set-up-a-github-personal-access-token",
+    "title": "Interaction with GitHub",
     "section": "",
-    "text": "View slides in full screen | Download slides as PDF"
+    "text": "Here are the step-by-step instructions to set up a GitHub personal access token:\n\n\n\n\n\n\nImportant\n\n\n\n\n\nTreat your access tokens like passwords and keep them secure (e.g. a password managing software).\n\n\n\n\nLog in to your GitHub account.\nClick on your profile picture in the top-right corner of the page.\nSelect “Settings” from the dropdown menu.\nIn the left sidebar, click on “Developer settings”.\nClick on “Personal access tokens”.\nClick on “Tokens (classic)”.\nClick on “Generate new token” and from the dropdown menu select “Generate new token (classic)”.\nIn the “Note” field, give your token the name: GITHUB_PAT\nUnder Expiration, select “No expiration”\nUnder “Select scopes”, select: repo, workflow, user\nClick on “Generate token”.\nYour personal access token will be displayed on the screen. Copy it and store it in a safe place.\n\nWe will need this GitHub PAT several times during the workshop.\nRemember to treat your access tokens like passwords and keep them secure (e.g. a password manager software). If you do not use a password manager software, do not store the token in an MS Word document. Instead, rather use a simple text editor like Notepad (Windows) or TextEdit (Mac).",
+    "crumbs": [
+      "Module 01",
+      "am-03: GitHub PAT"
+    ]
   },
   {
-    "objectID": "modules/md-02.html#slides",
-    "href": "modules/md-02.html#slides",
-    "title": "Module 2",
+    "objectID": "assignments/md-01/am-01-1-github.html",
+    "href": "assignments/md-01/am-01-1-github.html",
+    "title": "Get an account on GitHub",
     "section": "",
-    "text": "View slides in full screen | Download slides as PDF"
+    "text": "To set up an account on GitHub, follow these general steps:\n\nGo to the GitHub website at https://github.com/.\nClick on the “Sign up” button on the top right corner of the page.\nEnter your preferred username, email address, and password in the provided fields.\nChoose whether you want to receive updates and announcements via email.\nComplete the verification process by solving a puzzle and entering a verification code sent to your email.\n\n\n\n\n\n\n\nUsername advice from: Happy Git and GitHub for the useR\n\n\n\n\n\nYou will be able to upgrade to a paid level of service, apply discounts, join organizations, etc. in the future, so don’t fret about any of that now. Except your username. You might want to give that some thought.\nA few tips, which sadly tend to contradict each other:\n\nIncorporate your actual name! People like to know who they’re dealing with. Also makes your username easier for people to guess or remember.\nReuse your username from other contexts, e.g., Twitter or Slack. But, of course, someone with no GitHub activity will probably be squatting on that.\nPick a username you will be comfortable revealing to your future boss.\nShorter is better than longer.\nBe as unique as possible in as few characters as possible. In some settings GitHub auto-completes or suggests usernames.\nMake it timeless. Don’t highlight your current university, employer, or place of residence, e.g. JennyFromTheBlock.\nAvoid words laden with special meaning in programming.\nAvoid the use of upper vs. lower case to separate words. We highly recommend all lowercase. GitHub treats usernames in a case insensitive way, but using all lowercase is kinder to people doing downstream regular expression work with usernames, in various languages. A better strategy for word separation is to use a hyphen -.\n\nYou can change your username later, but better to get this right the first time.\n\nhttps://help.github.com/articles/changing-your-github-username/\nhttps://help.github.com/articles/what-happens-when-i-change-my-username/",
+    "crumbs": [
+      "Module 01",
+      "am-01: GitHub Account"
+    ]
   },
   {
-    "objectID": "modules/md-02.html#assignments",
-    "href": "modules/md-02.html#assignments",
-    "title": "Module 2",
-    "section": " Assignments",
-    "text": "Assignments\nWe will work through the following assignments during the first module of the workshop.\n\nAssignment 1: Create a GitHub repository\nAssignment 2: Create a new Project with devtools\nAssignment 3\nAssignment 4"
+    "objectID": "assignments/md-01/am-01-1-github.html#step-1-get-an-account-on-github",
+    "href": "assignments/md-01/am-01-1-github.html#step-1-get-an-account-on-github",
+    "title": "Get an account on GitHub",
+    "section": "",
+    "text": "To set up an account on GitHub, follow these general steps:\n\nGo to the GitHub website at https://github.com/.\nClick on the “Sign up” button on the top right corner of the page.\nEnter your preferred username, email address, and password in the provided fields.\nChoose whether you want to receive updates and announcements via email.\nComplete the verification process by solving a puzzle and entering a verification code sent to your email.\n\n\n\n\n\n\n\nUsername advice from: Happy Git and GitHub for the useR\n\n\n\n\n\nYou will be able to upgrade to a paid level of service, apply discounts, join organizations, etc. in the future, so don’t fret about any of that now. Except your username. You might want to give that some thought.\nA few tips, which sadly tend to contradict each other:\n\nIncorporate your actual name! People like to know who they’re dealing with. Also makes your username easier for people to guess or remember.\nReuse your username from other contexts, e.g., Twitter or Slack. But, of course, someone with no GitHub activity will probably be squatting on that.\nPick a username you will be comfortable revealing to your future boss.\nShorter is better than longer.\nBe as unique as possible in as few characters as possible. In some settings GitHub auto-completes or suggests usernames.\nMake it timeless. Don’t highlight your current university, employer, or place of residence, e.g. JennyFromTheBlock.\nAvoid words laden with special meaning in programming.\nAvoid the use of upper vs. lower case to separate words. We highly recommend all lowercase. GitHub treats usernames in a case insensitive way, but using all lowercase is kinder to people doing downstream regular expression work with usernames, in various languages. A better strategy for word separation is to use a hyphen -.\n\nYou can change your username later, but better to get this right the first time.\n\nhttps://help.github.com/articles/changing-your-github-username/\nhttps://help.github.com/articles/what-happens-when-i-change-my-username/",
+    "crumbs": [
+      "Module 01",
+      "am-01: GitHub Account"
+    ]
   },
   {
-    "objectID": "slides/lec-02-washr.html#introduction",
-    "href": "slides/lec-02-washr.html#introduction",
+    "objectID": "assignments/md-01/am-01-2-posit.html",
+    "href": "assignments/md-01/am-01-2-posit.html",
+    "title": "Working with R, RStudio on Posit Cloud",
+    "section": "",
+    "text": "Log into Posit Cloud with GitHub account\nHere are the instructions to login to Posit Cloud using a GitHub account:\n\nGo to the Posit Cloud Sign Up page: https://login.posit.cloud/register\nClick on the Sign Up with GitHub button.\nEnter your GitHub username and password when prompted.\nIf this is your first time logging in to Posit Cloud with your GitHub account, you will be prompted to authorize Posit Cloud to access your GitHub account information.\nOnce you have authorized access, you will be redirected back to the Posit Cloud website and logged in to your account.\n\nNote that you will need to have a GitHub account in order to use this login method. If you do not have a GitHub account, you will need to create one before you can log in to Posit Cloud.\n\n\nJoin the course workspace on Posit Cloud\n\nOpen this link: https://posit.cloud/spaces/588816/join?access_code=emTb5Dw2068YJtLt-UDEkQjNuW5qayU7yCV-g45A",
+    "crumbs": [
+      "Module 01",
+      "am-02: Posit Cloud"
+    ]
+  },
+  {
+    "objectID": "assignments/md-01/am-01-4-github.html",
+    "href": "assignments/md-01/am-01-4-github.html",
+    "title": "Interaction with GitHub",
+    "section": "",
+    "text": "Open github.com in your browser.\nNavigate to the GitHub organisation for the course.\nFind the repository git-configuration-USERNAME that ends with your GitHub username, and open it.\nClick on the green “Code” button.\nCopy the HTTPS URL to your clipboard.\nOpen the fairdatapub-washcentre workspace on posit.cloud: https://posit.cloud/spaces/588816/content/all?sort=name_asc\nClick New Project &gt; New Project from Git Repository.\nPaste the HTTPS URL from GitHub into the “URL of your Git Repository” field.\nWait until the project is deployed.\nContinue with the next step.",
+    "crumbs": [
+      "Module 01",
+      "am-04: Git configuration"
+    ]
+  },
+  {
+    "objectID": "assignments/md-01/am-01-4-github.html#step-1-clone-a-repository",
+    "href": "assignments/md-01/am-01-4-github.html#step-1-clone-a-repository",
+    "title": "Interaction with GitHub",
+    "section": "",
+    "text": "Open github.com in your browser.\nNavigate to the GitHub organisation for the course.\nFind the repository git-configuration-USERNAME that ends with your GitHub username, and open it.\nClick on the green “Code” button.\nCopy the HTTPS URL to your clipboard.\nOpen the fairdatapub-washcentre workspace on posit.cloud: https://posit.cloud/spaces/588816/content/all?sort=name_asc\nClick New Project &gt; New Project from Git Repository.\nPaste the HTTPS URL from GitHub into the “URL of your Git Repository” field.\nWait until the project is deployed.\nContinue with the next step.",
+    "crumbs": [
+      "Module 01",
+      "am-04: Git configuration"
+    ]
+  },
+  {
+    "objectID": "assignments/md-01/am-01-4-github.html#step-2-introduce-yourself-to-git",
+    "href": "assignments/md-01/am-01-4-github.html#step-2-introduce-yourself-to-git",
+    "title": "Interaction with GitHub",
+    "section": "Step 2: Introduce yourself to git",
+    "text": "Step 2: Introduce yourself to git\n\nIn Posit Cloud, if not already open, open the git-configuration-USERNAME project that ends with your GitHub username.\nOpen the git-configuration.qmd file from the bottom right window of RStudio.\nEdit the code chunk under “Git configuration details” and replace the placeholders with your name and email address (these will be the details that git will use to identify you when you commit changes to the repository).\nRender the document.\nContinue with the next step.\n\n\nlibrary(usethis)\n\n# Replace Your Name and Your Email with your details. Do not delete the quotes \"\".\nuse_git_config(user.name = \"Your Name\", user.email = \"Your Email\")",
+    "crumbs": [
+      "Module 01",
+      "am-04: Git configuration"
+    ]
+  },
+  {
+    "objectID": "assignments/md-01/am-01-4-github.html#step-3-commit-and-push-your-changes",
+    "href": "assignments/md-01/am-01-4-github.html#step-3-commit-and-push-your-changes",
+    "title": "Interaction with GitHub",
+    "section": "Step 3: Commit and push your changes",
+    "text": "Step 3: Commit and push your changes\n\nNavigate to the Git pane in the top-right window of RStudio.\nCheck the box next to the git-configuration.qmd file to stage it for commit.\nClick on the “Commit” button.\nEnter a commit message in the “Commit message” field.\nClick on the “Commit” button.\nClick on the “Push” button.\nEnter your GitHub username and GitHub Personal Access Token (PAT) in the “Username” and “Password” fields\n\n\n\n\n\n\n\nDo not use your GitHub password\n\n\n\nYou need to enter the GitHub Personal Access Token (PAT) you created in a previous assignment to push your changes back to GitHub.",
+    "crumbs": [
+      "Module 01",
+      "am-04: Git configuration"
+    ]
+  },
+  {
+    "objectID": "assignments/md-01/am-01-4-github.html#step-4-open-an-issue-on-github",
+    "href": "assignments/md-01/am-01-4-github.html#step-4-open-an-issue-on-github",
+    "title": "Interaction with GitHub",
+    "section": "Step 4: Open an issue on GitHub",
+    "text": "Step 4: Open an issue on GitHub\n\nOpen github.com in your browser.\nNavigate to the GitHub organisation for the course: https://github.com/fairdatapub-washcentre\nFind the repository git-configuration that ends with your GitHub username.\nClick on the “Issues” tab.\nClick on the green “New issue” button.\nIn the “Title” field write: “Completed git configuration assignments”.\nIn the “Leave a comment” field, tag the course instructor @larnsce.",
+    "crumbs": [
+      "Module 01",
+      "am-04: Git configuration"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "FAIR Data Publishing - Workshop",
+    "section": "",
+    "text": "Thank you for your interest in this workshop. Your course instructor Lars Schöbitz is looking forward to meet you.\nThe location for this 1-day workshop will be communicated by Email.\nPlease ensure you bring the following items to the workshop:",
+    "crumbs": [
+      "Course Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#what-is-this-workshop-all-about",
+    "href": "index.html#what-is-this-workshop-all-about",
+    "title": "FAIR Data Publishing - Workshop",
+    "section": " What is this workshop all about?",
+    "text": "What is this workshop all about?\nThis workshop is designed to provide you with an introduction to the principles of FAIR data publishing. It draws from experiences and workflows established by the Global Health Engineering group at ETH Zurich and through their work on the openwashdata community.",
+    "crumbs": [
+      "Course Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#opening",
+    "href": "index.html#opening",
+    "title": "FAIR Data Publishing - Workshop",
+    "section": " Opening",
+    "text": "Opening\nThe workshop will open with a 30-minute talk to set the scene and allow participants to get impression of the bigger picture.\nView slides in full screen | Download slides as PDF",
+    "crumbs": [
+      "Course Overview"
+    ]
+  },
+  {
+    "objectID": "slides/lec-02-washr.html#journal-articles",
+    "href": "slides/lec-02-washr.html#journal-articles",
     "title": "washr an R-package to facilitate FAIR data publishing",
-    "section": "Introduction",
-    "text": "Introduction\n\n\n\nData Steward @ Global Health Engineering (GHE), ETH Zürich\n“Addressing the determinants of health as a function of engineered interventions and systems”.\nOne major component of health is WASH – water, sanitation and hygiene\n\n\n\n\n\n\nMy responsibilites as a data steward at GHE: Support with data analysis, help with surveys, make researchers’ life a little easier when working with data\nPresent GHE’s mission: Part of the departement of mechanical and process engineering, following an interdisciplinary approach with a focus on public health\nPublic health: “the science and art of preventing disease, prolonging life and promoting health through the organized efforts and informed choices of society, organizations, public and private, communities and individuals.”\nWASH is a collective term for Water, Sanitation and Hygiene – relating to access to safe, clean water, improved sanitation facilities and basic level of hygiene maintained\nMajor problem: WASH practitioners collect various data (geographic, household, operational, and experimental) to design policies and publish research, but they often lack skills in computational data management and are unfamiliar with sharing data using FAIR principles."
+    "section": "Journal articles",
+    "text": "Journal articles\n\n\nData: R package washopenresearch to be published at https://github.com/openwashdata/washopenresearch\n\n\n\nThe first missed opportunity are journal articles and data from researchers\nWe looked at the Data Availability Statements in 924 articles published in the Journal of Water, Sanitation and Hygiene for Development from 2011 to 2023.\nYou can see the data availability statements on the vertical axis and the number of publications on the horizontal axis\nColors differentiate between papers published before 2020 and in 2020 or later, when a policy was introduced that requires authors to select one of the three data availability statements\nAfter that policy was introduced, we still found 15% of papers without a data availability statement, while 60% of articles stated that data was available in the paper, which could also be as supplementary material"
   },
   {
-    "objectID": "slides/lec-02-washr.html#openwashdata",
-    "href": "slides/lec-02-washr.html#openwashdata",
+    "objectID": "slides/lec-02-washr.html#journal-articles-1",
+    "href": "slides/lec-02-washr.html#journal-articles-1",
     "title": "washr an R-package to facilitate FAIR data publishing",
-    "section": "openwashdata",
-    "text": "openwashdata\n\nEstablished in 2021, applying FAIR principles (Wilkinson et al. 2016) to data generated in the WASH sector\nEmpower WASH professionals to engage with tools and workflows for open data and code\nSupport other organizations with their data management, data events (e.g., hackathon), free data science course\nCore team: Two data stewards and one intern at GHE; many collaborators\n\n\n\nSupport other organizations: Hiring two data stewards and building a network\nData events: Hosted a hackathon to publish several datasets at once and test `washr`\n10 week data science course to address the issue of computer and data literacy in the WASH sector"
+    "section": "Journal articles",
+    "text": "Journal articles\nSupplementary Material\n\n\nTake-away: Not a single file is in machine-readable, non-proprietary file type format that would qualify for following FAIR principles for data sharing (Wilkinson et al. 2016).\nGood practice: CSV file (comma-separated values), including a data dictionary for all variables/columns in the data\n\n\n\n\n\n\n\n\n\nSupplementary Material\n\n\nArticles published 2020 or later\n\n\nfile type\nn1\n%\n\n\n\n\nmissing\n202\n51.4\n\n\ndocx\n149\n37.9\n\n\nxlsx\n24\n6.1\n\n\npdf\n13\n3.3\n\n\npptx\n4\n1.0\n\n\npng\n1\n0.3\n\n\n\n1 One article can have multiple files.\n\n\n\n\n\n\n\n\n\n\nData: R package washopenresearch to be published at https://github.com/openwashdata/washopenresearch\n\n\n\nWe then looked at the Supplementary Material of all articles published in 2020 or later and found that have half of the published articles still had no data published alongside the article\nBut, the most insightful take-away is that not a single file was shared in a file type format that would qualify for following FAIR principles for data sharing.\nThat is something we are hoping to change, where sharing data as CSV files would already go a long way."
+  },
+  {
+    "objectID": "slides/lec-02-washr.html#openwashdata-community",
+    "href": "slides/lec-02-washr.html#openwashdata-community",
+    "title": "washr an R-package to facilitate FAIR data publishing",
+    "section": "openwashdata community",
+    "text": "openwashdata community\nVision\nAn active global community that applies FAIR principles (Wilkinson et al. 2016) to data generated in the greater water, sanitation, and hygiene sector.\nMission\nEmpower WASH professionals to engage with tools and workflows for open data and code.\n\nFrom: openwashdata.org/pages/gallery/vmost/"
+  },
+  {
+    "objectID": "slides/lec-02-washr.html#section",
+    "href": "slides/lec-02-washr.html#section",
+    "title": "washr an R-package to facilitate FAIR data publishing",
+    "section": "",
+    "text": "openwashdata.github.io/fsmglobal/\n\n\n\nfsmglobal documenation website by Greene et al. (2023) built with pkgdown R package\n\n\n\nThe product is an R package published as a website for each dataset. We assign a digital object identifier that enables the tracking of citations of the data package and list all contributors with their ORCID iD, so that contributions and citations are linked.\nData is documented in a way where all variables/columns are described in detail.\nAnd for those who do not use R, we also share the data as a CSV and XLSX file.\nTo date, we have published 12 datasets following this workflow."
   },
   {
     "objectID": "slides/lec-02-washr.html#openwashdata-academy",
@@ -761,27 +698,6 @@
     "text": "Publishing the data\n\n\n\nwashinvestments"
   },
   {
-    "objectID": "slides/lec-02-washr.html#fair-principles-from-a-data-perspective",
-    "href": "slides/lec-02-washr.html#fair-principles-from-a-data-perspective",
-    "title": "washr an R-package to facilitate FAIR data publishing",
-    "section": "FAIR principles from a data perspective",
-    "text": "FAIR principles from a data perspective\n\nFindable by having an ORCID\nAccessible by utilizing open-source software for both preparing and publishing data\nInteroperable by exporting harmonized data as tidy data\nReproducible by ensuring transparency in the data cleaning process (see data-raw/data-processing.R)"
-  },
-  {
-    "objectID": "slides/lec-02-washr.html#fair-principles-from-a-user-perspective",
-    "href": "slides/lec-02-washr.html#fair-principles-from-a-user-perspective",
-    "title": "washr an R-package to facilitate FAIR data publishing",
-    "section": "FAIR principles from a user perspective",
-    "text": "FAIR principles from a user perspective\n\nFindable by publishing tools on accessible platforms (e.g., CRAN, group wiki)\nAccessible by thoroughly documenting functions and use cases\nInteroperable by maximizing generalizability\nReproducible by consistently updating and revising\n\n\n\nAccessibility principle is not only about the accessibility of the data itself but in our understanding also the accessibility of the tools required to publish your data"
-  },
-  {
-    "objectID": "slides/lec-02-washr.html#what-now",
-    "href": "slides/lec-02-washr.html#what-now",
-    "title": "washr an R-package to facilitate FAIR data publishing",
-    "section": "What now?",
-    "text": "What now?\n\nContinue expanding washr R package (more functions, tests)\nPublish washr on CRAN to make it more accessible\nCreate meta package to easily download data published on openwashdata.org\nEnhance the guide for building and preparing data packages using washr\nExpand the package’s functionality to be applicable in diverse contexts"
-  },
-  {
     "objectID": "slides/lec-02-washr.html#links-and-downloads",
     "href": "slides/lec-02-washr.html#links-and-downloads",
     "title": "washr an R-package to facilitate FAIR data publishing",
@@ -796,38 +712,178 @@
     "text": "Sign up for the openwashdata newsletter!"
   },
   {
-    "objectID": "slides/lec-02-washr.html#journal-articles",
-    "href": "slides/lec-02-washr.html#journal-articles",
-    "title": "washr an R-package to facilitate FAIR data publishing",
-    "section": "Journal articles",
-    "text": "Journal articles\n\n\nData: R package washopenresearch to be published at https://github.com/openwashdata/washopenresearch\n\n\n\nThe first missed opportunity are journal articles and data from researchers\nWe looked at the Data Availability Statements in 924 articles published in the Journal of Water, Sanitation and Hygiene for Development from 2011 to 2023.\nYou can see the data availability statements on the vertical axis and the number of publications on the horizontal axis\nColors differentiate between papers published before 2020 and in 2020 or later, when a policy was introduced that requires authors to select one of the three data availability statements\nAfter that policy was introduced, we still found 15% of papers without a data availability statement, while 60% of articles stated that data was available in the paper, which could also be as supplementary material"
-  },
-  {
-    "objectID": "slides/lec-02-washr.html#journal-articles-1",
-    "href": "slides/lec-02-washr.html#journal-articles-1",
-    "title": "washr an R-package to facilitate FAIR data publishing",
-    "section": "Journal articles",
-    "text": "Journal articles\nSupplementary Material\n\n\nTake-away: Not a single file is in machine-readable, non-proprietary file type format that would qualify for following FAIR principles for data sharing (Wilkinson et al. 2016).\nGood practice: CSV file (comma-separated values), including a data dictionary for all variables/columns in the data\n\n\n\n\n\n\n\n\n\nSupplementary Material\n\n\nArticles published 2020 or later\n\n\nfile type\nn1\n%\n\n\n\n\nmissing\n202\n51.4\n\n\ndocx\n149\n37.9\n\n\nxlsx\n24\n6.1\n\n\npdf\n13\n3.3\n\n\npptx\n4\n1.0\n\n\npng\n1\n0.3\n\n\n\n1 One article can have multiple files.\n\n\n\n\n\n\n\n\n\n\nData: R package washopenresearch to be published at https://github.com/openwashdata/washopenresearch\n\n\n\nWe then looked at the Supplementary Material of all articles published in 2020 or later and found that have half of the published articles still had no data published alongside the article\nBut, the most insightful take-away is that not a single file was shared in a file type format that would qualify for following FAIR principles for data sharing.\nThat is something we are hoping to change, where sharing data as CSV files would already go a long way."
-  },
-  {
-    "objectID": "slides/lec-02-washr.html#openwashdata-community",
-    "href": "slides/lec-02-washr.html#openwashdata-community",
-    "title": "washr an R-package to facilitate FAIR data publishing",
-    "section": "openwashdata community",
-    "text": "openwashdata community\nVision\nAn active global community that applies FAIR principles (Wilkinson et al. 2016) to data generated in the greater water, sanitation, and hygiene sector.\nMission\nEmpower WASH professionals to engage with tools and workflows for open data and code.\n\nFrom: openwashdata.org/pages/gallery/vmost/"
-  },
-  {
-    "objectID": "slides/lec-02-washr.html#section",
-    "href": "slides/lec-02-washr.html#section",
-    "title": "washr an R-package to facilitate FAIR data publishing",
-    "section": "",
-    "text": "openwashdata.github.io/fsmglobal/\n\n\n\nfsmglobal documenation website by Greene et al. (2023) built with pkgdown R package\n\n\n\nThe product is an R package published as a website for each dataset. We assign a digital object identifier that enables the tracking of citations of the data package and list all contributors with their ORCID iD, so that contributions and citations are linked.\nData is documented in a way where all variables/columns are described in detail.\nAnd for those who do not use R, we also share the data as a CSV and XLSX file.\nTo date, we have published 12 datasets following this workflow."
-  },
-  {
     "objectID": "slides/lec-02-washr.html#references",
     "href": "slides/lec-02-washr.html#references",
     "title": "washr an R-package to facilitate FAIR data publishing",
     "section": "References",
     "text": "References\n\n\n\n fairdatapub-washcentre.github.io/website/\n\n\n\n\nGreene, Nicola, Sarah Hennessy, Tate W. Rogers, Jocelyn Tsai, Francis L. de los Reyes III, and Lars Schöbitz. 2023. “Fsmglobal. Global Faecal Sludge Emptying Services Demand.” https://doi.org/10.5281/zenodo.8208293.\n\n\nWilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. 2016. “The FAIR Guiding Principles for Scientific Data Management and Stewardship.” Scientific Data 3 (1). https://doi.org/10.1038/sdata.2016.18."
+  },
+  {
+    "objectID": "code_of_conduct.html",
+    "href": "code_of_conduct.html",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "",
+    "text": "We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.\n\n\n\nExamples of behavior that contributes to a positive environment for our community include:\n\nDemonstrating empathy and kindness toward other people\nBeing respectful of differing opinions, viewpoints, and experiences\nGiving and gracefully accepting constructive feedback\nAccepting responsibility and apologizing to those affected by our mistakes, and learning from the experience\nFocusing on what is best not just for us as individuals, but for the overall community\n\nExamples of unacceptable behavior include:\n\nThe use of sexualized language or imagery, and sexual attention or advances of any kind\nTrolling, insulting or derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information, such as a physical or email address, without their explicit permission\nOther conduct which could reasonably be considered inappropriate in a professional setting\n\n\n\n\nCommunity leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.\nCommunity leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.\n\n\n\nThis Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.\n\n\n\nInstances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at ghe@mavt.ethz.ch. All complaints will be reviewed and investigated promptly and fairly.\nAll community leaders are obligated to respect the privacy and security of the reporter of any incident.\n\n\n\nCommunity leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:\n\n\nCommunity Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.\nConsequence: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.\n\n\n\nCommunity Impact: A violation through a single incident or series of actions.\nConsequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.\n\n\n\nCommunity Impact: A serious violation of community standards, including sustained inappropriate behavior.\nConsequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.\n\n\n\nCommunity Impact: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.\nConsequence: A permanent ban from any sort of public interaction within the community.\n\n\n\n\nThis Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.\nFor answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations."
+  },
+  {
+    "objectID": "code_of_conduct.html#our-pledge",
+    "href": "code_of_conduct.html#our-pledge",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "",
+    "text": "We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community."
+  },
+  {
+    "objectID": "code_of_conduct.html#our-standards",
+    "href": "code_of_conduct.html#our-standards",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "",
+    "text": "Examples of behavior that contributes to a positive environment for our community include:\n\nDemonstrating empathy and kindness toward other people\nBeing respectful of differing opinions, viewpoints, and experiences\nGiving and gracefully accepting constructive feedback\nAccepting responsibility and apologizing to those affected by our mistakes, and learning from the experience\nFocusing on what is best not just for us as individuals, but for the overall community\n\nExamples of unacceptable behavior include:\n\nThe use of sexualized language or imagery, and sexual attention or advances of any kind\nTrolling, insulting or derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information, such as a physical or email address, without their explicit permission\nOther conduct which could reasonably be considered inappropriate in a professional setting"
+  },
+  {
+    "objectID": "code_of_conduct.html#enforcement-responsibilities",
+    "href": "code_of_conduct.html#enforcement-responsibilities",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "",
+    "text": "Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.\nCommunity leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate."
+  },
+  {
+    "objectID": "code_of_conduct.html#scope",
+    "href": "code_of_conduct.html#scope",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "",
+    "text": "This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event."
+  },
+  {
+    "objectID": "code_of_conduct.html#enforcement",
+    "href": "code_of_conduct.html#enforcement",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "",
+    "text": "Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at ghe@mavt.ethz.ch. All complaints will be reviewed and investigated promptly and fairly.\nAll community leaders are obligated to respect the privacy and security of the reporter of any incident."
+  },
+  {
+    "objectID": "code_of_conduct.html#enforcement-guidelines",
+    "href": "code_of_conduct.html#enforcement-guidelines",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "",
+    "text": "Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:\n\n\nCommunity Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.\nConsequence: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.\n\n\n\nCommunity Impact: A violation through a single incident or series of actions.\nConsequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.\n\n\n\nCommunity Impact: A serious violation of community standards, including sustained inappropriate behavior.\nConsequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.\n\n\n\nCommunity Impact: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.\nConsequence: A permanent ban from any sort of public interaction within the community."
+  },
+  {
+    "objectID": "code_of_conduct.html#attribution",
+    "href": "code_of_conduct.html#attribution",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "",
+    "text": "This Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.\nFor answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations."
+  },
+  {
+    "objectID": "modules/md-02.html",
+    "href": "modules/md-02.html",
+    "title": "Module 2",
+    "section": "",
+    "text": "View slides in full screen | Download slides as PDF"
+  },
+  {
+    "objectID": "modules/md-02.html#slides",
+    "href": "modules/md-02.html#slides",
+    "title": "Module 2",
+    "section": "",
+    "text": "View slides in full screen | Download slides as PDF"
+  },
+  {
+    "objectID": "modules/md-02.html#assignments",
+    "href": "modules/md-02.html#assignments",
+    "title": "Module 2",
+    "section": " Assignments",
+    "text": "Assignments\nWe will work through the following assignments during the first module of the workshop.\n\nAssignment 1: Create a GitHub repository\nAssignment 2: Create a new Project with devtools\nAssignment 3\nAssignment 4"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#share-with-us",
+    "href": "slides/lec-01-welcome.html#share-with-us",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Share with us",
+    "text": "Share with us\n\nTake 1 minute each to share with us:\nWhat does the item you have picked have to do with the reason for you being here?\n\n\n\n\n−+\n20:00"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#our-turn-open-and-bookmark-the-course-website",
+    "href": "slides/lec-01-welcome.html#our-turn-open-and-bookmark-the-course-website",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Our turn: Open and bookmark the course website",
+    "text": "Our turn: Open and bookmark the course website\n\nOpen a web browser on your laptop.\nNavigate to the course website: fairdatapub-washcentre.github.io/website/\nCreate a bookmarks folder named fairdatapub-washcentre in your bookmarks toolbar\nAdd a bookmark of the course website to the folder fairdatapub-washcentre\n\n\n\n\n−+\n10:00"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#section",
+    "href": "slides/lec-01-welcome.html#section",
+    "title": "Welcome & get ready for the workshop",
+    "section": "",
+    "text": "Artwork from @juliesquid for @openscapes (illustrated by @allison_horst)"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#your-turn-create-an-issue-on-github",
+    "href": "slides/lec-01-welcome.html#your-turn-create-an-issue-on-github",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Your turn: Create an issue on GitHub",
+    "text": "Your turn: Create an issue on GitHub\n\n\nNavigate to the GitHub organisation for this course: github.com/fairdatapub-washcentre/\nBookmark this page and add it to your bookmarks folder.\nExchange your GitHub username with your neighbour.\nFind and open the website repository.\nFind the issue tracker in the repository.\nOpen issue #1 Welcome to GitHub\nFollow the instructions in the issue to introduce yourself.\n\n\n\n\n\n−+\n10:00"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#section-1",
+    "href": "slides/lec-01-welcome.html#section-1",
+    "title": "Welcome & get ready for the workshop",
+    "section": "-",
+    "text": "-"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#section-2",
+    "href": "slides/lec-01-welcome.html#section-2",
+    "title": "Welcome & get ready for the workshop",
+    "section": "-",
+    "text": "-"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#section-3",
+    "href": "slides/lec-01-welcome.html#section-3",
+    "title": "Welcome & get ready for the workshop",
+    "section": "-",
+    "text": "-"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#section-4",
+    "href": "slides/lec-01-welcome.html#section-4",
+    "title": "Welcome & get ready for the workshop",
+    "section": "-",
+    "text": "-"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#section-5",
+    "href": "slides/lec-01-welcome.html#section-5",
+    "title": "Welcome & get ready for the workshop",
+    "section": "-",
+    "text": "-"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#section-6",
+    "href": "slides/lec-01-welcome.html#section-6",
+    "title": "Welcome & get ready for the workshop",
+    "section": "-",
+    "text": "-"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#your-turn-set-up-a-github-personal-access-token",
+    "href": "slides/lec-01-welcome.html#your-turn-set-up-a-github-personal-access-token",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Your turn: Set up a GitHub Personal Access Token",
+    "text": "Your turn: Set up a GitHub Personal Access Token\n\nNavigate to the course website: fairdatapub-washcentre.github.io/website/\nIn the left-hand menu, click on Module 1, then select am-03: GitHub PAT\nFollow the instructions\nPlace a yellow sticky note on your laptop when you have completed the assignment\n\n\n\n\n−+\n05:00"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#my-turn-interaction-with-git-github",
+    "href": "slides/lec-01-welcome.html#my-turn-interaction-with-git-github",
+    "title": "Welcome & get ready for the workshop",
+    "section": "My turn: Interaction with Git & GitHub",
+    "text": "My turn: Interaction with Git & GitHub\n\n\nWatch and enjoy!\n\n\n\n\n−+\n10:00"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#your-turn-interaction-with-git-github",
+    "href": "slides/lec-01-welcome.html#your-turn-interaction-with-git-github",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Your turn: Interaction with Git & GitHub",
+    "text": "Your turn: Interaction with Git & GitHub\n\nNavigate to the course website: fairdatapub-washcentre.github.io/website/\nIn the left-hand menu, click on Module 1, then select am-04: Git configuration\nFollow the instructions\nPlace a yellow sticky note on your laptop when you have completed the assignment\n\n\n\n\n−+\n20:00"
   }
 ]

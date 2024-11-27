@@ -373,6 +373,8 @@ openwashdata: <https://openwashdata.org>
 
 Global Health Engineering: <https://ghe.ethz.ch/>
 
+Download slides as [PDF on GitHub](https://github.com/fairdatapub-washcentre/website/raw/main/slides/lec-01-welcome.pdf)
+
 <p style="margin-bottom: 3em;">
 
 </p>
