@@ -7,9 +7,13 @@ title: "Get an account on GitHub"
 To set up an account on GitHub, follow these general steps:
 
 1.  Go to the GitHub website at <https://github.com/>.
+
 2.  Click on the "Sign up" button on the top right corner of the page.
+
 3.  Enter your preferred username, email address, and password in the provided fields.
+
 4.  Choose whether you want to receive updates and announcements via email.
+
 5.  Complete the verification process by solving a puzzle and entering a verification code sent to your email.
 
 ::: {.callout-tip collapse="true"}
@@ -32,17 +36,4 @@ You can change your username later, but better to get this right the first time.
 
 -   <https://help.github.com/articles/changing-your-github-username/>
 -   <https://help.github.com/articles/what-happens-when-i-change-my-username/>
-:::
-
-## {{< fa brands github >}} Step 2: Open an issue on GitHub
-
-::: task
-
-1. Open [github.com](https://github.com/) in your browser and login with your credentials
-2. Exchange your GitHub username with your neighbor
-3. Find and open the `website` repository in the rbtl-fs24 GitHub organisation
-4. Find the issue tracker
-5. Open an issue with the title "Open first issue on GitHub" 
-7. Add a comment to the issue and tag Lars with [@larnsce]{.highlight-yellow}. Add some text.
-8. Click submit new issue
 :::

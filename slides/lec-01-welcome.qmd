@@ -27,11 +27,11 @@ library(magrittr)
 library(epoxy)
 ```
 
-## {{< fa flag >}} {.center-align auto-animate="true"}
+## Email from GitHub? {.center-align}
 
-::: {style="margin-top: 50px; font-size: 1.5em"}
-This class is being recorded. Access to the recording is restricted to ETH members.
-:::
+While we are getting ready, please check for this email from GitHub and [accept the invitation]{.highlight-yellow} to join the GitHub organisation for the course. Used Gmail to sign up? Check the folders that aren't your primary inbox (e.g Updates).
+
+![](img/lec-01/github-invitation.png)
 
 # Welcome! `r emo::ji("wave")` {background-color="#4C326A"}
 
@@ -245,7 +245,7 @@ knitr::include_graphics("img/lec-01/github-logo.png")
 Sit back and enjoy!
 :::
 
-## Your turn: Get a GitHub account
+## Your turn: Get a GitHub account (if you haven't yet)
 
 1. Open a web browser on your laptop.
 2. Navigate to the course website: [fairdatapub-washcentre.github.io/website/](https://fairdatapub-washcentre.github.io/website/)
@@ -259,6 +259,12 @@ Sit back and enjoy!
 
 countdown(minutes = 5)
 ```
+
+## Email from GitHub? {.center-align}
+
+Please check for this email from GitHub and [accept the invitation]{.highlight-yellow} to join the GitHub organisation for the course. Used Gmail to sign up? Check the folders that aren't your primary inbox (e.g Updates).
+
+![](img/lec-01/github-invitation.png)
 
 # Posit Cloud {background-color="#4C326A"}
 
