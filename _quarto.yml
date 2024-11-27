@@ -9,9 +9,10 @@ website:
   site-url: "https://fairdatapub-washcentre.github.io/website/"
   repo-url: "https://github.com/fairdatapub-washcentre/website"
   search: false
+  favicon: "img/OWD-logo-18.png"
   page-footer: 
     left: | 
-        This course is part of the [openwashdata project](https://openwashdata.org/) supported by the 
+        This workshop is part of the [openwashdata project](https://openwashdata.org/) supported by the 
         [Open Research Data Program of the ETH Board](https://ethrat.ch/en/eth-domain/open-research-data/)
     right:
       - text: Code of Conduct
@@ -28,6 +29,8 @@ website:
   
   sidebar:
     background: "#C8CEF3"
+    logo: "img/OWD-logo-20.png"
+    logo-alt: "openwashdata logo."
     pinned: true
     align: center
     style: "docked"
@@ -52,6 +55,13 @@ website:
             text: "am-03: GitHub PAT"
           - href: assignments/md-01/am-01-4-github.qmd
             text: "am-04: Git configuration"
+      - text: "Module 02"
+        href: modules/md-02.qmd
+      - section: "Module 03"
+        href: modules/md-03.qmd
+        contents:
+          - href: assignments/md-03/am-03-01-spreadsheet.qmd
+            text: "am-01: Data Organization"
         
 format:
   html:

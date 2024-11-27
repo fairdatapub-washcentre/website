@@ -17,13 +17,13 @@ Please ensure you bring the following items to the workshop:
 -   a laptop that can connect to Wifi
 -   a browser installation on your laptop
 
-## {{< fa circle-question >}} What is this workshop all about?
+## {{< fa circle-question >}} What is this about?
 
 This workshop is designed to provide you with an introduction to the principles of FAIR data publishing. It draws from experiences and workflows established by the [Global Health Engineering group at ETH Zurich](https://ghe.ethz.ch/) and through their work on the [openwashdata community](https://openwashdata.org/).
 
-## {{< fa display >}} Opening 
+## {{< fa display >}} A model for data stewardship
 
-The workshop will open with a 30-minute talk to set the scene and allow participants to get impression of the bigger picture. 
+The workshop will open with a 30-minute talk to set the scene and allow participants to get impression of the bigger picture of data stewarship.
 
 [View slides in full screen](slides/lec-00-opening.html) | [Download slides as PDF](https://github.com/fairdatapub-washcentre/website/raw/main/slides/lec-00-opening.pdf)
 

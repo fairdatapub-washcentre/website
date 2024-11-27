@@ -22,10 +22,5 @@ editor_options:
 
 ## {{< fa code >}} Assignments
 
-We will work through the following assignments during the first module of the workshop. 
-
--   [Assignment 1](../assignments/md-02/am-02-1-gh-create-repo.qmd): Create a GitHub repository
--   [Assignment 2](../assignments/md-02/am-02-2-pc-create-project.qmd): Create a new Project with devtools
--   [Assignment 3](../assignments/md-02/am-02-3.qmd)
--   [Assignment 4](../assignments/md-02/am-02-4.qmd)
+All exercises and assigments are integrated into the lecture.
 

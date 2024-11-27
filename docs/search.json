@@ -40,11 +40,90 @@
     ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "modules/md-03.html",
+    "href": "modules/md-03.html",
+    "title": "Module 3",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "View slides in full screen | Download slides as PDF",
+    "crumbs": [
+      "Module 03"
+    ]
+  },
+  {
+    "objectID": "modules/md-03.html#slides",
+    "href": "modules/md-03.html#slides",
+    "title": "Module 3",
+    "section": "",
+    "text": "View slides in full screen | Download slides as PDF",
+    "crumbs": [
+      "Module 03"
+    ]
+  },
+  {
+    "objectID": "modules/md-03.html#assignments",
+    "href": "modules/md-03.html#assignments",
+    "title": "Module 3",
+    "section": " Assignments",
+    "text": "Assignments\nWork through this assigment if you did not bring data or if the data you brought is too complex to process during the workshop.\n\nAssignment 1: Data organisation in spreadsheets",
+    "crumbs": [
+      "Module 03"
+    ]
+  },
+  {
+    "objectID": "code_of_conduct.html",
+    "href": "code_of_conduct.html",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "",
+    "text": "We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.\n\n\n\nExamples of behavior that contributes to a positive environment for our community include:\n\nDemonstrating empathy and kindness toward other people\nBeing respectful of differing opinions, viewpoints, and experiences\nGiving and gracefully accepting constructive feedback\nAccepting responsibility and apologizing to those affected by our mistakes, and learning from the experience\nFocusing on what is best not just for us as individuals, but for the overall community\n\nExamples of unacceptable behavior include:\n\nThe use of sexualized language or imagery, and sexual attention or advances of any kind\nTrolling, insulting or derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information, such as a physical or email address, without their explicit permission\nOther conduct which could reasonably be considered inappropriate in a professional setting\n\n\n\n\nCommunity leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.\nCommunity leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.\n\n\n\nThis Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.\n\n\n\nInstances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at ghe@mavt.ethz.ch. All complaints will be reviewed and investigated promptly and fairly.\nAll community leaders are obligated to respect the privacy and security of the reporter of any incident.\n\n\n\nCommunity leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:\n\n\nCommunity Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.\nConsequence: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.\n\n\n\nCommunity Impact: A violation through a single incident or series of actions.\nConsequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.\n\n\n\nCommunity Impact: A serious violation of community standards, including sustained inappropriate behavior.\nConsequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.\n\n\n\nCommunity Impact: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.\nConsequence: A permanent ban from any sort of public interaction within the community.\n\n\n\n\nThis Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.\nFor answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations."
+  },
+  {
+    "objectID": "code_of_conduct.html#our-pledge",
+    "href": "code_of_conduct.html#our-pledge",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "",
+    "text": "We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community."
+  },
+  {
+    "objectID": "code_of_conduct.html#our-standards",
+    "href": "code_of_conduct.html#our-standards",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "",
+    "text": "Examples of behavior that contributes to a positive environment for our community include:\n\nDemonstrating empathy and kindness toward other people\nBeing respectful of differing opinions, viewpoints, and experiences\nGiving and gracefully accepting constructive feedback\nAccepting responsibility and apologizing to those affected by our mistakes, and learning from the experience\nFocusing on what is best not just for us as individuals, but for the overall community\n\nExamples of unacceptable behavior include:\n\nThe use of sexualized language or imagery, and sexual attention or advances of any kind\nTrolling, insulting or derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information, such as a physical or email address, without their explicit permission\nOther conduct which could reasonably be considered inappropriate in a professional setting"
+  },
+  {
+    "objectID": "code_of_conduct.html#enforcement-responsibilities",
+    "href": "code_of_conduct.html#enforcement-responsibilities",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "",
+    "text": "Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.\nCommunity leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate."
+  },
+  {
+    "objectID": "code_of_conduct.html#scope",
+    "href": "code_of_conduct.html#scope",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "",
+    "text": "This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event."
+  },
+  {
+    "objectID": "code_of_conduct.html#enforcement",
+    "href": "code_of_conduct.html#enforcement",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "",
+    "text": "Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at ghe@mavt.ethz.ch. All complaints will be reviewed and investigated promptly and fairly.\nAll community leaders are obligated to respect the privacy and security of the reporter of any incident."
+  },
+  {
+    "objectID": "code_of_conduct.html#enforcement-guidelines",
+    "href": "code_of_conduct.html#enforcement-guidelines",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "",
+    "text": "Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:\n\n\nCommunity Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.\nConsequence: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.\n\n\n\nCommunity Impact: A violation through a single incident or series of actions.\nConsequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.\n\n\n\nCommunity Impact: A serious violation of community standards, including sustained inappropriate behavior.\nConsequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.\n\n\n\nCommunity Impact: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.\nConsequence: A permanent ban from any sort of public interaction within the community."
+  },
+  {
+    "objectID": "code_of_conduct.html#attribution",
+    "href": "code_of_conduct.html#attribution",
+    "title": "Contributor Covenant Code of Conduct",
+    "section": "",
+    "text": "This Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.\nFor answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations."
   },
   {
     "objectID": "slides/lec-00-opening.html#meet-a-data-steward-1",
@@ -271,13 +350,6 @@
     "text": "Email from GitHub?\nWhile we are getting ready, please check for this email from GitHub and accept the invitation to join the GitHub organisation for the course. Used Gmail to sign up? Check the folders that aren’t your primary inbox (e.g Updates)."
   },
   {
-    "objectID": "slides/lec-01-welcome.html#why-all-of-this",
-    "href": "slides/lec-01-welcome.html#why-all-of-this",
-    "title": "Welcome & get ready for the workshop",
-    "section": "Why all of this?",
-    "text": "Why all of this?"
-  },
-  {
     "objectID": "slides/lec-01-welcome.html#your-turn-about-you",
     "href": "slides/lec-01-welcome.html#your-turn-about-you",
     "title": "Welcome & get ready for the workshop",
@@ -285,11 +357,18 @@
     "text": "Your turn: About you\n\nPick an item from the table and think for 1 minute:\nWhat does the item you have picked have to do with the reason for you being here?\n\n\n\n\n−+\n02:00"
   },
   {
-    "objectID": "slides/lec-01-welcome.html#in-pairs",
-    "href": "slides/lec-01-welcome.html#in-pairs",
+    "objectID": "slides/lec-01-welcome.html#share-with-us",
+    "href": "slides/lec-01-welcome.html#share-with-us",
     "title": "Welcome & get ready for the workshop",
-    "section": "In pairs",
-    "text": "In pairs\n\nTake 2 minutes each to share with your partner:\nWhat does the item you have picked have to do with the reason for you being here?\n\n\n\n\n\n−+\n05:00"
+    "section": "Share with us",
+    "text": "Share with us\n\nTake 1 minute each to share with us:\nWhat does the item you have picked have to do with the reason for you being here?\n\n\n\n\n−+\n20:00"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#take-a-break",
+    "href": "slides/lec-01-welcome.html#take-a-break",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Take a break",
+    "text": "Take a break\nPlease get up and move! Let your emails rest in peace.\n\n\n\n\n−+\n10:00\n\n\n\n\nImage generated with DALL-E 3 by OpenAI"
   },
   {
     "objectID": "slides/lec-01-welcome.html#course-structure",
@@ -341,18 +420,18 @@
     "text": "Course website\nfairdatapub-washcentre.github.io/website/"
   },
   {
-    "objectID": "slides/lec-01-welcome.html#our-turn-open-and-bookmark-the-course-webiste",
-    "href": "slides/lec-01-welcome.html#our-turn-open-and-bookmark-the-course-webiste",
+    "objectID": "slides/lec-01-welcome.html#our-turn-open-and-bookmark-the-course-website",
+    "href": "slides/lec-01-welcome.html#our-turn-open-and-bookmark-the-course-website",
     "title": "Welcome & get ready for the workshop",
-    "section": "Our turn: Open and bookmark the course webiste",
-    "text": "Our turn: Open and bookmark the course webiste\n\nOpen a web browser on your laptop.\nNavigate to the course website: fairdatapub-washcentre.github.io/website/\nCreate a bookmarks folder named fairdatapub-washcentre in your bookmarks toolbar\nAdd a bookmark of the course website to the folder fairdatapub-washcentre\n\n\n\n\n−+\n05:00"
+    "section": "Our turn: Open and bookmark the course website",
+    "text": "Our turn: Open and bookmark the course website\n\nOpen a web browser on your laptop.\nNavigate to the course website: fairdatapub-washcentre.github.io/website/\nCreate a bookmarks folder named fairdatapub-washcentre in your bookmarks toolbar\nAdd a bookmark of the course website to the folder fairdatapub-washcentre\n\n\n\n\n−+\n10:00"
   },
   {
-    "objectID": "slides/lec-01-welcome.html#section-7",
-    "href": "slides/lec-01-welcome.html#section-7",
+    "objectID": "slides/lec-01-welcome.html#section",
+    "href": "slides/lec-01-welcome.html#section",
     "title": "Welcome & get ready for the workshop",
-    "section": "-",
-    "text": "-"
+    "section": "",
+    "text": "Artwork from @juliesquid for @openscapes (illustrated by @allison_horst)"
   },
   {
     "objectID": "slides/lec-01-welcome.html#version-control-with-git-and-github",
@@ -397,50 +476,57 @@
     "text": "Email from GitHub?\nPlease check for this email from GitHub and accept the invitation to join the GitHub organisation for the course. Used Gmail to sign up? Check the folders that aren’t your primary inbox (e.g Updates)."
   },
   {
-    "objectID": "slides/lec-01-welcome.html#section-8",
-    "href": "slides/lec-01-welcome.html#section-8",
+    "objectID": "slides/lec-01-welcome.html#your-turn-create-an-issue-on-github",
+    "href": "slides/lec-01-welcome.html#your-turn-create-an-issue-on-github",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Your turn: Create an issue on GitHub",
+    "text": "Your turn: Create an issue on GitHub\n\n\nNavigate to the GitHub organisation for this course: github.com/fairdatapub-washcentre/\nBookmark this page and add it to your bookmarks folder.\nExchange your GitHub username with your neighbour.\nFind and open the website repository.\nFind the issue tracker in the repository.\nOpen issue #1 Welcome to GitHub\nFollow the instructions in the issue to introduce yourself.\n\n\n\n\n\n−+\n10:00"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#section-1",
+    "href": "slides/lec-01-welcome.html#section-1",
     "title": "Welcome & get ready for the workshop",
     "section": "-",
     "text": "-"
   },
   {
-    "objectID": "slides/lec-01-welcome.html#section-9",
-    "href": "slides/lec-01-welcome.html#section-9",
+    "objectID": "slides/lec-01-welcome.html#section-2",
+    "href": "slides/lec-01-welcome.html#section-2",
     "title": "Welcome & get ready for the workshop",
     "section": "-",
     "text": "-"
   },
   {
-    "objectID": "slides/lec-01-welcome.html#section-10",
-    "href": "slides/lec-01-welcome.html#section-10",
+    "objectID": "slides/lec-01-welcome.html#section-3",
+    "href": "slides/lec-01-welcome.html#section-3",
     "title": "Welcome & get ready for the workshop",
     "section": "-",
     "text": "-"
   },
   {
-    "objectID": "slides/lec-01-welcome.html#section-11",
-    "href": "slides/lec-01-welcome.html#section-11",
+    "objectID": "slides/lec-01-welcome.html#section-4",
+    "href": "slides/lec-01-welcome.html#section-4",
     "title": "Welcome & get ready for the workshop",
     "section": "-",
     "text": "-"
   },
   {
-    "objectID": "slides/lec-01-welcome.html#section-12",
-    "href": "slides/lec-01-welcome.html#section-12",
+    "objectID": "slides/lec-01-welcome.html#section-5",
+    "href": "slides/lec-01-welcome.html#section-5",
     "title": "Welcome & get ready for the workshop",
     "section": "-",
     "text": "-"
   },
   {
-    "objectID": "slides/lec-01-welcome.html#section-13",
-    "href": "slides/lec-01-welcome.html#section-13",
+    "objectID": "slides/lec-01-welcome.html#section-6",
+    "href": "slides/lec-01-welcome.html#section-6",
     "title": "Welcome & get ready for the workshop",
     "section": "-",
     "text": "-"
   },
   {
-    "objectID": "slides/lec-01-welcome.html#section-14",
-    "href": "slides/lec-01-welcome.html#section-14",
+    "objectID": "slides/lec-01-welcome.html#section-7",
+    "href": "slides/lec-01-welcome.html#section-7",
     "title": "Welcome & get ready for the workshop",
     "section": "-",
     "text": "-"
@@ -453,25 +539,32 @@
     "text": "Your turn: Log into Posit Cloud with GitHub account\n\nNavigate to the course website: fairdatapub-washcentre.github.io/website/\nIn the left-hand menu, click on Module 1, then select am-02: Posit Cloud\nFollow the instructions\nPlace a yellow sticky note on your laptop when you have completed the assignment\n\n\n\n\n\n\n\nGitHub Authorisation\n\n\n\nIf this is your first time logging in to Posit Cloud with your GitHub account, you will be prompted to authorize Posit Cloud to access your GitHub account information.\nOnce you have authorized access, you will be redirected back to the Posit Cloud website and logged in to your account.\n\n\n\n\n\n\n\n−+\n05:00"
   },
   {
-    "objectID": "slides/lec-01-welcome.html#take-a-break",
-    "href": "slides/lec-01-welcome.html#take-a-break",
-    "title": "Welcome & get ready for the workshop",
-    "section": "Take a break",
-    "text": "Take a break\nPlease get up and move! Let your emails rest in peace.\n\n\n\n\n−+\n10:00\n\n\n\n\nImage generated with DALL-E 3 by OpenAI"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#your-turn-md-01-exercises",
-    "href": "slides/lec-01-welcome.html#your-turn-md-01-exercises",
-    "title": "Welcome & get ready for the workshop",
-    "section": "Your turn: md-01-exercises",
-    "text": "Your turn: md-01-exercises\n\n\nOpen posit.cloud in your browser (use your bookmark).\nOpen the rbt-fs24 workspace for the course.\nClick Start next to md-01-exercises.\nIn the File Manager in the bottom right window, locate the hello-quarto.qmd file and click on it to open it in the top left window.\nRender the document.\nAdd your name to the author: key in the YAML header\nRender the document\nInspect components of the document and make one more update and re-render.\nDiscuss notes about updates you’ve made with your neighbor. Note any aspects of the document that are not clear after the tour and your first interaction with it."
-  },
-  {
     "objectID": "slides/lec-01-welcome.html#take-a-break-1",
     "href": "slides/lec-01-welcome.html#take-a-break-1",
     "title": "Welcome & get ready for the workshop",
     "section": "Take a break",
     "text": "Take a break\nPlease get up and move! Let your emails rest in peace.\n\n\n\n\n−+\n05:00\n\n\n\n\nImage generated with DALL-E 3 by OpenAI"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#your-turn-set-up-a-github-personal-access-token",
+    "href": "slides/lec-01-welcome.html#your-turn-set-up-a-github-personal-access-token",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Your turn: Set up a GitHub Personal Access Token",
+    "text": "Your turn: Set up a GitHub Personal Access Token\n\nNavigate to the course website: fairdatapub-washcentre.github.io/website/\nIn the left-hand menu, click on Module 1, then select am-03: GitHub PAT\nFollow the instructions\nPlace a yellow sticky note on your laptop when you have completed the assignment\n\n\n\n\n−+\n05:00"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#my-turn-interaction-with-git-github",
+    "href": "slides/lec-01-welcome.html#my-turn-interaction-with-git-github",
+    "title": "Welcome & get ready for the workshop",
+    "section": "My turn: Interaction with Git & GitHub",
+    "text": "My turn: Interaction with Git & GitHub\n\n\nWatch and enjoy!\n\n\n\n\n−+\n10:00"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#your-turn-interaction-with-git-github",
+    "href": "slides/lec-01-welcome.html#your-turn-interaction-with-git-github",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Your turn: Interaction with Git & GitHub",
+    "text": "Your turn: Interaction with Git & GitHub\n\nNavigate to the course website: fairdatapub-washcentre.github.io/website/\nIn the left-hand menu, click on Module 1, then select am-04: Git configuration\nFollow the instructions\nPlace a yellow sticky note on your laptop when you have completed the assignment\n\n\n\n\n−+\n20:00"
   },
   {
     "objectID": "slides/lec-01-welcome.html#module-1-documentation",
@@ -532,6 +625,61 @@
     ]
   },
   {
+    "objectID": "assignments/md-03/am-03-01-spreadsheet.html",
+    "href": "assignments/md-03/am-03-01-spreadsheet.html",
+    "title": "Create a spreadsheet",
+    "section": "",
+    "text": "Read Broman and Woo (2018): “Data organization in spreadsheets”.",
+    "crumbs": [
+      "Module 03",
+      "am-01: Data Organization"
+    ]
+  },
+  {
+    "objectID": "assignments/md-03/am-03-01-spreadsheet.html#step-1-read-data-organization-in-spreadsheets",
+    "href": "assignments/md-03/am-03-01-spreadsheet.html#step-1-read-data-organization-in-spreadsheets",
+    "title": "Create a spreadsheet",
+    "section": "",
+    "text": "Read Broman and Woo (2018): “Data organization in spreadsheets”.",
+    "crumbs": [
+      "Module 03",
+      "am-01: Data Organization"
+    ]
+  },
+  {
+    "objectID": "assignments/md-03/am-03-01-spreadsheet.html#step-2-make-a-spreadsheet-and-save-it",
+    "href": "assignments/md-03/am-03-01-spreadsheet.html#step-2-make-a-spreadsheet-and-save-it",
+    "title": "Create a spreadsheet",
+    "section": "Step 2: Make a spreadsheet and save it",
+    "text": "Step 2: Make a spreadsheet and save it\nLayout a spreadsheet for data collection using a spreadsheet-based software (Google Sheets or MS Excel).\nYou are taking 20 samples of 1 liter faecal sludge from pit latrines and septic tanks at households and public toilets (5 samples each). For each sample, you note the number of daily users of the sanitation system.\nYour sample collection starts on 1st November 2022. On day 5, you analyse the data in the laboratory for totals solids (TS) in g/L. In your spreadsheet, note the exact date of each collected sample.\nThis is you data collection plan:\n\nDay 1: 5 samples at households using pit latrines\nDay 2: 5 samples at households using septic tanks\nDay 3: 5 samples at public toilets that are pit latrines\nDay 4: 5 samples at public toilets that are septic tanks\nDay 5: Analyses of all 20 samples for total solids (TS) in g/L on a lab scale with accuracy of 0.01 g\n\nMake up the resultsfor the total solids (TS) analyses (e.g. 12.48 g/L).\nSave the spreadsheet as XLSX with a file name of your choice.",
+    "crumbs": [
+      "Module 03",
+      "am-01: Data Organization"
+    ]
+  },
+  {
+    "objectID": "assignments/md-03/am-03-01-spreadsheet.html#step-3-upload-the-spreadsheet-to-repository",
+    "href": "assignments/md-03/am-03-01-spreadsheet.html#step-3-upload-the-spreadsheet-to-repository",
+    "title": "Create a spreadsheet",
+    "section": "Step 3: Upload the spreadsheet to repository",
+    "text": "Step 3: Upload the spreadsheet to repository\n\nUpload this spreadsheet as a CSV to the data-raw folder of your repository that was created for the data package.",
+    "crumbs": [
+      "Module 03",
+      "am-01: Data Organization"
+    ]
+  },
+  {
+    "objectID": "assignments/md-03/am-03-01-spreadsheet.html#step-4-open-an-issue-in-your-repository",
+    "href": "assignments/md-03/am-03-01-spreadsheet.html#step-4-open-an-issue-in-your-repository",
+    "title": "Create a spreadsheet",
+    "section": "Step 4: Open an issue in your repository",
+    "text": "Step 4: Open an issue in your repository\n\nOpen an issue in your data repository with the title “Created a spreadsheet for data” and tag me @larnsce.",
+    "crumbs": [
+      "Module 03",
+      "am-01: Data Organization"
+    ]
+  },
+  {
     "objectID": "assignments/md-01/am-01-2-posit.html",
     "href": "assignments/md-01/am-01-2-posit.html",
     "title": "Working with R, RStudio on Posit Cloud",
@@ -547,7 +695,7 @@
     "href": "assignments/md-01/am-01-4-github.html",
     "title": "Interaction with GitHub",
     "section": "",
-    "text": "Open github.com in your browser.\nNavigate to the GitHub organisation for the course.\nFind the repository git-configuration-USERNAME that ends with your GitHub username, and open it.\nClick on the green “Code” button.\nCopy the HTTPS URL to your clipboard.\nOpen the fairdatapub-washcentre workspace on posit.cloud: https://posit.cloud/spaces/588816/content/all?sort=name_asc\nClick New Project &gt; New Project from Git Repository.\nPaste the HTTPS URL from GitHub into the “URL of your Git Repository” field.\nWait until the project is deployed.\nContinue with the next step.",
+    "text": "Open github.com in your browser.\nNavigate to the GitHub organisation for the course.\nFind the repository git-configuration-USERNAME that ends with your GitHub username, and open it.\nClick on the green “Code” button.\nCopy the HTTPS URL to your clipboard.\nOpen the fairdatapub-washcentre workspace on posit.cloud: https://posit.cloud/spaces/588816/content/all?sort=name_asc\nClick “New Project &gt; New Project from Git Repository”.\nPaste the HTTPS URL from GitHub into the “URL of your Git Repository” field.\nWait until the project is deployed.\nContinue with the next step.",
     "crumbs": [
       "Module 01",
       "am-04: Git configuration"
@@ -558,7 +706,7 @@
     "href": "assignments/md-01/am-01-4-github.html#step-1-clone-a-repository",
     "title": "Interaction with GitHub",
     "section": "",
-    "text": "Open github.com in your browser.\nNavigate to the GitHub organisation for the course.\nFind the repository git-configuration-USERNAME that ends with your GitHub username, and open it.\nClick on the green “Code” button.\nCopy the HTTPS URL to your clipboard.\nOpen the fairdatapub-washcentre workspace on posit.cloud: https://posit.cloud/spaces/588816/content/all?sort=name_asc\nClick New Project &gt; New Project from Git Repository.\nPaste the HTTPS URL from GitHub into the “URL of your Git Repository” field.\nWait until the project is deployed.\nContinue with the next step.",
+    "text": "Open github.com in your browser.\nNavigate to the GitHub organisation for the course.\nFind the repository git-configuration-USERNAME that ends with your GitHub username, and open it.\nClick on the green “Code” button.\nCopy the HTTPS URL to your clipboard.\nOpen the fairdatapub-washcentre workspace on posit.cloud: https://posit.cloud/spaces/588816/content/all?sort=name_asc\nClick “New Project &gt; New Project from Git Repository”.\nPaste the HTTPS URL from GitHub into the “URL of your Git Repository” field.\nWait until the project is deployed.\nContinue with the next step.",
     "crumbs": [
       "Module 01",
       "am-04: Git configuration"
@@ -591,7 +739,7 @@
     "href": "assignments/md-01/am-01-4-github.html#step-4-open-an-issue-on-github",
     "title": "Interaction with GitHub",
     "section": "Step 4: Open an issue on GitHub",
-    "text": "Step 4: Open an issue on GitHub\n\nOpen github.com in your browser.\nNavigate to the GitHub organisation for the course: https://github.com/fairdatapub-washcentre\nFind the repository git-configuration that ends with your GitHub username.\nClick on the “Issues” tab.\nClick on the green “New issue” button.\nIn the “Title” field write: “Completed git configuration assignments”.\nIn the “Leave a comment” field, tag the course instructor @larnsce.",
+    "text": "Step 4: Open an issue on GitHub\n\nOpen github.com in your browser.\nNavigate to the GitHub organisation for the course: https://github.com/fairdatapub-washcentre\nFind the repository git-configuration-USERNAME that ends with your GitHub username, and open it.\nClick on the “Issues” tab.\nClick on the green “New issue” button.\nIn the “Title” field write: “Completed git configuration assignments”.\nIn the “Leave a comment” field, tag the course instructor @larnsce.",
     "crumbs": [
       "Module 01",
       "am-04: Git configuration"
@@ -608,21 +756,21 @@
     ]
   },
   {
-    "objectID": "index.html#what-is-this-workshop-all-about",
-    "href": "index.html#what-is-this-workshop-all-about",
+    "objectID": "index.html#what-is-this-about",
+    "href": "index.html#what-is-this-about",
     "title": "FAIR Data Publishing - Workshop",
-    "section": " What is this workshop all about?",
-    "text": "What is this workshop all about?\nThis workshop is designed to provide you with an introduction to the principles of FAIR data publishing. It draws from experiences and workflows established by the Global Health Engineering group at ETH Zurich and through their work on the openwashdata community.",
+    "section": " What is this about?",
+    "text": "What is this about?\nThis workshop is designed to provide you with an introduction to the principles of FAIR data publishing. It draws from experiences and workflows established by the Global Health Engineering group at ETH Zurich and through their work on the openwashdata community.",
     "crumbs": [
       "Course Overview"
     ]
   },
   {
-    "objectID": "index.html#opening",
-    "href": "index.html#opening",
+    "objectID": "index.html#a-model-for-data-stewardship",
+    "href": "index.html#a-model-for-data-stewardship",
     "title": "FAIR Data Publishing - Workshop",
-    "section": " Opening",
-    "text": "Opening\nThe workshop will open with a 30-minute talk to set the scene and allow participants to get impression of the bigger picture.\nView slides in full screen | Download slides as PDF",
+    "section": " A model for data stewardship",
+    "text": "A model for data stewardship\nThe workshop will open with a 30-minute talk to set the scene and allow participants to get impression of the bigger picture of data stewarship.\nView slides in full screen | Download slides as PDF",
     "crumbs": [
       "Course Overview"
     ]
@@ -691,11 +839,25 @@
     "text": "Documenting the data\n\n\n\nCreate roxygen skeletons\nCreate README\nCodebook describing each variable\nWebsite with pkgdown R package1\nAdd a license and author(s)\n\n\n\n\nSee https://pkgdown.r-lib.org/"
   },
   {
-    "objectID": "slides/lec-02-washr.html#publishing-the-data",
-    "href": "slides/lec-02-washr.html#publishing-the-data",
+    "objectID": "slides/lec-02-washr.html#data-publishing-guide",
+    "href": "slides/lec-02-washr.html#data-publishing-guide",
     "title": "washr an R-package to facilitate FAIR data publishing",
-    "section": "Publishing the data",
-    "text": "Publishing the data\n\n\n\nwashinvestments"
+    "section": "Data Publishing Guide",
+    "text": "Data Publishing Guide\n\nglobal-health-engineering.github.io/ghedatapublishing/"
+  },
+  {
+    "objectID": "slides/lec-02-washr.html#your-turn-bookmark-the-guide",
+    "href": "slides/lec-02-washr.html#your-turn-bookmark-the-guide",
+    "title": "washr an R-package to facilitate FAIR data publishing",
+    "section": "Your turn: Bookmark the guide",
+    "text": "Your turn: Bookmark the guide\n\nNavigate to the Data Publishing Guide website: global-health-engineering.github.io/ghedatapublishing/\nBookmark the page and add it to your bookmarks folder.\n\n\n\n\n−+\n05:00"
+  },
+  {
+    "objectID": "slides/lec-02-washr.html#module-2-documentation",
+    "href": "slides/lec-02-washr.html#module-2-documentation",
+    "title": "washr an R-package to facilitate FAIR data publishing",
+    "section": "Module 2 documentation",
+    "text": "Module 2 documentation\n\nfairdatapub-washcentre.github.io/website/modules/md-02.html"
   },
   {
     "objectID": "slides/lec-02-washr.html#links-and-downloads",
@@ -703,6 +865,13 @@
     "title": "washr an R-package to facilitate FAIR data publishing",
     "section": "Links and Downloads",
     "text": "Links and Downloads\n\n\nwashr source code: https://github.com/openwashdata/washr\nwashr guide: https://global-health-engineering.github.io/ghedatapublishing\nopenwashdata: https://openwashdata.org\nDownload slides as PDF on GitHub\n\n\n\nThis material is licensed under Creative Commons Attribution Share Alike 4.0 International."
+  },
+  {
+    "objectID": "slides/lec-02-washr.html#take-a-break",
+    "href": "slides/lec-02-washr.html#take-a-break",
+    "title": "washr an R-package to facilitate FAIR data publishing",
+    "section": "Take a break",
+    "text": "Take a break\nEnjoy your lunch! Let your emails rest in peace.\n\n\n\n\n−+\n45:00\n\n\n\n\nImage generated with DALL-E 3 by OpenAI"
   },
   {
     "objectID": "slides/lec-02-washr.html#sign-up-for-the-openwashdata-newsletter",
@@ -719,185 +888,236 @@
     "text": "References\n\n\n\n fairdatapub-washcentre.github.io/website/\n\n\n\n\nGreene, Nicola, Sarah Hennessy, Tate W. Rogers, Jocelyn Tsai, Francis L. de los Reyes III, and Lars Schöbitz. 2023. “Fsmglobal. Global Faecal Sludge Emptying Services Demand.” https://doi.org/10.5281/zenodo.8208293.\n\n\nWilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. 2016. “The FAIR Guiding Principles for Scientific Data Management and Stewardship.” Scientific Data 3 (1). https://doi.org/10.1038/sdata.2016.18."
   },
   {
-    "objectID": "code_of_conduct.html",
-    "href": "code_of_conduct.html",
-    "title": "Contributor Covenant Code of Conduct",
-    "section": "",
-    "text": "We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.\n\n\n\nExamples of behavior that contributes to a positive environment for our community include:\n\nDemonstrating empathy and kindness toward other people\nBeing respectful of differing opinions, viewpoints, and experiences\nGiving and gracefully accepting constructive feedback\nAccepting responsibility and apologizing to those affected by our mistakes, and learning from the experience\nFocusing on what is best not just for us as individuals, but for the overall community\n\nExamples of unacceptable behavior include:\n\nThe use of sexualized language or imagery, and sexual attention or advances of any kind\nTrolling, insulting or derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information, such as a physical or email address, without their explicit permission\nOther conduct which could reasonably be considered inappropriate in a professional setting\n\n\n\n\nCommunity leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.\nCommunity leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.\n\n\n\nThis Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.\n\n\n\nInstances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at ghe@mavt.ethz.ch. All complaints will be reviewed and investigated promptly and fairly.\nAll community leaders are obligated to respect the privacy and security of the reporter of any incident.\n\n\n\nCommunity leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:\n\n\nCommunity Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.\nConsequence: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.\n\n\n\nCommunity Impact: A violation through a single incident or series of actions.\nConsequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.\n\n\n\nCommunity Impact: A serious violation of community standards, including sustained inappropriate behavior.\nConsequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.\n\n\n\nCommunity Impact: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.\nConsequence: A permanent ban from any sort of public interaction within the community.\n\n\n\n\nThis Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.\nFor answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations."
+    "objectID": "slides/lec-03-work.html#hands-up",
+    "href": "slides/lec-03-work.html#hands-up",
+    "title": "Use washr to publish your data",
+    "section": " hands up ",
+    "text": "hands up \n\nWho brought data?"
   },
   {
-    "objectID": "code_of_conduct.html#our-pledge",
-    "href": "code_of_conduct.html#our-pledge",
-    "title": "Contributor Covenant Code of Conduct",
-    "section": "",
-    "text": "We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.\nWe pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community."
+    "objectID": "slides/lec-03-work.html#hands-up-1",
+    "href": "slides/lec-03-work.html#hands-up-1",
+    "title": "Use washr to publish your data",
+    "section": " hands up ",
+    "text": "hands up \n\nWho has got “A one line description of the data”?"
   },
   {
-    "objectID": "code_of_conduct.html#our-standards",
-    "href": "code_of_conduct.html#our-standards",
-    "title": "Contributor Covenant Code of Conduct",
-    "section": "",
-    "text": "Examples of behavior that contributes to a positive environment for our community include:\n\nDemonstrating empathy and kindness toward other people\nBeing respectful of differing opinions, viewpoints, and experiences\nGiving and gracefully accepting constructive feedback\nAccepting responsibility and apologizing to those affected by our mistakes, and learning from the experience\nFocusing on what is best not just for us as individuals, but for the overall community\n\nExamples of unacceptable behavior include:\n\nThe use of sexualized language or imagery, and sexual attention or advances of any kind\nTrolling, insulting or derogatory comments, and personal or political attacks\nPublic or private harassment\nPublishing others’ private information, such as a physical or email address, without their explicit permission\nOther conduct which could reasonably be considered inappropriate in a professional setting"
+    "objectID": "slides/lec-03-work.html#hands-up-2",
+    "href": "slides/lec-03-work.html#hands-up-2",
+    "title": "Use washr to publish your data",
+    "section": " hands up ",
+    "text": "hands up \n\nWho has got “A one paragraph, three sentence description of the data”?"
   },
   {
-    "objectID": "code_of_conduct.html#enforcement-responsibilities",
-    "href": "code_of_conduct.html#enforcement-responsibilities",
-    "title": "Contributor Covenant Code of Conduct",
-    "section": "",
-    "text": "Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.\nCommunity leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate."
+    "objectID": "slides/lec-03-work.html#hands-up-3",
+    "href": "slides/lec-03-work.html#hands-up-3",
+    "title": "Use washr to publish your data",
+    "section": " hands up ",
+    "text": "hands up \n\nWho has got a “Data dictionary, stored as dictionary.xlsx. Two columns, describing each variable in the dataset you come with.”"
   },
   {
-    "objectID": "code_of_conduct.html#scope",
-    "href": "code_of_conduct.html#scope",
-    "title": "Contributor Covenant Code of Conduct",
-    "section": "",
-    "text": "This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event."
+    "objectID": "slides/lec-03-work.html#metadata-data-about-data",
+    "href": "slides/lec-03-work.html#metadata-data-about-data",
+    "title": "Use washr to publish your data",
+    "section": "Metadata: data about data",
+    "text": "Metadata: data about data\nWHAT!?"
   },
   {
-    "objectID": "code_of_conduct.html#enforcement",
-    "href": "code_of_conduct.html#enforcement",
-    "title": "Contributor Covenant Code of Conduct",
-    "section": "",
-    "text": "Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at ghe@mavt.ethz.ch. All complaints will be reviewed and investigated promptly and fairly.\nAll community leaders are obligated to respect the privacy and security of the reporter of any incident."
+    "objectID": "slides/lec-03-work.html#faecal-sludge-samples",
+    "href": "slides/lec-03-work.html#faecal-sludge-samples",
+    "title": "Use washr to publish your data",
+    "section": "Faecal sludge samples",
+    "text": "Faecal sludge samples\nImagine:\n\nyou are new to WASH research and you have never heard of feacal sludge management.\nyou are interested in learning more about the topic and you want to find some data to play with.\nyou find a publication with a dataset on faecal sludge characteristics."
   },
   {
-    "objectID": "code_of_conduct.html#enforcement-guidelines",
-    "href": "code_of_conduct.html#enforcement-guidelines",
-    "title": "Contributor Covenant Code of Conduct",
-    "section": "",
-    "text": "Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:\n\n\nCommunity Impact: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.\nConsequence: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.\n\n\n\nCommunity Impact: A violation through a single incident or series of actions.\nConsequence: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.\n\n\n\nCommunity Impact: A serious violation of community standards, including sustained inappropriate behavior.\nConsequence: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.\n\n\n\nCommunity Impact: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.\nConsequence: A permanent ban from any sort of public interaction within the community."
+    "objectID": "slides/lec-03-work.html#faecal-sludge-samples-1",
+    "href": "slides/lec-03-work.html#faecal-sludge-samples-1",
+    "title": "Use washr to publish your data",
+    "section": "Faecal sludge samples",
+    "text": "Faecal sludge samples\nYou download the XLSX file that contains the data and you open it in Excel. You see the following:"
   },
   {
-    "objectID": "code_of_conduct.html#attribution",
-    "href": "code_of_conduct.html#attribution",
-    "title": "Contributor Covenant Code of Conduct",
+    "objectID": "slides/lec-03-work.html#faecal-sludge-samples-2",
+    "href": "slides/lec-03-work.html#faecal-sludge-samples-2",
+    "title": "Use washr to publish your data",
+    "section": "Faecal sludge samples",
+    "text": "Faecal sludge samples\n\n\nOpen questions:\n\nWhat unit does users refer to?\nWhat does ts stand for?\nThe date of what?\nWhere was this data collected?\nWhich method was used to collect the samples?\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuestions that only the original author may have the answers to."
+  },
+  {
+    "objectID": "slides/lec-03-work.html#you-as-an-author",
+    "href": "slides/lec-03-work.html#you-as-an-author",
+    "title": "Use washr to publish your data",
+    "section": "You as an author",
+    "text": "You as an author\nhave the chance to document your data properly once to make it easier for everyone else to know what it contains."
+  },
+  {
+    "objectID": "slides/lec-03-work.html#documentation",
+    "href": "slides/lec-03-work.html#documentation",
+    "title": "Use washr to publish your data",
+    "section": "Documentation",
+    "text": "Documentation\nGoes into a separate README file\n\nGeneral information (authors, title, date, geographic location, etc.)\nSharing / access information (license, links to publications, citation)\nMethodological information (sampling, analysis, etc.)"
+  },
+  {
+    "objectID": "slides/lec-03-work.html#data-dictionary",
+    "href": "slides/lec-03-work.html#data-dictionary",
+    "title": "Use washr to publish your data",
+    "section": "Data dictionary",
+    "text": "Data dictionary\nGoes into a separate file (dictionary.csv).\nMinimum required information\n\nVariable name\nVariable description"
+  },
+  {
+    "objectID": "slides/lec-03-work.html#data-dictionary-for-faecal-sludge-samples",
+    "href": "slides/lec-03-work.html#data-dictionary-for-faecal-sludge-samples",
+    "title": "Use washr to publish your data",
+    "section": "Data dictionary for faecal sludge samples",
+    "text": "Data dictionary for faecal sludge samples\n\nEdit in spreadsheet software (e.g. MS Excel)"
+  },
+  {
+    "objectID": "slides/lec-03-work.html#data-dictionary-for-faecal-sludge-samples-1",
+    "href": "slides/lec-03-work.html#data-dictionary-for-faecal-sludge-samples-1",
+    "title": "Use washr to publish your data",
+    "section": "Data dictionary for faecal sludge samples",
+    "text": "Data dictionary for faecal sludge samples\n\nSave as CSV file"
+  },
+  {
+    "objectID": "slides/lec-03-work.html#directory-tree-of-an-r-data-package",
+    "href": "slides/lec-03-work.html#directory-tree-of-an-r-data-package",
+    "title": "Use washr to publish your data",
+    "section": "Directory tree of an R data package",
+    "text": "Directory tree of an R data package\nCapstone project of Rainbow Train: https://github.com/openwashdata/washopenresearch\n.\n├── CITATION.cff\n├── DESCRIPTION\n├── LICENSE.md\n├── NAMESPACE\n├── R\n├── README.Rmd\n├── README.md\n├── _pkgdown.yml\n├── data\n├── data-raw\n├── docs\n├── inst\n├── man\n├── vignettes\n└── washopenresearch.Rproj"
+  },
+  {
+    "objectID": "slides/lec-03-work.html#directory-tree-of-an-r-data-package-1",
+    "href": "slides/lec-03-work.html#directory-tree-of-an-r-data-package-1",
+    "title": "Use washr to publish your data",
+    "section": "Directory tree of an R data package",
+    "text": "Directory tree of an R data package\n\nR folder: R scripts with documentation of data resources\ndata-raw folder: raw data, contains data_processing.R script to prepare processed, analysis-ready data\ndata folder: documented analysis-ready data in R-internal .rda format\nREADME.Rmd: R data package documentation, displayed on GitHub and website landing page"
+  },
+  {
+    "objectID": "slides/lec-03-work.html#inside-the-data-raw-folder",
+    "href": "slides/lec-03-work.html#inside-the-data-raw-folder",
+    "title": "Use washr to publish your data",
+    "section": "Inside the data-raw folder",
+    "text": "Inside the data-raw folder\n\n\ndata-raw/\n├── data_processing.R\n├── dictionary.csv\n├── unc-article-url-manual-collection.csv\n└── washdev.csv\n\n\nunc-article-url-manual-collection.csv: one raw data resource\nwashdev.csv: another raw data resource\ndata_processing.R: where the work happens\ndictionary.csv: data dictionary describing the variables in the processed, analysis-ready data"
+  },
+  {
+    "objectID": "slides/lec-03-work.html#my-turn-a-tour-of-washopenresearch",
+    "href": "slides/lec-03-work.html#my-turn-a-tour-of-washopenresearch",
+    "title": "Use washr to publish your data",
+    "section": "My turn: A tour of washopenresearch",
+    "text": "My turn: A tour of washopenresearch\n\n\nSit back and enjoy!\n\n\n\n\n−+\n05:00"
+  },
+  {
+    "objectID": "slides/lec-03-work.html#your-turn-create-a-github-repository-for-your-data",
+    "href": "slides/lec-03-work.html#your-turn-create-a-github-repository-for-your-data",
+    "title": "Use washr to publish your data",
+    "section": "Your turn: Create a GitHub repository for your data",
+    "text": "Your turn: Create a GitHub repository for your data\n\nNavigate to the GitHub organisation for this course: github.com/fairdatapub-washcentre/\nClick on the green “New” button to create a new repository.\nChose a name for your repository (all small letters, no spaces or dashes)\nMake the repository public.\nKeep everything else unchanged.\nClick on green “Create repository” button.\nKeep the tab open for the next steps.\n\n\n\n\n−+\n05:00"
+  },
+  {
+    "objectID": "slides/lec-03-work.html#our-turn-create-a-project-on-posit-cloud",
+    "href": "slides/lec-03-work.html#our-turn-create-a-project-on-posit-cloud",
+    "title": "Use washr to publish your data",
+    "section": "Our turn: Create a project on Posit Cloud",
+    "text": "Our turn: Create a project on Posit Cloud\n\nNavigate to the course workspace on posit.cloud/spaces/588816/content/.\nIf you haven’t yet, bookmark the page.\nFollow my instructions on the screen.\n\n\n\n\n−+\n30:00"
+  },
+  {
+    "objectID": "slides/lec-03-work.html#take-a-break",
+    "href": "slides/lec-03-work.html#take-a-break",
+    "title": "Use washr to publish your data",
+    "section": "Take a break",
+    "text": "Take a break\nEnjoy your lunch! Let your emails rest in peace.\n\n\n\n\n−+\n05:00\n\n\n\n\nImage generated with DALL-E 3 by OpenAI"
+  },
+  {
+    "objectID": "slides/lec-03-work.html#our-turn-work-through-data-publishing-guide",
+    "href": "slides/lec-03-work.html#our-turn-work-through-data-publishing-guide",
+    "title": "Use washr to publish your data",
+    "section": "Our turn: Work through Data Publishing Guide",
+    "text": "Our turn: Work through Data Publishing Guide\n\n\nFor the rest of the day we will work through the Data Publishing Guide"
+  },
+  {
+    "objectID": "slides/lec-03-work.html#your-turn-prepare-a-dataset-on-your-own",
+    "href": "slides/lec-03-work.html#your-turn-prepare-a-dataset-on-your-own",
+    "title": "Use washr to publish your data",
+    "section": "Your turn: Prepare a dataset on your own",
+    "text": "Your turn: Prepare a dataset on your own\n\nNavigate to the course website: fairdatapub-washcentre.github.io/website/\nIn the left-hand menu, click on Module 3, then select am-01: Data Organization\nFollow the instructions\nPlace a yellow sticky note on your laptop when you have completed the assignment\n\n\n\n\n−+\n60:00"
+  },
+  {
+    "objectID": "slides/lec-03-work.html#module-3-documentation",
+    "href": "slides/lec-03-work.html#module-3-documentation",
+    "title": "Use washr to publish your data",
+    "section": "Module 3 documentation",
+    "text": "Module 3 documentation\n\nfairdatapub-washcentre.github.io/website/modules/md-03.html"
+  },
+  {
+    "objectID": "slides/lec-03-work.html#participate-in-our-hackathon-tomorrow",
+    "href": "slides/lec-03-work.html#participate-in-our-hackathon-tomorrow",
+    "title": "Use washr to publish your data",
+    "section": "Participate in our hackathon tomorrow",
+    "text": "Participate in our hackathon tomorrow\n\nAll tools welcome\nWin up to 750 CHF (~ 850 USD)\nhttps://openwashdata.org/pages/events/2024-11-18-hackathon/\nRegistration is still open: https://forms.office.com/pages/responsepage.aspx?id=7KY0lmaio0WrFHTEIR_FgjqEYzwAXr5PiYenM5_ZB_lURTU2UklPOFgwS1M0WUNCV1c3N1VMWFNHVy4u&route=shorturl"
+  },
+  {
+    "objectID": "slides/lec-03-work.html#your-turn-sign-up-for-the-openwashdata-newsletter",
+    "href": "slides/lec-03-work.html#your-turn-sign-up-for-the-openwashdata-newsletter",
+    "title": "Use washr to publish your data",
+    "section": "Your turn: Sign up for the openwashdata newsletter!",
+    "text": "Your turn: Sign up for the openwashdata newsletter!\n\n\n\n\n−+\n05:00"
+  },
+  {
+    "objectID": "slides/lec-03-work.html#whats-next",
+    "href": "slides/lec-03-work.html#whats-next",
+    "title": "Use washr to publish your data",
+    "section": "What’s next?",
+    "text": "What’s next?\nHoliday break! I will be off from December 9th to January 15th.\n\n\nImage generated with DALL-E 3 by OpenAI"
+  },
+  {
+    "objectID": "slides/lec-03-work.html#whats-next-1",
+    "href": "slides/lec-03-work.html#whats-next-1",
+    "title": "Use washr to publish your data",
+    "section": "What’s next?",
+    "text": "What’s next?\nHappy New Year! I will be at UKZN on Thursday, 16th January. I will leave South Africa on Thursday, 13th February.\n\n\nImage generated with DALL-E 3 by OpenAI"
+  },
+  {
+    "objectID": "slides/lec-03-work.html#thanks",
+    "href": "slides/lec-03-work.html#thanks",
+    "title": "Use washr to publish your data",
+    "section": "Thanks! 🌻",
+    "text": "Thanks! 🌻\nSlides created via revealjs and Quarto: https://quarto.org/docs/presentations/revealjs/\nAccess slides as PDF on GitHub\nAll material is licensed under Creative Commons Attribution Share Alike 4.0 International.\n\n\n\n fairdatapub-washcentre.github.io/website/"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "This Code of Conduct is adapted from the Contributor Covenant, version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.\nCommunity Impact Guidelines were inspired by Mozilla’s code of conduct enforcement ladder.\nFor answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. Translations are available at https://www.contributor-covenant.org/translations."
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "modules/md-02.html",
     "href": "modules/md-02.html",
     "title": "Module 2",
     "section": "",
-    "text": "View slides in full screen | Download slides as PDF"
+    "text": "View slides in full screen | Download slides as PDF",
+    "crumbs": [
+      "Module 02"
+    ]
   },
   {
     "objectID": "modules/md-02.html#slides",
     "href": "modules/md-02.html#slides",
     "title": "Module 2",
     "section": "",
-    "text": "View slides in full screen | Download slides as PDF"
+    "text": "View slides in full screen | Download slides as PDF",
+    "crumbs": [
+      "Module 02"
+    ]
   },
   {
     "objectID": "modules/md-02.html#assignments",
     "href": "modules/md-02.html#assignments",
     "title": "Module 2",
     "section": " Assignments",
-    "text": "Assignments\nWe will work through the following assignments during the first module of the workshop.\n\nAssignment 1: Create a GitHub repository\nAssignment 2: Create a new Project with devtools\nAssignment 3\nAssignment 4"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#share-with-us",
-    "href": "slides/lec-01-welcome.html#share-with-us",
-    "title": "Welcome & get ready for the workshop",
-    "section": "Share with us",
-    "text": "Share with us\n\nTake 1 minute each to share with us:\nWhat does the item you have picked have to do with the reason for you being here?\n\n\n\n\n−+\n20:00"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#our-turn-open-and-bookmark-the-course-website",
-    "href": "slides/lec-01-welcome.html#our-turn-open-and-bookmark-the-course-website",
-    "title": "Welcome & get ready for the workshop",
-    "section": "Our turn: Open and bookmark the course website",
-    "text": "Our turn: Open and bookmark the course website\n\nOpen a web browser on your laptop.\nNavigate to the course website: fairdatapub-washcentre.github.io/website/\nCreate a bookmarks folder named fairdatapub-washcentre in your bookmarks toolbar\nAdd a bookmark of the course website to the folder fairdatapub-washcentre\n\n\n\n\n−+\n10:00"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#section",
-    "href": "slides/lec-01-welcome.html#section",
-    "title": "Welcome & get ready for the workshop",
-    "section": "",
-    "text": "Artwork from @juliesquid for @openscapes (illustrated by @allison_horst)"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#your-turn-create-an-issue-on-github",
-    "href": "slides/lec-01-welcome.html#your-turn-create-an-issue-on-github",
-    "title": "Welcome & get ready for the workshop",
-    "section": "Your turn: Create an issue on GitHub",
-    "text": "Your turn: Create an issue on GitHub\n\n\nNavigate to the GitHub organisation for this course: github.com/fairdatapub-washcentre/\nBookmark this page and add it to your bookmarks folder.\nExchange your GitHub username with your neighbour.\nFind and open the website repository.\nFind the issue tracker in the repository.\nOpen issue #1 Welcome to GitHub\nFollow the instructions in the issue to introduce yourself.\n\n\n\n\n\n−+\n10:00"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#section-1",
-    "href": "slides/lec-01-welcome.html#section-1",
-    "title": "Welcome & get ready for the workshop",
-    "section": "-",
-    "text": "-"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#section-2",
-    "href": "slides/lec-01-welcome.html#section-2",
-    "title": "Welcome & get ready for the workshop",
-    "section": "-",
-    "text": "-"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#section-3",
-    "href": "slides/lec-01-welcome.html#section-3",
-    "title": "Welcome & get ready for the workshop",
-    "section": "-",
-    "text": "-"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#section-4",
-    "href": "slides/lec-01-welcome.html#section-4",
-    "title": "Welcome & get ready for the workshop",
-    "section": "-",
-    "text": "-"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#section-5",
-    "href": "slides/lec-01-welcome.html#section-5",
-    "title": "Welcome & get ready for the workshop",
-    "section": "-",
-    "text": "-"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#section-6",
-    "href": "slides/lec-01-welcome.html#section-6",
-    "title": "Welcome & get ready for the workshop",
-    "section": "-",
-    "text": "-"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#your-turn-set-up-a-github-personal-access-token",
-    "href": "slides/lec-01-welcome.html#your-turn-set-up-a-github-personal-access-token",
-    "title": "Welcome & get ready for the workshop",
-    "section": "Your turn: Set up a GitHub Personal Access Token",
-    "text": "Your turn: Set up a GitHub Personal Access Token\n\nNavigate to the course website: fairdatapub-washcentre.github.io/website/\nIn the left-hand menu, click on Module 1, then select am-03: GitHub PAT\nFollow the instructions\nPlace a yellow sticky note on your laptop when you have completed the assignment\n\n\n\n\n−+\n05:00"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#my-turn-interaction-with-git-github",
-    "href": "slides/lec-01-welcome.html#my-turn-interaction-with-git-github",
-    "title": "Welcome & get ready for the workshop",
-    "section": "My turn: Interaction with Git & GitHub",
-    "text": "My turn: Interaction with Git & GitHub\n\n\nWatch and enjoy!\n\n\n\n\n−+\n10:00"
-  },
-  {
-    "objectID": "slides/lec-01-welcome.html#your-turn-interaction-with-git-github",
-    "href": "slides/lec-01-welcome.html#your-turn-interaction-with-git-github",
-    "title": "Welcome & get ready for the workshop",
-    "section": "Your turn: Interaction with Git & GitHub",
-    "text": "Your turn: Interaction with Git & GitHub\n\nNavigate to the course website: fairdatapub-washcentre.github.io/website/\nIn the left-hand menu, click on Module 1, then select am-04: Git configuration\nFollow the instructions\nPlace a yellow sticky note on your laptop when you have completed the assignment\n\n\n\n\n−+\n20:00"
-  },
-  {
-    "objectID": "slides/lec-02-washr.html#your-turn-bookmark-the-guide",
-    "href": "slides/lec-02-washr.html#your-turn-bookmark-the-guide",
-    "title": "washr an R-package to facilitate FAIR data publishing",
-    "section": "Your turn: Bookmark the guide",
-    "text": "Your turn: Bookmark the guide\n\nNavigate to the Data Publishing Guide website: global-health-engineering.github.io/ghedatapublishing/\nBookmark the page and add it to your bookmarks folder.\n\n\n\n\n−+\n05:00"
-  },
-  {
-    "objectID": "slides/lec-02-washr.html#take-a-break",
-    "href": "slides/lec-02-washr.html#take-a-break",
-    "title": "washr an R-package to facilitate FAIR data publishing",
-    "section": "Take a break",
-    "text": "Take a break\nEnjoy your lunch! Let your emails rest in peace.\n\n\n\n\n−+\n45:00\n\n\n\n\nImage generated with DALL-E 3 by OpenAI"
+    "text": "Assignments\nAll exercises and assigments are integrated into the lecture.",
+    "crumbs": [
+      "Module 02"
+    ]
   }
 ]

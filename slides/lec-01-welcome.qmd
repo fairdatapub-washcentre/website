@@ -35,6 +35,8 @@ While we are getting ready, please check for this email from GitHub and [accept 
 
 ![](img/lec-01/github-invitation.png)
 
+<script defer data-domain="fairdatapub-washcentre.github.io/website" src="https://plausible.io/js/script.js"></script>
+
 # Welcome! `r emo::ji("wave")` {background-color="#4C326A"}
 
 ## Learning Goals (for the course)  {visibility="hidden"}
@@ -276,7 +278,7 @@ countdown(10)
 
 ## - {background-image="img/lec-01/illustration-slides/illustration-slides.007.png"}
 
-## Your turn: Log into Posit Cloud with GitHub account
+## Your turn: Log into Posit Cloud with GitHub account {.smaller}
 
 1. Navigate to the course website: [fairdatapub-washcentre.github.io/website/](https://fairdatapub-washcentre.github.io/website/)
 2. In the left-hand menu, click on Module 1, then select [am-02: Posit Cloud]{.highlight-yellow}

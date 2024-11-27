@@ -1,0 +1,334 @@
+---
+title: "{{< var md-03.title >}}"
+subtitle: "{{< var course.long-title >}}"
+author: "Lars Schöbitz"
+date: "2024-11-28"
+date-format: "MMM D, YYYY"
+format: 
+  revealjs: 
+    theme: slides.scss
+    transition: fade
+    slide-number: true
+    chalkboard: true
+    link-external-icon: true
+    link-external-newwindow: true
+footer: "[{{< fa link >}} {{< var course.site-short >}}]({{< var course.site >}})"
+editor: source
+execute:
+  freeze: auto
+params:
+    module: 1
+editor_options: 
+  chunk_output_type: console
+bibliography: references.bib
+---
+
+```{r}
+library(countdown)
+```
+
+# Data {background-color="#4C326A"}
+
+<script defer data-domain="fairdatapub-washcentre.github.io/website" src="https://plausible.io/js/script.js"></script>
+
+## {{< fa hand >}} hands up {{< fa hand >}} {.center-align auto-animate="true"}
+
+::: {style="margin-top: 50px; font-size: 1.5em"}
+Who brought data? 
+:::
+
+## {{< fa hand >}} hands up {{< fa hand >}} {.center-align auto-animate="true"}
+
+::: {style="margin-top: 50px; font-size: 1.5em"}
+Who has got "A one line description of the data"?
+:::
+
+## {{< fa hand >}} hands up {{< fa hand >}} {.center-align auto-animate="true"}
+
+::: {style="margin-top: 50px; font-size: 1.5em"}
+Who has got "A one paragraph, three sentence description of the data"?
+:::
+
+## {{< fa hand >}} hands up {{< fa hand >}} {.center-align auto-animate="true"}
+
+::: {style="margin-top: 50px; font-size: 1.5em"}
+Who has got a "Data dictionary, stored as dictionary.xlsx. Two columns, describing each variable in the dataset you come with."
+:::
+
+# Metadata {background-color="#4C326A"}
+
+## Metadata: data about data
+
+WHAT!?
+
+## Faecal sludge samples
+
+Imagine:
+
+- you are new to WASH research and you have never heard of feacal sludge management. 
+- you are interested in learning more about the topic and you want to find some data to play with. 
+- you find a publication with a dataset on faecal sludge characteristics. 
+
+## Faecal sludge samples
+
+You download the XLSX file that contains the data and you open it in Excel. You see the following:
+
+```{r}
+knitr::include_graphics("img/lec-03/sludge-xlsx.png")
+```
+
+## Faecal sludge samples {.smaller}
+
+:::: {.columns}
+
+::: {.column width="40%"}
+Open questions:
+
+- What unit does `users` refer to?
+- What does `ts` stand for?
+- The `date` of what?
+- Where was this data collected?
+- Which method was used to collect the samples?
+:::
+
+
+::: {.column width="60%"}
+```{r}
+knitr::include_graphics("img/lec-03/sludge-xlsx.png")
+```
+:::
+
+::::
+
+. . .
+
+[Questions that only the original author may have the answers to.]{.highlight-yellow}
+
+## You as an author {.center-align}
+
+have the chance to document your data properly [once]{.highlight-yellow} to make it easier for [everyone else]{.highlight-yellow} to know what it contains.
+
+## Documentation {.smaller}
+
+Goes into a separate README file
+
+- [General information]{.highlight-yellow} (authors, title, date, geographic location, etc.)
+- [Sharing / access information]{.highlight-yellow} (license, links to publications, citation)
+- [Methodological information]{.highlight-yellow} (sampling, analysis, etc.)
+
+## Data dictionary
+
+Goes into a separate file (`dictionary.csv`).
+
+Minimum required information
+
+- Variable name
+- Variable description
+
+## Data dictionary for faecal sludge samples
+
+- Edit in spreadsheet software (e.g. MS Excel)
+
+```{r}
+knitr::include_graphics("img/lec-03/dictionary-xlsx.png")
+```
+
+## Data dictionary for faecal sludge samples
+
+- Save as CSV file
+
+```{r}
+knitr::include_graphics("img/lec-03/dictionary-csv.png")
+```
+
+## Directory tree of an R data package {.smaller}
+
+Capstone project of Rainbow Train:
+<https://github.com/openwashdata/washopenresearch>
+
+```
+.
+├── CITATION.cff
+├── DESCRIPTION
+├── LICENSE.md
+├── NAMESPACE
+├── R
+├── README.Rmd
+├── README.md
+├── _pkgdown.yml
+├── data
+├── data-raw
+├── docs
+├── inst
+├── man
+├── vignettes
+└── washopenresearch.Rproj
+```
+
+
+## Directory tree of an R data package 
+
+- `R` folder: R scripts with documentation of data resources
+- `data-raw` folder: raw data, contains `data_processing.R` script to prepare processed, analysis-ready data
+- `data` folder: documented analysis-ready data in R-internal `.rda` format
+- `README.Rmd`: R data package documentation, displayed on GitHub and website landing page
+
+## Inside the `data-raw` folder
+
+:::: {.columns}
+
+::: {.column width="50%"}
+```
+data-raw/
+├── data_processing.R
+├── dictionary.csv
+├── unc-article-url-manual-collection.csv
+└── washdev.csv
+```
+:::
+
+::: {.column width="50%"}
+- `unc-article-url-manual-collection.csv`: one raw data resource
+- `washdev.csv`: another raw data resource
+- `data_processing.R`: where the work happens
+- `dictionary.csv`: data dictionary describing the variables in the processed, analysis-ready data
+:::
+
+::::
+
+## My turn: A tour of washopenresearch
+
+<br><br>
+
+::: {.hand-purple-large style="text-align: center;"}
+Sit back and enjoy!
+:::
+
+```{r}
+countdown(5)
+```
+
+## Your turn: Create a GitHub repository for your data
+
+1. Navigate to the GitHub organisation for this course: [github.com/fairdatapub-washcentre/](https://github.com/fairdatapub-washcentre/)
+2. Click on the green "New" button to create a new repository.
+3. Chose a name for your repository [(all small letters, no spaces or dashes)]{.highlight-yellow .a}
+4. Make the repository public.
+5. Keep everything else unchanged.
+6. Click on green "Create repository" button.
+7. Keep the tab open for the next steps.
+
+```{r}
+#| echo: false
+
+countdown(minutes = 5)
+```
+
+## Our turn: Create a project on Posit Cloud
+
+1. Navigate to the course workspace on [posit.cloud/spaces/588816/content/](https://posit.cloud/spaces/588816/content/all?sort=name_asc).
+
+2. If you haven't yet, bookmark the page.
+
+3. Follow my instructions on the screen.
+
+```{r}
+#| echo: false
+
+countdown(minutes = 30)
+```
+
+## Take a break
+
+[Enjoy your lunch!]{.highlight-yellow} Let your emails rest in peace.
+
+![](img/lec-01/pixel-art-tree.png){width="50%" fig-alt="This is the prompt generated by DALL-E 3 by OpenAI: A pixel art scene representing the concept of taking a break. The scene shows a serene outdoor setting with a clear blue sky. In the center, a small pixelated character is sitting comfortably on a bright green grassy hill, under the shade of a large, leafy tree. The character is depicted in a relaxed pose, perhaps sipping a warm beverage from a small cup. Nearby, a gentle stream flows, and a few fluffy white clouds drift in the sky. The overall mood of the image is peaceful and calming, emphasizing the tranquility of taking a break in nature."}
+
+```{r}
+countdown(minutes = 5)
+```
+
+::: footer
+Image generated with [DALL-E 3 by OpenAI](https://openai.com/blog/dall-e/)
+:::
+
+## Our turn: Work through Data Publishing Guide
+
+<br><br>
+
+::: {.hand-purple-large style="text-align: center;"}
+For the rest of the day we will work through the Data Publishing Guide
+:::
+
+## Your turn: Prepare a dataset on your own
+
+1. Navigate to the course website: [fairdatapub-washcentre.github.io/website/](https://fairdatapub-washcentre.github.io/website/)
+
+2. In the left-hand menu, click on [Module 3, then select am-01: Data Organization]{.highlight-yellow}
+
+3. Follow the instructions
+
+4. Place a yellow sticky note on your laptop when you have completed the assignment
+
+```{r}
+#| echo: false
+
+countdown(minutes = 60)
+```
+
+## Module 3 documentation
+
+::: learn-more
+[fairdatapub-washcentre.github.io/website/modules/md-03.html](https://fairdatapub-washcentre.github.io/website/modules/md-03.html)
+
+```{=html}
+<iframe src="https://fairdatapub-washcentre.github.io/website/modules/md-03.html" width="100%" height="500" style="border:2px solid #123233;" title="Module 3 documentation"></iframe>
+```
+:::
+
+# Wrap-up {background-color="#4C326A"}
+
+## Participate in our hackathon tomorrow
+
+- All tools welcome
+- Win up to 750 CHF (~ 850 USD)
+- <https://openwashdata.org/pages/events/2024-11-18-hackathon/>
+- Registration is still open: <https://forms.office.com/pages/responsepage.aspx?id=7KY0lmaio0WrFHTEIR_FgjqEYzwAXr5PiYenM5_ZB_lURTU2UklPOFgwS1M0WUNCV1c3N1VMWFNHVy4u&route=shorturl>
+
+## Your turn: Sign up for the openwashdata newsletter!
+
+![](img/lec-02/qr-openwashdata.png){fig-align="center"}
+
+```{r}
+#| echo: false
+
+countdown(minutes = 5)
+```
+
+## What's next?
+
+[Holiday break!]{.highlight-yellow} I will be off from December 9th to January 15th. 
+
+![](img/lec-03/christmas-break.png){width="50%"}
+
+::: footer
+Image generated with [DALL-E 3 by OpenAI](https://openai.com/blog/dall-e/)
+:::
+
+## What's next?
+
+[Happy New Year!]{.highlight-yellow} I will be at UKZN on Thursday, 16th January. I will leave South Africa on Thursday, 13th February. 
+
+![](img/lec-03/new-year-coding.png){width="50%"}
+
+::: footer
+Image generated with [DALL-E 3 by OpenAI](https://openai.com/blog/dall-e/)
+:::
+
+## Thanks! `r emo::ji("sunflower")` 
+
+Slides created via revealjs and Quarto: https://quarto.org/docs/presentations/revealjs/ 
+
+Access slides as [PDF on GitHub](https://github.com/fairdatapub-washcentre/website/raw/main/slides/lec-03-work.pdf)
+
+All material is licensed under [Creative Commons Attribution Share Alike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).

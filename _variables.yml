@@ -17,3 +17,7 @@ md-01:
 md-02:
   title: "`washr` an R-package to facilitate FAIR data publishing"
   date: "2024-11-28"
+  
+md-03:
+  title: "Use `washr` to publish your data"
+  date: "2024-11-28"

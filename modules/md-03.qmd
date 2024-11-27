@@ -1,0 +1,27 @@
+---
+title: "Module 3"
+subtitle: "{{< var md-03.title >}}"
+editor: source
+params:
+    module: 3
+execute: 
+  echo: false
+  warning: false
+bibliography: references.bib
+editor_options: 
+  chunk_output_type: console
+---
+
+## {{< fa display >}} Slides
+
+[View slides in full screen](../slides/lec-03-work.html) | [Download slides as PDF](https://github.com/fairdatapub-washcentre/website/raw/main/slides/lec-03-work.pdf)
+
+```{=html}
+<iframe class="slide-deck" src="../slides/lec-03-work.html" height="420" width="747" style="border: 1px solid #123233;"></iframe>
+```
+
+## {{< fa code >}} Assignments
+
+Work through this assigment if you did not bring data or if the data you brought is too complex to process during the workshop.
+
+-   [Assignment 1](../assignments/md-03/am-03-01-spreadsheet.qmd): Data organisation in spreadsheets

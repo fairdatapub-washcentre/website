@@ -24,6 +24,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<link href="./img/OWD-logo-18.png" rel="icon" type="image/png">
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -80,12 +81,12 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-center sidebar-header">
-    <div class="sidebar-title mb-0 py-0">
-      <a href="./">FAIR Data Publishing - Workshop</a> 
-        <div class="sidebar-tools-main">
+      <a href="./index.html" class="sidebar-logo-link">
+      <img src="./img/OWD-logo-20.png" alt="" class="sidebar-logo py-0 d-lg-inline d-none">
+      </a>
+      <div class="sidebar-tools-main">
     <a href="https://github.com/fairdatapub-washcentre/" title="GitHub organization" class="quarto-navigation-tool px-1" aria-label="GitHub organization"><i class="bi bi-github"></i></a>
 </div>
-    </div>
       </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
@@ -136,6 +137,29 @@ ul.task-list li input[type="checkbox"] {
 </li>
       </ul>
   </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./modules/md-02.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Module 02</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a href="./modules/md-03.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Module 03</span></a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="false" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./assignments/md-03/am-03-01-spreadsheet.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">am-01: Data Organization</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
     </ul>
     </div>
 </nav>
@@ -146,8 +170,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#what-is-this-workshop-all-about" id="toc-what-is-this-workshop-all-about" class="nav-link active" data-scroll-target="#what-is-this-workshop-all-about"><i class="fa-solid fa-circle-question" aria-label="circle-question"></i> What is this workshop all about?</a></li>
-  <li><a href="#opening" id="toc-opening" class="nav-link" data-scroll-target="#opening"><i class="fa-solid fa-display" aria-label="display"></i> Opening</a></li>
+  <li><a href="#what-is-this-about" id="toc-what-is-this-about" class="nav-link active" data-scroll-target="#what-is-this-about"><i class="fa-solid fa-circle-question" aria-label="circle-question"></i> What is this about?</a></li>
+  <li><a href="#a-model-for-data-stewardship" id="toc-a-model-for-data-stewardship" class="nav-link" data-scroll-target="#a-model-for-data-stewardship"><i class="fa-solid fa-display" aria-label="display"></i> A model for data stewardship</a></li>
   </ul>
 </nav>
     </div>
@@ -180,13 +204,13 @@ ul.task-list li input[type="checkbox"] {
 <li>a laptop that can connect to Wifi</li>
 <li>a browser installation on your laptop</li>
 </ul>
-<section id="what-is-this-workshop-all-about" class="level2">
-<h2 class="anchored" data-anchor-id="what-is-this-workshop-all-about"><i class="fa-solid fa-circle-question" aria-label="circle-question"></i> What is this workshop all about?</h2>
+<section id="what-is-this-about" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-this-about"><i class="fa-solid fa-circle-question" aria-label="circle-question"></i> What is this about?</h2>
 <p>This workshop is designed to provide you with an introduction to the principles of FAIR data publishing. It draws from experiences and workflows established by the <a href="https://ghe.ethz.ch/">Global Health Engineering group at ETH Zurich</a> and through their work on the <a href="https://openwashdata.org/">openwashdata community</a>.</p>
 </section>
-<section id="opening" class="level2">
-<h2 class="anchored" data-anchor-id="opening"><i class="fa-solid fa-display" aria-label="display"></i> Opening</h2>
-<p>The workshop will open with a 30-minute talk to set the scene and allow participants to get impression of the bigger picture.</p>
+<section id="a-model-for-data-stewardship" class="level2">
+<h2 class="anchored" data-anchor-id="a-model-for-data-stewardship"><i class="fa-solid fa-display" aria-label="display"></i> A model for data stewardship</h2>
+<p>The workshop will open with a 30-minute talk to set the scene and allow participants to get impression of the bigger picture of data stewarship.</p>
 <p><a href="slides/lec-00-opening.html">View slides in full screen</a> | <a href="https://github.com/fairdatapub-washcentre/website/raw/main/slides/lec-00-opening.pdf">Download slides as PDF</a></p>
 <iframe class="slide-deck" src="slides/lec-00-opening.html" height="420" width="747" style="border: 1px solid #123233;"></iframe>
 
@@ -618,7 +642,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>This course is part of the <a href="https://openwashdata.org/">openwashdata project</a> supported by the <a href="https://ethrat.ch/en/eth-domain/open-research-data/">Open Research Data Program of the ETH Board</a></p>
+<p>This workshop is part of the <a href="https://openwashdata.org/">openwashdata project</a> supported by the <a href="https://ethrat.ch/en/eth-domain/open-research-data/">Open Research Data Program of the ETH Board</a></p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;
