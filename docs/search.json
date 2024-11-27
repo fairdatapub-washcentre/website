@@ -702,7 +702,7 @@
     "href": "slides/lec-02-washr.html#links-and-downloads",
     "title": "washr an R-package to facilitate FAIR data publishing",
     "section": "Links and Downloads",
-    "text": "Links and Downloads\n\n\nwashr source code: https://github.com/openwashdata-dev/washr\nwashr guide: https://global-health-engineering.github.io/ghedatapublishing\nopenwashdata: https://openwashdata.org\nGlobal Health Engineering: https://ghe.ethz.ch/\n\n\n\nThis material is licensed under Creative Commons Attribution Share Alike 4.0 International."
+    "text": "Links and Downloads\n\n\nwashr source code: https://github.com/openwashdata/washr\nwashr guide: https://global-health-engineering.github.io/ghedatapublishing\nopenwashdata: https://openwashdata.org\nDownload slides as PDF on GitHub\n\n\n\nThis material is licensed under Creative Commons Attribution Share Alike 4.0 International."
   },
   {
     "objectID": "slides/lec-02-washr.html#sign-up-for-the-openwashdata-newsletter",
@@ -885,5 +885,12 @@
     "title": "Welcome & get ready for the workshop",
     "section": "Your turn: Interaction with Git & GitHub",
     "text": "Your turn: Interaction with Git & GitHub\n\nNavigate to the course website: fairdatapub-washcentre.github.io/website/\nIn the left-hand menu, click on Module 1, then select am-04: Git configuration\nFollow the instructions\nPlace a yellow sticky note on your laptop when you have completed the assignment\n\n\n\n\n−+\n20:00"
+  },
+  {
+    "objectID": "slides/lec-02-washr.html#your-turn-bookmark-the-guide",
+    "href": "slides/lec-02-washr.html#your-turn-bookmark-the-guide",
+    "title": "washr an R-package to facilitate FAIR data publishing",
+    "section": "Your turn: Bookmark the guide",
+    "text": "Your turn: Bookmark the guide\n\nNavigate to the Data Publishing Guide website: global-health-engineering.github.io/ghedatapublishing/\nBookmark the page and add it to your bookmarks folder."
   }
 ]

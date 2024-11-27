@@ -347,15 +347,20 @@ Add numbers - Key question (next slide): How can we make the data publication pr
 
 [^2]: See <https://pkgdown.r-lib.org/>
 
-## Publishing the data
+# Data Publishing Guide
 
-<p style="margin-bottom: 6em;">
+::: learn-more
+[global-health-engineering.github.io/ghedatapublishing/](https://global-health-engineering.github.io/ghedatapublishing/)
 
-</p>
-
-::: {style="text-align: center;"}
-[washinvestments](https://openwashdata.github.io/washinvestments/index.html)
+```{=html}
+<iframe src="https://global-health-engineering.github.io/ghedatapublishing/" width="100%" height="500" style="border:2px solid #123233;" title="Data Publishing Guide"></iframe>
+```
 :::
+
+## Your turn: Bookmark the guide
+
+1. Navigate to the Data Publishing Guide website: [global-health-engineering.github.io/ghedatapublishing/](https://global-health-engineering.github.io/ghedatapublishing/)
+2. Bookmark the page and add it to your bookmarks folder.
 
 # Thanks! {background-color="#4C326A"}
 
@@ -365,13 +370,11 @@ Add numbers - Key question (next slide): How can we make the data publication pr
 
 </p>
 
-`washr` source code: <https://github.com/openwashdata-dev/washr>
+`washr` source code: <https://github.com/openwashdata/washr>
 
 `washr` guide: <https://global-health-engineering.github.io/ghedatapublishing>
 
 openwashdata: <https://openwashdata.org>
-
-Global Health Engineering: <https://ghe.ethz.ch/>
 
 Download slides as [PDF on GitHub](https://github.com/fairdatapub-washcentre/website/raw/main/slides/lec-01-welcome.pdf)
 
@@ -384,6 +387,7 @@ Download slides as [PDF on GitHub](https://github.com/fairdatapub-washcentre/web
 :::
 
 ## Sign up for the openwashdata newsletter!
+
 ![](img/lec-02/qr-openwashdata.png){fig-align="center"}
 
 ## References
