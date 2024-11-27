@@ -31,7 +31,27 @@
       margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
       vertical-align: middle;
     }
-  </style>
+    /* CSS for citations */
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+      margin-bottom: 0em;
+    }
+    .hanging-indent div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }  </style>
   <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto.css">
   <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -394,28 +414,28 @@ Lars Schöbitz
 <h4 id="supplementary-material">Supplementary Material</h4>
 <div class="columns">
 <div class="column" style="width:60%;">
-<p><span class="highlight-yellow">Take-away</span>: Not a single file is in <span class="highlight-yellow">machine-readable</span>, <span class="highlight-yellow">non-proprietary</span> file type format that would qualify for following FAIR principles for data sharing <span class="citation" data-cites="wilkinson2016">[@wilkinson2016]</span>.</p>
+<p><span class="highlight-yellow">Take-away</span>: Not a single file is in <span class="highlight-yellow">machine-readable</span>, <span class="highlight-yellow">non-proprietary</span> file type format that would qualify for following FAIR principles for data sharing <span class="citation" data-cites="wilkinson2016">(<a href="#/references" role="doc-biblioref" onclick="">Wilkinson et al. 2016</a>)</span>.</p>
 <p><span class="highlight-yellow">Good practice</span>: CSV file (comma-separated values), including a data dictionary for all variables/columns in the data</p>
 </div><div class="column" style="width:40%;">
 <div class="cell">
 <div class="cell-output-display">
-<div id="gmvionspoi" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
-<style>#gmvionspoi table {
+<div id="jzxytumqys" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#jzxytumqys table {
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-#gmvionspoi thead, #gmvionspoi tbody, #gmvionspoi tfoot, #gmvionspoi tr, #gmvionspoi td, #gmvionspoi th {
+#jzxytumqys thead, #jzxytumqys tbody, #jzxytumqys tfoot, #jzxytumqys tr, #jzxytumqys td, #jzxytumqys th {
   border-style: none;
 }
 
-#gmvionspoi p {
+#jzxytumqys p {
   margin: 0;
   padding: 0;
 }
 
-#gmvionspoi .gt_table {
+#jzxytumqys .gt_table {
   display: table;
   border-collapse: collapse;
   line-height: normal;
@@ -441,12 +461,12 @@ Lars Schöbitz
   border-left-color: #D3D3D3;
 }
 
-#gmvionspoi .gt_caption {
+#jzxytumqys .gt_caption {
   padding-top: 4px;
   padding-bottom: 4px;
 }
 
-#gmvionspoi .gt_title {
+#jzxytumqys .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -458,7 +478,7 @@ Lars Schöbitz
   border-bottom-width: 0;
 }
 
-#gmvionspoi .gt_subtitle {
+#jzxytumqys .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -470,7 +490,7 @@ Lars Schöbitz
   border-top-width: 0;
 }
 
-#gmvionspoi .gt_heading {
+#jzxytumqys .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -482,13 +502,13 @@ Lars Schöbitz
   border-right-color: #D3D3D3;
 }
 
-#gmvionspoi .gt_bottom_border {
+#jzxytumqys .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#gmvionspoi .gt_col_headings {
+#jzxytumqys .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -503,7 +523,7 @@ Lars Schöbitz
   border-right-color: #D3D3D3;
 }
 
-#gmvionspoi .gt_col_heading {
+#jzxytumqys .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -523,7 +543,7 @@ Lars Schöbitz
   overflow-x: hidden;
 }
 
-#gmvionspoi .gt_column_spanner_outer {
+#jzxytumqys .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -535,15 +555,15 @@ Lars Schöbitz
   padding-right: 4px;
 }
 
-#gmvionspoi .gt_column_spanner_outer:first-child {
+#jzxytumqys .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#gmvionspoi .gt_column_spanner_outer:last-child {
+#jzxytumqys .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#gmvionspoi .gt_column_spanner {
+#jzxytumqys .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -555,11 +575,11 @@ Lars Schöbitz
   width: 100%;
 }
 
-#gmvionspoi .gt_spanner_row {
+#jzxytumqys .gt_spanner_row {
   border-bottom-style: hidden;
 }
 
-#gmvionspoi .gt_group_heading {
+#jzxytumqys .gt_group_heading {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -585,7 +605,7 @@ Lars Schöbitz
   text-align: left;
 }
 
-#gmvionspoi .gt_empty_group_heading {
+#jzxytumqys .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -600,15 +620,15 @@ Lars Schöbitz
   vertical-align: middle;
 }
 
-#gmvionspoi .gt_from_md > :first-child {
+#jzxytumqys .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#gmvionspoi .gt_from_md > :last-child {
+#jzxytumqys .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#gmvionspoi .gt_row {
+#jzxytumqys .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -627,7 +647,7 @@ Lars Schöbitz
   overflow-x: hidden;
 }
 
-#gmvionspoi .gt_stub {
+#jzxytumqys .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -640,7 +660,7 @@ Lars Schöbitz
   padding-right: 5px;
 }
 
-#gmvionspoi .gt_stub_row_group {
+#jzxytumqys .gt_stub_row_group {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -654,15 +674,15 @@ Lars Schöbitz
   vertical-align: top;
 }
 
-#gmvionspoi .gt_row_group_first td {
+#jzxytumqys .gt_row_group_first td {
   border-top-width: 2px;
 }
 
-#gmvionspoi .gt_row_group_first th {
+#jzxytumqys .gt_row_group_first th {
   border-top-width: 2px;
 }
 
-#gmvionspoi .gt_summary_row {
+#jzxytumqys .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -672,16 +692,16 @@ Lars Schöbitz
   padding-right: 5px;
 }
 
-#gmvionspoi .gt_first_summary_row {
+#jzxytumqys .gt_first_summary_row {
   border-top-style: solid;
   border-top-color: #D3D3D3;
 }
 
-#gmvionspoi .gt_first_summary_row.thick {
+#jzxytumqys .gt_first_summary_row.thick {
   border-top-width: 2px;
 }
 
-#gmvionspoi .gt_last_summary_row {
+#jzxytumqys .gt_last_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -691,7 +711,7 @@ Lars Schöbitz
   border-bottom-color: #D3D3D3;
 }
 
-#gmvionspoi .gt_grand_summary_row {
+#jzxytumqys .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -701,7 +721,7 @@ Lars Schöbitz
   padding-right: 5px;
 }
 
-#gmvionspoi .gt_first_grand_summary_row {
+#jzxytumqys .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -711,7 +731,7 @@ Lars Schöbitz
   border-top-color: #D3D3D3;
 }
 
-#gmvionspoi .gt_last_grand_summary_row_top {
+#jzxytumqys .gt_last_grand_summary_row_top {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -721,11 +741,11 @@ Lars Schöbitz
   border-bottom-color: #D3D3D3;
 }
 
-#gmvionspoi .gt_striped {
+#jzxytumqys .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#gmvionspoi .gt_table_body {
+#jzxytumqys .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -734,7 +754,7 @@ Lars Schöbitz
   border-bottom-color: #D3D3D3;
 }
 
-#gmvionspoi .gt_footnotes {
+#jzxytumqys .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -748,7 +768,7 @@ Lars Schöbitz
   border-right-color: #D3D3D3;
 }
 
-#gmvionspoi .gt_footnote {
+#jzxytumqys .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding-top: 4px;
@@ -757,7 +777,7 @@ Lars Schöbitz
   padding-right: 5px;
 }
 
-#gmvionspoi .gt_sourcenotes {
+#jzxytumqys .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -771,7 +791,7 @@ Lars Schöbitz
   border-right-color: #D3D3D3;
 }
 
-#gmvionspoi .gt_sourcenote {
+#jzxytumqys .gt_sourcenote {
   font-size: 90%;
   padding-top: 4px;
   padding-bottom: 4px;
@@ -779,63 +799,63 @@ Lars Schöbitz
   padding-right: 5px;
 }
 
-#gmvionspoi .gt_left {
+#jzxytumqys .gt_left {
   text-align: left;
 }
 
-#gmvionspoi .gt_center {
+#jzxytumqys .gt_center {
   text-align: center;
 }
 
-#gmvionspoi .gt_right {
+#jzxytumqys .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#gmvionspoi .gt_font_normal {
+#jzxytumqys .gt_font_normal {
   font-weight: normal;
 }
 
-#gmvionspoi .gt_font_bold {
+#jzxytumqys .gt_font_bold {
   font-weight: bold;
 }
 
-#gmvionspoi .gt_font_italic {
+#jzxytumqys .gt_font_italic {
   font-style: italic;
 }
 
-#gmvionspoi .gt_super {
+#jzxytumqys .gt_super {
   font-size: 65%;
 }
 
-#gmvionspoi .gt_footnote_marks {
+#jzxytumqys .gt_footnote_marks {
   font-size: 75%;
   vertical-align: 0.4em;
   position: initial;
 }
 
-#gmvionspoi .gt_asterisk {
+#jzxytumqys .gt_asterisk {
   font-size: 100%;
   vertical-align: 0;
 }
 
-#gmvionspoi .gt_indent_1 {
+#jzxytumqys .gt_indent_1 {
   text-indent: 5px;
 }
 
-#gmvionspoi .gt_indent_2 {
+#jzxytumqys .gt_indent_2 {
   text-indent: 10px;
 }
 
-#gmvionspoi .gt_indent_3 {
+#jzxytumqys .gt_indent_3 {
   text-indent: 15px;
 }
 
-#gmvionspoi .gt_indent_4 {
+#jzxytumqys .gt_indent_4 {
   text-indent: 20px;
 }
 
-#gmvionspoi .gt_indent_5 {
+#jzxytumqys .gt_indent_5 {
   text-indent: 25px;
 }
 </style>
@@ -921,12 +941,57 @@ Lars Schöbitz
 <section id="openwashdata-community" class="slide level2">
 <h2>openwashdata community</h2>
 <h3 id="vision"><span class="highlight-yellow">Vision</span></h3>
-<p>An active global community that applies FAIR principles <span class="citation" data-cites="wilkinson2016">[@wilkinson2016]</span> to data generated in the greater water, sanitation, and hygiene sector.</p>
+<p>An active global community that applies FAIR principles <span class="citation" data-cites="wilkinson2016">(<a href="#/references" role="doc-biblioref" onclick="">Wilkinson et al. 2016</a>)</span> to data generated in the greater water, sanitation, and hygiene sector.</p>
 <h3 id="mission"><span class="highlight-yellow">Mission</span></h3>
 <p>Empower WASH professionals to engage with tools and workflows for open data and code.</p>
 <div class="footer">
 <p>From: <a href="https://openwashdata.org/pages/gallery/vmost/">openwashdata.org/pages/gallery/vmost/</a></p>
 </div>
+</section></section>
+<section>
+<section id="openwashdata-publishing" class="title-slide slide level1 center" data-background-color="#4C326A">
+<h1>openwashdata publishing</h1>
+<aside class="notes">
+<p>We are doing this through our openwashdata publishing arm, for which we developed a workflow that uses data donated by WASH professionals or available online, and re-publishes it following FAIR principles for data sharing</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="section" class="slide level2">
+<h2></h2>
+<div class="learn-more">
+<p><a href="https://openwashdata.github.io/fsmglobal/">openwashdata.github.io/fsmglobal/</a></p>
+<iframe src="https://openwashdata.github.io/fsmglobal/" width="100%" height="500" style="border:2px solid #123233;" title="Website of fsmglobal R package documentation homepage"></iframe>
+</div>
+<div class="footer">
+<p><a href="https://openwashdata.github.io/fsmglobal/">fsmglobal documenation website</a> by <span class="citation" data-cites="greene2023fsmglobal">Greene et al. (<a href="#/references" role="doc-biblioref" onclick="">2023</a>)</span> built with <a href="https://pkgdown.r-lib.org/">pkgdown R package</a></p>
+</div>
+<aside class="notes">
+<ul>
+<li><p>The product is an R package published as a website for each dataset. We assign a digital object identifier that enables the tracking of citations of the data package and list all contributors with their ORCID iD, so that contributions and citations are linked.</p></li>
+<li><p>Data is documented in a way where all variables/columns are described in detail.</p></li>
+<li><p>And for those who do not use R, we also share the data as a CSV and XLSX file.</p></li>
+<li><p>To date, we have published 12 datasets following this workflow.</p></li>
+</ul>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
 </section>
 <section id="openwashdata-academy" class="slide level2">
 <h2>openwashdata academy</h2>
@@ -986,7 +1051,7 @@ Lars Schöbitz
           display:block!important;
       }</style></aside>
 </section>
-<section id="section" class="slide level2">
+<section id="section-1" class="slide level2">
 <h2></h2>
 
 <img data-src="img/lec-02/workflow.png" class="r-stretch"></section>
@@ -1057,10 +1122,21 @@ Lars Schöbitz
 <section id="sign-up-for-the-openwashdata-newsletter" class="slide level2">
 <h2>Sign up for the openwashdata newsletter!</h2>
 
+<img data-src="img/lec-02/qr-openwashdata.png" class="quarto-figure quarto-figure-center r-stretch"></section>
+<section id="references" class="slide level2 smaller scrollable">
+<h2>References</h2>
 
-<img data-src="img/lec-02/qr-openwashdata.png" class="quarto-figure quarto-figure-center r-stretch"><div class="quarto-auto-generated-content">
+<div class="quarto-auto-generated-content">
 <div class="footer footer-default">
 <p><a href="https://fairdatapub-washcentre.github.io/website/"><i class="fa-solid fa-link" aria-label="link"></i> fairdatapub-washcentre.github.io/website/</a></p>
+</div>
+</div>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-greene2023fsmglobal" class="csl-entry" role="listitem">
+Greene, Nicola, Sarah Hennessy, Tate W. Rogers, Jocelyn Tsai, Francis L. de los Reyes III, and Lars Schöbitz. 2023. <span>“Fsmglobal. Global Faecal Sludge Emptying Services Demand.”</span> <a href="https://doi.org/10.5281/zenodo.8208293">https://doi.org/10.5281/zenodo.8208293</a>.
+</div>
+<div id="ref-wilkinson2016" class="csl-entry" role="listitem">
+Wilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. 2016. <span>“The FAIR Guiding Principles for Scientific Data Management and Stewardship.”</span> <em>Scientific Data</em> 3 (1). <a href="https://doi.org/10.1038/sdata.2016.18">https://doi.org/10.1038/sdata.2016.18</a>.
 </div>
 </div>
 </section></section>

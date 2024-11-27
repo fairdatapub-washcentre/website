@@ -20,6 +20,7 @@ params:
     module: 1
 editor_options: 
   chunk_output_type: console
+bibliography: references.bib
 ---
 
 ```{r}
@@ -245,6 +246,37 @@ From: [openwashdata.org/pages/gallery/vmost/](https://openwashdata.org/pages/gal
 
 :::
 
+# openwashdata publishing {background-color="#4C326A"}
+
+::: {.notes}
+We are doing this through our openwashdata publishing arm, for which we developed a workflow that uses data donated by WASH professionals or available online, and re-publishes it following FAIR principles for data sharing
+:::
+
+## 
+
+::: learn-more
+[openwashdata.github.io/fsmglobal/](https://openwashdata.github.io/fsmglobal/)
+
+```{=html}
+<iframe src="https://openwashdata.github.io/fsmglobal/" width="100%" height="500" style="border:2px solid #123233;" title="Website of fsmglobal R package documentation homepage"></iframe>
+```
+:::
+
+::: footer
+[fsmglobal documenation website](https://openwashdata.github.io/fsmglobal/) by @greene2023fsmglobal built with [pkgdown R package](https://pkgdown.r-lib.org/)
+:::
+
+::: {.notes}
+- The product is an R package published as a website for each dataset. We assign a digital object identifier that enables the tracking of citations of the data package and list all contributors with their ORCID iD, so that contributions and citations are linked.
+
+- Data is documented in a way where all variables/columns are described in detail.
+
+- And for those who do not use R, we also share the data as a CSV and XLSX file.
+
+- To date, we have published 12 datasets following this workflow.
+
+:::
+
 ## openwashdata academy
 
 -   10-week free data science course to empower WASH professionals to engage with tools and workflows for open data
@@ -352,3 +384,4 @@ Global Health Engineering: <https://ghe.ethz.ch/>
 ## Sign up for the openwashdata newsletter!
 ![](img/lec-02/qr-openwashdata.png){fig-align="center"}
 
+## References

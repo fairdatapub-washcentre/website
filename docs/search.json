@@ -793,7 +793,7 @@
     "href": "slides/lec-02-washr.html#sign-up-for-the-openwashdata-newsletter",
     "title": "washr an R-package to facilitate FAIR data publishing",
     "section": "Sign up for the openwashdata newsletter!",
-    "text": "Sign up for the openwashdata newsletter!\n\n\n\n\n fairdatapub-washcentre.github.io/website/"
+    "text": "Sign up for the openwashdata newsletter!"
   },
   {
     "objectID": "slides/lec-02-washr.html#journal-articles",
@@ -807,13 +807,27 @@
     "href": "slides/lec-02-washr.html#journal-articles-1",
     "title": "washr an R-package to facilitate FAIR data publishing",
     "section": "Journal articles",
-    "text": "Journal articles\nSupplementary Material\n\n\nTake-away: Not a single file is in machine-readable, non-proprietary file type format that would qualify for following FAIR principles for data sharing [@wilkinson2016].\nGood practice: CSV file (comma-separated values), including a data dictionary for all variables/columns in the data\n\n\n\n\n\n\n\n\n\nSupplementary Material\n\n\nArticles published 2020 or later\n\n\nfile type\nn1\n%\n\n\n\n\nmissing\n202\n51.4\n\n\ndocx\n149\n37.9\n\n\nxlsx\n24\n6.1\n\n\npdf\n13\n3.3\n\n\npptx\n4\n1.0\n\n\npng\n1\n0.3\n\n\n\n1 One article can have multiple files.\n\n\n\n\n\n\n\n\n\n\nData: R package washopenresearch to be published at https://github.com/openwashdata/washopenresearch\n\n\n\nWe then looked at the Supplementary Material of all articles published in 2020 or later and found that have half of the published articles still had no data published alongside the article\nBut, the most insightful take-away is that not a single file was shared in a file type format that would qualify for following FAIR principles for data sharing.\nThat is something we are hoping to change, where sharing data as CSV files would already go a long way."
+    "text": "Journal articles\nSupplementary Material\n\n\nTake-away: Not a single file is in machine-readable, non-proprietary file type format that would qualify for following FAIR principles for data sharing (Wilkinson et al. 2016).\nGood practice: CSV file (comma-separated values), including a data dictionary for all variables/columns in the data\n\n\n\n\n\n\n\n\n\nSupplementary Material\n\n\nArticles published 2020 or later\n\n\nfile type\nn1\n%\n\n\n\n\nmissing\n202\n51.4\n\n\ndocx\n149\n37.9\n\n\nxlsx\n24\n6.1\n\n\npdf\n13\n3.3\n\n\npptx\n4\n1.0\n\n\npng\n1\n0.3\n\n\n\n1 One article can have multiple files.\n\n\n\n\n\n\n\n\n\n\nData: R package washopenresearch to be published at https://github.com/openwashdata/washopenresearch\n\n\n\nWe then looked at the Supplementary Material of all articles published in 2020 or later and found that have half of the published articles still had no data published alongside the article\nBut, the most insightful take-away is that not a single file was shared in a file type format that would qualify for following FAIR principles for data sharing.\nThat is something we are hoping to change, where sharing data as CSV files would already go a long way."
   },
   {
     "objectID": "slides/lec-02-washr.html#openwashdata-community",
     "href": "slides/lec-02-washr.html#openwashdata-community",
     "title": "washr an R-package to facilitate FAIR data publishing",
     "section": "openwashdata community",
-    "text": "openwashdata community\nVision\nAn active global community that applies FAIR principles [@wilkinson2016] to data generated in the greater water, sanitation, and hygiene sector.\nMission\nEmpower WASH professionals to engage with tools and workflows for open data and code.\n\nFrom: openwashdata.org/pages/gallery/vmost/"
+    "text": "openwashdata community\nVision\nAn active global community that applies FAIR principles (Wilkinson et al. 2016) to data generated in the greater water, sanitation, and hygiene sector.\nMission\nEmpower WASH professionals to engage with tools and workflows for open data and code.\n\nFrom: openwashdata.org/pages/gallery/vmost/"
+  },
+  {
+    "objectID": "slides/lec-02-washr.html#section",
+    "href": "slides/lec-02-washr.html#section",
+    "title": "washr an R-package to facilitate FAIR data publishing",
+    "section": "",
+    "text": "openwashdata.github.io/fsmglobal/\n\n\n\nfsmglobal documenation website by Greene et al. (2023) built with pkgdown R package\n\n\n\nThe product is an R package published as a website for each dataset. We assign a digital object identifier that enables the tracking of citations of the data package and list all contributors with their ORCID iD, so that contributions and citations are linked.\nData is documented in a way where all variables/columns are described in detail.\nAnd for those who do not use R, we also share the data as a CSV and XLSX file.\nTo date, we have published 12 datasets following this workflow."
+  },
+  {
+    "objectID": "slides/lec-02-washr.html#references",
+    "href": "slides/lec-02-washr.html#references",
+    "title": "washr an R-package to facilitate FAIR data publishing",
+    "section": "References",
+    "text": "References\n\n\n\n fairdatapub-washcentre.github.io/website/\n\n\n\n\nGreene, Nicola, Sarah Hennessy, Tate W. Rogers, Jocelyn Tsai, Francis L. de los Reyes III, and Lars Schöbitz. 2023. “Fsmglobal. Global Faecal Sludge Emptying Services Demand.” https://doi.org/10.5281/zenodo.8208293.\n\n\nWilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, et al. 2016. “The FAIR Guiding Principles for Scientific Data Management and Stewardship.” Scientific Data 3 (1). https://doi.org/10.1038/sdata.2016.18."
   }
 ]
