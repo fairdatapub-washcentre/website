@@ -1,19 +1,76 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "website"
-  navbar:
-    left:
+  page-navigation: true
+  title: "FAIR Data Publishing - Workshop"
+  description: "Website for FAIR Data Publishing workshop at UKZN WASH Centre"
+  site-url: "https://fairdatapub-washcentre.github.io/website/"
+  repo-url: "https://github.com/fairdatapub-washcentre/website"
+  search: false
+  page-footer: 
+    left: | 
+        This course is part of the [openwashdata project](https://openwashdata.org/) supported by the 
+        [Open Research Data Program of the ETH Board](https://ethrat.ch/en/eth-domain/open-research-data/)
+    right:
+      - text: Code of Conduct
+        href: code_of_conduct.qmd
+      - icon: "envelope-at"
+        href: "mailto:ghe@mavt.ethz.ch"
+        aria-label: Email
+      - icon: github
+        href: https://github.com/fairdatapub-washcentre/website
+        aria-label: GitHub
+      - icon: chat-left-dots
+        href: https://matrix.to/#/#openwashdata-lobby:staffchat.ethz.ch
+        aria-label: Matrix
+  
+  sidebar:
+    background: "#C8CEF3"
+    pinned: true
+    align: center
+    style: "docked"
+    search: true
+    collapse-level: 1
+    tools:
+      - icon: github
+        href: https://github.com/fairdatapub-washcentre/
+        text: "GitHub organization"
+    contents: 
       - href: index.qmd
-        text: Home
-      - about.qmd
-
+        text: Course Overview
+      - href: calendar.qmd
+        text: Course Calendar
+      - text: "---"
+      - section: "Module 01"
+        href: modules/md-01.qmd
+        contents:
+          - href: assignments/md-01/am-01-1-github.qmd
+            text: "am-01: GitHub Account"
+          - href: assignments/md-01/am-01-2-posit.qmd
+            text: "am-02: Posit Cloud"
+          - href: assignments/md-01/am-01-3-github.qmd
+            text: "am-03: GitHub PAT"
+          - href: assignments/md-01/am-01-4-github.qmd
+            text: "am-04: Git configuration"
+        
 format:
   html:
-    theme: cosmo
+    theme:
+      light: [litera, theme.scss]
     css: styles.css
+    code-copy: true
+    code-overflow: wrap
     toc: true
+    mainfont: "Atkinson Hyperlegible"
+    grid:
+      sidebar-width: 250px
+      body-width: 900px
+      margin-width: 300px
+    include-in-header: 
+        - text: |
+            <script defer data-domain="fairdatapub-washcentre.github.io/website" src="https://plausible.io/js/script.js"></script>
 
-
-
+execute: 
+  freeze: auto
