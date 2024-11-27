@@ -25,10 +25,10 @@ This workshop is designed to provide you with an introduction to the principles 
 
 The workshop will open with a 30-minute talk to set the scene and allow participants to get impression of the bigger picture. 
 
-[View slides in full screen](../slides/lec-00-opening.html) | [Download slides as PDF](https://github.com/fairdatapub-washcentre/website/raw/main/slides/lec-00-opening.pdf)
+[View slides in full screen](slides/lec-00-opening.html) | [Download slides as PDF](https://github.com/fairdatapub-washcentre/website/raw/main/slides/lec-00-opening.pdf)
 
 ```{=html}
-<iframe class="slide-deck" src="../slides/lec-00-opening.html" height="420" width="747" style="border: 1px solid #123233;"></iframe>
+<iframe class="slide-deck" src="slides/lec-00-opening.html" height="420" width="747" style="border: 1px solid #123233;"></iframe>
 ```
 
 
