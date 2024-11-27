@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://fairdatapub-washcentre.github.io/website/modules/md-01.html</loc>
-    <lastmod>2024-11-27T12:19:46.544Z</lastmod>
+    <lastmod>2024-11-27T13:03:13.778Z</lastmod>
   </url>
   <url>
     <loc>https://fairdatapub-washcentre.github.io/website/code_of_conduct.html</loc>
@@ -39,5 +39,13 @@
   <url>
     <loc>https://fairdatapub-washcentre.github.io/website/about.html</loc>
     <lastmod>2024-11-27T08:22:49.109Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fairdatapub-washcentre.github.io/website/modules/md-02.html</loc>
+    <lastmod>2024-11-27T13:02:37.941Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fairdatapub-washcentre.github.io/website/slides/lec-02-washr.html</loc>
+    <lastmod>2024-11-27T13:03:49.898Z</lastmod>
   </url>
 </urlset>

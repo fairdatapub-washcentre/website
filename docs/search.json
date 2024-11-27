@@ -682,5 +682,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "modules/md-02.html",
+    "href": "modules/md-02.html",
+    "title": "Module 2",
+    "section": "",
+    "text": "View slides in full screen | Download slides as PDF"
+  },
+  {
+    "objectID": "modules/md-02.html#slides",
+    "href": "modules/md-02.html#slides",
+    "title": "Module 2",
+    "section": "",
+    "text": "View slides in full screen | Download slides as PDF"
+  },
+  {
+    "objectID": "modules/md-02.html#assignments",
+    "href": "modules/md-02.html#assignments",
+    "title": "Module 2",
+    "section": " Assignments",
+    "text": "Assignments\nWe will work through the following assignments during the first module of the workshop.\n\nAssignment 1: Create a GitHub repository\nAssignment 2: Create a new Project with devtools\nAssignment 3\nAssignment 4"
   }
 ]

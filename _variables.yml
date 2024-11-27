@@ -13,3 +13,7 @@ course:
 md-01:
   title: "Welcome & get ready for the workshop"
   date: "2024-11-28"
+  
+md-02:
+  title: "`washr` an R-package to facilitate FAIR data publishing"
+  date: "2024-11-28"

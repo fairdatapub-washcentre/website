@@ -1,0 +1,31 @@
+---
+title: "Module 2"
+subtitle: "{{< var md-02.title >}}"
+editor: source
+params:
+    module: 2
+execute: 
+  echo: false
+  warning: false
+bibliography: references.bib
+editor_options: 
+  chunk_output_type: console
+---
+
+## {{< fa display >}} Slides
+
+[View slides in full screen](../slides/lec-02-washr.html) | [Download slides as PDF](https://github.com/fairdatapub-washcentre/website/raw/main/slides/lec-01-welcome.pdf)
+
+```{=html}
+<iframe class="slide-deck" src="../slides/lec-02-washr.html" height="420" width="747" style="border: 1px solid #123233;"></iframe>
+```
+
+## {{< fa code >}} Assignments
+
+We will work through the following assignments during the first module of the workshop. 
+
+-   [Assignment 1](../assignments/md-02/am-02-1-gh-create-repo.qmd): Create a GitHub repository
+-   [Assignment 2](../assignments/md-02/am-02-2-pc-create-project.qmd): Create a new Project with devtools
+-   [Assignment 3](../assignments/md-02/am-02-3.qmd)
+-   [Assignment 4](../assignments/md-02/am-02-4.qmd)
+

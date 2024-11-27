@@ -14,7 +14,7 @@ editor_options:
 
 ## {{< fa display >}} Slides
 
-[View slides in full screen](../slides/lec-01-welcome.html) | [Download slides as PDF](https://github.com/rbtl-fs24/website/raw/main/slides/lec-01-welcome.pdf)
+[View slides in full screen](../slides/lec-01-welcome.html) | [Download slides as PDF](https://github.com/fairdatapub-washcentre/website/raw/main/slides/lec-01-welcome.pdf)
 
 ```{=html}
 <iframe class="slide-deck" src="../slides/lec-01-welcome.html" height="420" width="747" style="border: 1px solid #123233;"></iframe>
@@ -29,4 +29,4 @@ We will work through the following assignments during the first module of the wo
 -   [Assignment 3](../assignments/md-01/am-01-3-github.qmd): In class: Interaction with GitHub
 -   [Assignment 4](../assignments/md-01/am-01-4-github.qmd): In class: Interaction with GitHub
 
-## {{< fa book >}} Readings
+## {{< fa book >}} Readings {.invisible}
