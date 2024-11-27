@@ -343,15 +343,728 @@ Lars Schöbitz
 
   <p class="date">Nov 28, 2024</p>
 </section>
-<section class="slide level2">
+<section>
+<section id="the-opportunity" class="title-slide slide level1 center" data-background-color="#4C326A">
+<h1>The Opportunity</h1>
+<aside class="notes">
+<ul>
+<li>We have a huge and missed opportunity in our sector</li>
+<li>Very little data is shared publicly and following best practices for reuse</li>
+</ul>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="journal-articles" class="slide level2">
+<h2>Journal articles</h2>
+
+<img data-src="lec-02-washr_files/figure-revealjs/unnamed-chunk-5-1.png" style="width:100.0%" class="r-stretch"><div class="footer">
+<p>Data: R package washopenresearch to be published at <a href="https://github.com/openwashdata/washopenresearch" class="uri">https://github.com/openwashdata/washopenresearch</a></p>
+</div>
+<aside class="notes">
+<ul>
+<li><p>The first missed opportunity are journal articles and data from researchers</p></li>
+<li><p>We looked at the Data Availability Statements in 924 articles published in the Journal of Water, Sanitation and Hygiene for Development from 2011 to 2023.</p></li>
+<li><p>You can see the data availability statements on the vertical axis and the number of publications on the horizontal axis</p></li>
+<li><p>Colors differentiate between papers published before 2020 and in 2020 or later, when a policy was introduced that requires authors to select one of the three data availability statements</p></li>
+<li><p>After that policy was introduced, we still found 15% of papers without a data availability statement, while 60% of articles stated that data was available in the paper, which could also be as supplementary material</p></li>
+</ul>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="journal-articles-1" class="slide level2 smaller">
+<h2>Journal articles</h2>
+<h4 id="supplementary-material">Supplementary Material</h4>
+<div class="columns">
+<div class="column" style="width:60%;">
+<p><span class="highlight-yellow">Take-away</span>: Not a single file is in <span class="highlight-yellow">machine-readable</span>, <span class="highlight-yellow">non-proprietary</span> file type format that would qualify for following FAIR principles for data sharing <span class="citation" data-cites="wilkinson2016">[@wilkinson2016]</span>.</p>
+<p><span class="highlight-yellow">Good practice</span>: CSV file (comma-separated values), including a data dictionary for all variables/columns in the data</p>
+</div><div class="column" style="width:40%;">
+<div class="cell">
+<div class="cell-output-display">
+<div id="gmvionspoi" style="padding-left:0px;padding-right:0px;padding-top:10px;padding-bottom:10px;overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<style>#gmvionspoi table {
+  font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#gmvionspoi thead, #gmvionspoi tbody, #gmvionspoi tfoot, #gmvionspoi tr, #gmvionspoi td, #gmvionspoi th {
+  border-style: none;
+}
+
+#gmvionspoi p {
+  margin: 0;
+  padding: 0;
+}
+
+#gmvionspoi .gt_table {
+  display: table;
+  border-collapse: collapse;
+  line-height: normal;
+  margin-left: auto;
+  margin-right: auto;
+  color: #333333;
+  font-size: 16px;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #FFFFFF;
+  width: auto;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #A8A8A8;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #A8A8A8;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+}
+
+#gmvionspoi .gt_caption {
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+#gmvionspoi .gt_title {
+  color: #333333;
+  font-size: 125%;
+  font-weight: initial;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-bottom-color: #FFFFFF;
+  border-bottom-width: 0;
+}
+
+#gmvionspoi .gt_subtitle {
+  color: #333333;
+  font-size: 85%;
+  font-weight: initial;
+  padding-top: 3px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-color: #FFFFFF;
+  border-top-width: 0;
+}
+
+#gmvionspoi .gt_heading {
+  background-color: #FFFFFF;
+  text-align: center;
+  border-bottom-color: #FFFFFF;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#gmvionspoi .gt_bottom_border {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#gmvionspoi .gt_col_headings {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#gmvionspoi .gt_col_heading {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow-x: hidden;
+}
+
+#gmvionspoi .gt_column_spanner_outer {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: normal;
+  text-transform: inherit;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#gmvionspoi .gt_column_spanner_outer:first-child {
+  padding-left: 0;
+}
+
+#gmvionspoi .gt_column_spanner_outer:last-child {
+  padding-right: 0;
+}
+
+#gmvionspoi .gt_column_spanner {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  overflow-x: hidden;
+  display: inline-block;
+  width: 100%;
+}
+
+#gmvionspoi .gt_spanner_row {
+  border-bottom-style: hidden;
+}
+
+#gmvionspoi .gt_group_heading {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  text-align: left;
+}
+
+#gmvionspoi .gt_empty_group_heading {
+  padding: 0.5px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#gmvionspoi .gt_from_md > :first-child {
+  margin-top: 0;
+}
+
+#gmvionspoi .gt_from_md > :last-child {
+  margin-bottom: 0;
+}
+
+#gmvionspoi .gt_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 10px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  overflow-x: hidden;
+}
+
+#gmvionspoi .gt_stub {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#gmvionspoi .gt_stub_row_group {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 100%;
+  font-weight: initial;
+  text-transform: inherit;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 5px;
+  padding-right: 5px;
+  vertical-align: top;
+}
+
+#gmvionspoi .gt_row_group_first td {
+  border-top-width: 2px;
+}
+
+#gmvionspoi .gt_row_group_first th {
+  border-top-width: 2px;
+}
+
+#gmvionspoi .gt_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#gmvionspoi .gt_first_summary_row {
+  border-top-style: solid;
+  border-top-color: #D3D3D3;
+}
+
+#gmvionspoi .gt_first_summary_row.thick {
+  border-top-width: 2px;
+}
+
+#gmvionspoi .gt_last_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#gmvionspoi .gt_grand_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#gmvionspoi .gt_first_grand_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: double;
+  border-top-width: 6px;
+  border-top-color: #D3D3D3;
+}
+
+#gmvionspoi .gt_last_grand_summary_row_top {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-bottom-style: double;
+  border-bottom-width: 6px;
+  border-bottom-color: #D3D3D3;
+}
+
+#gmvionspoi .gt_striped {
+  background-color: rgba(128, 128, 128, 0.05);
+}
+
+#gmvionspoi .gt_table_body {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#gmvionspoi .gt_footnotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#gmvionspoi .gt_footnote {
+  margin: 0px;
+  font-size: 90%;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#gmvionspoi .gt_sourcenotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#gmvionspoi .gt_sourcenote {
+  font-size: 90%;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#gmvionspoi .gt_left {
+  text-align: left;
+}
+
+#gmvionspoi .gt_center {
+  text-align: center;
+}
+
+#gmvionspoi .gt_right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#gmvionspoi .gt_font_normal {
+  font-weight: normal;
+}
+
+#gmvionspoi .gt_font_bold {
+  font-weight: bold;
+}
+
+#gmvionspoi .gt_font_italic {
+  font-style: italic;
+}
+
+#gmvionspoi .gt_super {
+  font-size: 65%;
+}
+
+#gmvionspoi .gt_footnote_marks {
+  font-size: 75%;
+  vertical-align: 0.4em;
+  position: initial;
+}
+
+#gmvionspoi .gt_asterisk {
+  font-size: 100%;
+  vertical-align: 0;
+}
+
+#gmvionspoi .gt_indent_1 {
+  text-indent: 5px;
+}
+
+#gmvionspoi .gt_indent_2 {
+  text-indent: 10px;
+}
+
+#gmvionspoi .gt_indent_3 {
+  text-indent: 15px;
+}
+
+#gmvionspoi .gt_indent_4 {
+  text-indent: 20px;
+}
+
+#gmvionspoi .gt_indent_5 {
+  text-indent: 25px;
+}
+</style>
+
+<table class="gt_table caption-top" data-quarto-postprocess="true" data-quarto-disable-processing="false" data-quarto-bootstrap="false">
+<thead>
+<tr class="header gt_heading">
+<th colspan="3" class="gt_heading gt_title gt_font_normal">Supplementary Material</th>
+</tr>
+<tr class="odd gt_heading">
+<th colspan="3" class="gt_heading gt_subtitle gt_font_normal gt_bottom_border">Articles published 2020 or later</th>
+</tr>
+<tr class="header gt_col_headings">
+<th id="file type" class="gt_col_heading gt_columns_bottom_border gt_left" data-quarto-table-cell-role="th" style="font-weight: bold" scope="col">file type</th>
+<th id="n<span class=&quot;gt_footnote_marks&quot; style=&quot;white-space:nowrap;font-style:italic;font-weight:normal;&quot;><sup>1</sup></span>" class="gt_col_heading gt_columns_bottom_border gt_right" data-quarto-table-cell-role="th" style="font-weight: bold" scope="col">n<span class="gt_footnote_marks" style="white-space:nowrap;font-style:italic;font-weight:normal;"><sup>1</sup></span></th>
+<th id="%" class="gt_col_heading gt_columns_bottom_border gt_right" data-quarto-table-cell-role="th" style="font-weight: bold" scope="col">%</th>
+</tr>
+</thead>
+<tbody class="gt_table_body">
+<tr class="odd">
+<td class="gt_row gt_left" headers="supp_file_type">missing</td>
+<td class="gt_row gt_right" headers="n">202</td>
+<td class="gt_row gt_right" headers="perc">51.4</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_left" headers="supp_file_type">docx</td>
+<td class="gt_row gt_right" headers="n">149</td>
+<td class="gt_row gt_right" headers="perc">37.9</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_left" headers="supp_file_type">xlsx</td>
+<td class="gt_row gt_right" headers="n">24</td>
+<td class="gt_row gt_right" headers="perc">6.1</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_left" headers="supp_file_type">pdf</td>
+<td class="gt_row gt_right" headers="n">13</td>
+<td class="gt_row gt_right" headers="perc">3.3</td>
+</tr>
+<tr class="odd">
+<td class="gt_row gt_left" headers="supp_file_type">pptx</td>
+<td class="gt_row gt_right" headers="n">4</td>
+<td class="gt_row gt_right" headers="perc">1.0</td>
+</tr>
+<tr class="even">
+<td class="gt_row gt_left" headers="supp_file_type">png</td>
+<td class="gt_row gt_right" headers="n">1</td>
+<td class="gt_row gt_right" headers="perc">0.3</td>
+</tr>
+</tbody><tfoot class="gt_footnotes">
+<tr class="odd">
+<td colspan="3" class="gt_footnote"><span class="gt_footnote_marks" style="white-space:nowrap;font-style:italic;font-weight:normal;"><sup>1</sup></span> One article can have multiple files.</td>
+</tr>
+</tfoot>
+
+</table>
+
+</div>
+</div>
+</div>
+</div></div>
+<div class="footer">
+<p>Data: R package washopenresearch to be published at <a href="https://github.com/openwashdata/washopenresearch" class="uri">https://github.com/openwashdata/washopenresearch</a></p>
+</div>
+<aside class="notes">
+<ul>
+<li><p>We then looked at the Supplementary Material of all articles published in 2020 or later and found that have half of the published articles still had no data published alongside the article</p></li>
+<li><p>But, the most insightful take-away is that not a single file was shared in a file type format that would qualify for following FAIR principles for data sharing.</p></li>
+<li><p>That is something we are hoping to change, where sharing data as CSV files would already go a long way.</p></li>
+</ul>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="openwashdata-community" class="slide level2">
+<h2>openwashdata community</h2>
+<h3 id="vision"><span class="highlight-yellow">Vision</span></h3>
+<p>An active global community that applies FAIR principles <span class="citation" data-cites="wilkinson2016">[@wilkinson2016]</span> to data generated in the greater water, sanitation, and hygiene sector.</p>
+<h3 id="mission"><span class="highlight-yellow">Mission</span></h3>
+<p>Empower WASH professionals to engage with tools and workflows for open data and code.</p>
+<div class="footer">
+<p>From: <a href="https://openwashdata.org/pages/gallery/vmost/">openwashdata.org/pages/gallery/vmost/</a></p>
+</div>
+</section>
+<section id="openwashdata-academy" class="slide level2">
+<h2>openwashdata academy</h2>
+<ul>
+<li>10-week free data science course to empower WASH professionals to engage with tools and workflows for open data</li>
+<li>200 registrations from 46 countries</li>
+<li>27 datasets submitted as final projects</li>
+</ul>
+
+<img data-src="img/lec-02/data-to-submit.png" class="quarto-figure quarto-figure-center r-stretch"><aside class="notes">
+<p>Add numbers - Key question (next slide): How can we make the data publication process easier?</p>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section></section>
+<section>
+<section id="how-can-we-streamline-the-data-publishing-procedure" class="title-slide slide level1 center" data-background-color="#4C326A">
+<h1>How can we streamline the data publishing procedure?</h1>
+
+</section>
+<section id="washr" class="slide level2">
+<h2><code>washr</code></h2>
+<ul>
+<li>An R package designed to simplify WASH data publishing</li>
+<li>User-friendly functions to ensure that data adheres to FAIR principles</li>
+<li>Preparation of a detailed guide and workflow visualization</li>
+</ul>
+<p><span style="color:#679289;"><strong>So far:</strong></span></p>
+<ul>
+<li>Almost a dozen datasets published</li>
+<li>Requires minimal computational power</li>
+<li>Easily generalizable to benefit the wider community</li>
+</ul>
+<aside class="notes">
+<ul>
+<li>Standardize as much as possible</li>
+<li>Components: R(Studio), Git(Hub), Quarto</li>
+<li>Provide a few functions to illustrate</li>
+</ul>
+<style type="text/css">
+        span.MJX_Assistive_MathML {
+          position:absolute!important;
+          clip: rect(1px, 1px, 1px, 1px);
+          padding: 1px 0 0 0!important;
+          border: 0!important;
+          height: 1px!important;
+          width: 1px!important;
+          overflow: hidden!important;
+          display:block!important;
+      }</style></aside>
+</section>
+<section id="section" class="slide level2">
+<h2></h2>
+
+<img data-src="img/lec-02/workflow.png" class="r-stretch"></section>
+<section id="preparing-the-data" class="slide level2">
+<h2>Preparing the data</h2>
+<ul>
+<li>Start a local (Posit Cloud for us) version-controlled folder, connect it to GitHub</li>
+</ul>
+
+<img data-src="img/lec-02/repos.png" class="quarto-figure quarto-figure-center r-stretch" style="border: 2px solid black;"></section>
+<section id="preparing-the-data-1" class="slide level2">
+<h2>Preparing the data</h2>
+<ul>
+<li><code>setup_rawdata()</code>
+<ul>
+<li>Creates <code>data-raw</code> as suggested in <code>usethis</code> R Package<sup>1</sup></li>
+<li>Creates <code>data_processing.R</code> for data cleaning</li>
+</ul></li>
+</ul>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="img/lec-02/datapreparation.png" class="quarto-figure quarto-figure-center" style="border: 2px solid black;"></p>
+</figure>
+</div>
+<aside><ol class="aside-footnotes"><li id="fn1"><p>See <a href="https://pkgdown.r-lib.org/">https://usethis.r-lib.org/</a></p></li></ol></aside></section>
+<section id="documenting-the-data" class="slide level2">
+<h2>Documenting the data</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<ul>
+<li>Create roxygen skeletons</li>
+<li>Create README</li>
+<li>Codebook describing each variable</li>
+<li>Website with <code>pkgdown</code> R package<sup>1</sup></li>
+<li>Add a license and author(s)</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<p><img data-src="img/lec-02/documenting.png" style="border: 2px solid black;"></p>
+</div></div>
+<aside><ol class="aside-footnotes"><li id="fn2"><p>See <a href="https://pkgdown.r-lib.org/" class="uri">https://pkgdown.r-lib.org/</a></p></li></ol></aside></section>
+<section id="publishing-the-data" class="slide level2">
+<h2>Publishing the data</h2>
+<p style="margin-bottom: 6em;">
+</p>
+<div style="text-align: center;">
+<p><a href="https://openwashdata.github.io/washinvestments/index.html">washinvestments</a></p>
+</div>
+</section></section>
+<section>
+<section id="thanks" class="title-slide slide level1 center" data-background-color="#4C326A">
+<h1>Thanks!</h1>
+
+</section>
+<section id="links-and-downloads" class="slide level2">
+<h2>Links and Downloads</h2>
+<p style="margin-bottom: 2em;">
+</p>
+<p><code>washr</code> source code: <a href="https://github.com/openwashdata-dev/washr" class="uri">https://github.com/openwashdata-dev/washr</a></p>
+<p><code>washr</code> guide: <a href="https://global-health-engineering.github.io/ghedatapublishing" class="uri">https://global-health-engineering.github.io/ghedatapublishing</a></p>
+<p>openwashdata: <a href="https://openwashdata.org" class="uri">https://openwashdata.org</a></p>
+<p>Global Health Engineering: <a href="https://ghe.ethz.ch/" class="uri">https://ghe.ethz.ch/</a></p>
+<p style="margin-bottom: 3em;">
+</p>
+<div class="footer">
+<p><em>This material is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution Share Alike 4.0 International</a>.</em></p>
+</div>
+</section>
+<section id="sign-up-for-the-openwashdata-newsletter" class="slide level2">
+<h2>Sign up for the openwashdata newsletter!</h2>
 
 
-<div class="quarto-auto-generated-content">
+<img data-src="img/lec-02/qr-openwashdata.png" class="quarto-figure quarto-figure-center r-stretch"><div class="quarto-auto-generated-content">
 <div class="footer footer-default">
 <p><a href="https://fairdatapub-washcentre.github.io/website/"><i class="fa-solid fa-link" aria-label="link"></i> fairdatapub-washcentre.github.io/website/</a></p>
 </div>
 </div>
-</section>
+</section></section>
+
     </div>
   </div>
 
@@ -564,6 +1277,44 @@ Lars Schöbitz
         ]
       });
     </script>
+    
+    <script>
+      // htmlwidgets need to know to resize themselves when slides are shown/hidden.
+      // Fire the "slideenter" event (handled by htmlwidgets.js) when the current
+      // slide changes (different for each slide format).
+      (function () {
+        // dispatch for htmlwidgets
+        function fireSlideEnter() {
+          const event = window.document.createEvent("Event");
+          event.initEvent("slideenter", true, true);
+          window.document.dispatchEvent(event);
+        }
+
+        function fireSlideChanged(previousSlide, currentSlide) {
+          fireSlideEnter();
+
+          // dispatch for shiny
+          if (window.jQuery) {
+            if (previousSlide) {
+              window.jQuery(previousSlide).trigger("hidden");
+            }
+            if (currentSlide) {
+              window.jQuery(currentSlide).trigger("shown");
+            }
+          }
+        }
+
+        // hookup for slidy
+        if (window.w3c_slidy) {
+          window.w3c_slidy.add_observer(function (slide_num) {
+            // slide_num starts at position 1
+            fireSlideChanged(null, w3c_slidy.slides[slide_num - 1]);
+          });
+        }
+
+      })();
+    </script>
+
     <script id="quarto-html-after-body" type="application/javascript">
     window.document.addEventListener("DOMContentLoaded", function (event) {
       const toggleBodyColorMode = (bsSheetEl) => {
@@ -667,6 +1418,13 @@ Lars Schöbitz
             if (link.dataset.originalHref !== undefined) {
               link.href = link.dataset.originalHref;
             }
+              // target, if specified
+              link.setAttribute("target", "_blank");
+              if (link.getAttribute("rel") === null) {
+                link.setAttribute("rel", "noopener");
+              }
+              // default icon
+              link.classList.add("external");
           }
         }
       function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

@@ -10,6 +10,8 @@ format:
     transition: fade
     slide-number: true
     chalkboard: true
+    link-external-icon: true
+    link-external-newwindow: true
 footer: "[{{< fa link >}} {{< var course.site-short >}}]({{< var course.site >}})"
 editor: source
 execute:

@@ -19,6 +19,8 @@ format:
     slide-number: true
     width: 960
     height: 540
+    link-external-icon: true
+    link-external-newwindow: true
 editor: source
 editor_options: 
   chunk_output_type: console
