@@ -40,8 +40,6 @@ website:
     contents: 
       - href: index.qmd
         text: Course Overview
-      - href: calendar.qmd
-        text: Course Calendar
       - text: "---"
       - section: "Module 01"
         href: modules/md-01.qmd

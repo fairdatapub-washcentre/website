@@ -1,0 +1,15 @@
+author: "Lars Schöbitz"
+institute: "ETH Zurich"
+department: "Global Health Engineering"
+
+course:
+  code: "fairdatapub-washcentre"
+  short-title: "fairdatapub-washcentre"
+  long-title: "FAIR Data Publishing"
+  site: "https://fairdatapub-washcentre.github.io/website/"
+  site-short: "fairdatapub-washcentre.github.io/website/"
+  github-org: "https://github.com/fairdatapub-washcentre"
+
+md-01:
+  title: "Welcome & get ready for the workshop"
+  date: "2024-11-28"

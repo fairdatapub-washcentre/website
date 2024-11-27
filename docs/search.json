@@ -1,0 +1,627 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "FAIR Data Publishing - Workshop",
+    "section": "",
+    "text": "Thank you for your interest in this workshop. Your course instructor Lars Schöbitz is looking forward to meet you.\nThe location for this 1-day workshop will be communicated by Email.\nPlease ensure you bring the following items to the workshop:",
+    "crumbs": [
+      "Course Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#what-is-this-workshop-all-about",
+    "href": "index.html#what-is-this-workshop-all-about",
+    "title": "FAIR Data Publishing - Workshop",
+    "section": " What is this workshop all about?",
+    "text": "What is this workshop all about?\nThis workshop is designed to provide you with an introduction to the principles of FAIR data publishing. It draws from experiences and workflows established by the Global Health Engineering group at ETH Zurich and through their work on the openwashdata community.",
+    "crumbs": [
+      "Course Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#opening",
+    "href": "index.html#opening",
+    "title": "FAIR Data Publishing - Workshop",
+    "section": " Opening",
+    "text": "Opening\nThe workshop will open with a 30-minute talk to set the scene and allow participants to get impression of the bigger picture.\nView slides in full screen | Download slides as PDF",
+    "crumbs": [
+      "Course Overview"
+    ]
+  },
+  {
+    "objectID": "modules/md-01.html",
+    "href": "modules/md-01.html",
+    "title": "Module 1",
+    "section": "",
+    "text": "View slides in full screen | Download slides as PDF",
+    "crumbs": [
+      "Module 01"
+    ]
+  },
+  {
+    "objectID": "modules/md-01.html#slides",
+    "href": "modules/md-01.html#slides",
+    "title": "Module 1",
+    "section": "",
+    "text": "View slides in full screen | Download slides as PDF",
+    "crumbs": [
+      "Module 01"
+    ]
+  },
+  {
+    "objectID": "modules/md-01.html#readings",
+    "href": "modules/md-01.html#readings",
+    "title": "Module 1",
+    "section": " Readings",
+    "text": "Readings\n\nRead the Course Overview.",
+    "crumbs": [
+      "Module 01"
+    ]
+  },
+  {
+    "objectID": "modules/md-01.html#assignments",
+    "href": "modules/md-01.html#assignments",
+    "title": "Module 1",
+    "section": " Assignments",
+    "text": "Assignments\nPlease complete the following assignments by Wednesday, 28th February 2024. They are a pre-requisite for active participation in the second module.\n\nAssignment 1: In class: Get an account for GitHub\nAssignment 2: In class: Working with R, RStudio on Posit Cloud\nAssignment 3: Homework: Interaction with GitHub\nAssignment 4: Create your ORCID iD at: https://orcid.org/register (Learn more about ORCID and why you should get one)\nAssignment 5: Complete the pre-course survey (this is also your assignment submission completed): https://forms.gle/jcKFqiB2DHmSSbck6\n\nThank you for working through these assignments.",
+    "crumbs": [
+      "Module 01"
+    ]
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#meet-a-data-steward-1",
+    "href": "slides/lec-00-opening.html#meet-a-data-steward-1",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "Meet a data steward",
+    "text": "Meet a data steward\n\n\n\nI have:\n\n10+ years work experience (5 in research)\nempathy, compassion, patience, persistance\nan affinity for IT\nteaching experience\nlearned how people learn\n\n\nI don’t have:\n\na doctoral degree\na qualification in computer science\na qualification in statistics\na lot of time\n\n\n\n\nJob Description: Open Science Specialist\n\n\nMy role - Open Science Specialist\n\nresearch data management\nreproducible workflows\nmindset for Open Science\nresearch communication\nteaching data science tools\nproposal writing"
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#meet-a-professor",
+    "href": "slides/lec-00-opening.html#meet-a-professor",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "Meet a Professor",
+    "text": "Meet a Professor\n\n\nYou are a professor. You’re working long hours; you’re working weekends; you’re sitting in committees, and stuck in meetings that could have been emails; you’re writing proposals, teaching, grading, supervising, and mentoring.\n\n\nBlog: Attention, Prof: You need a data steward for your team."
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#the-modern-academics-challenges",
+    "href": "slides/lec-00-opening.html#the-modern-academics-challenges",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "The Modern Academic’s Challenges",
+    "text": "The Modern Academic’s Challenges\n\n\n\nOverflowing email inboxes\nBrowsers with hundreds of tabs\nFiles on stored on Desktops\nMS Teams, Slack, Element, NAS, Google Drive, …\nCredentials, Passwords, OTPs, 2FAs, PATs, …"
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#eth-rdm-guidelines",
+    "href": "slides/lec-00-opening.html#eth-rdm-guidelines",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "ETH RDM Guidelines",
+    "text": "ETH RDM Guidelines\n\n\n\n\n\n\n\n\nETH RDM Guidelines: https://rechtssammlung.sp.ethz.ch/Dokumente/414.2en.pdf"
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#fair-data-sharing-principles",
+    "href": "slides/lec-00-opening.html#fair-data-sharing-principles",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "FAIR data sharing principles",
+    "text": "FAIR data sharing principles\n\n\nArticle accessible at: https://www.nature.com/articles/sdata201618"
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#fair-data-sharing-principles-1",
+    "href": "slides/lec-00-opening.html#fair-data-sharing-principles-1",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "FAIR data sharing principles",
+    "text": "FAIR data sharing principles\n\n\n\nTechnical in nature\nRequire data management strategy to establish workflows\nNot a checkbox, but a process\n\n\n\nFindable\nAccessible\nInteroperable\nReusable"
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#section-1",
+    "href": "slides/lec-00-opening.html#section-1",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "",
+    "text": "36 students this year\nEssentially managed by one senior scientist and a professort, who makes the effort to see students regularly, in person\nThis requires project management\n\n\n\nAccess anonymised data from ghedata"
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#ghe-student-wiki-public",
+    "href": "slides/lec-00-opening.html#ghe-student-wiki-public",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "GHE Student Wiki (public)",
+    "text": "GHE Student Wiki (public)\n\n\n\nGrading criteria\nCommunication expectations\nData storage and data management guidelines\nPresentation standards\nProposal and thesis writing requirements\n\n\n\n\n\n\n\n\n\n\n\n\n\nBlog: Empowering Students: The Role of Transparency at Global Health Engineering\n\n\nTransparent grading practices and clear expectations offer several advantages:\n\nImproved student performance: When students understand what is expected of them, they are better equipped to meet those expectations.\nReduced anxiety: Clear guidelines help alleviate student stress and uncertainty about assignments and evaluations.\nFairness: Transparent grading criteria ensure that all students are evaluated consistently and equitably.\nEnhanced learning: Students can focus on learning objectives rather than guessing what the supervisor wants."
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#grading-rubric-data-publication",
+    "href": "slides/lec-00-opening.html#grading-rubric-data-publication",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "Grading rubric & data publication",
+    "text": "Grading rubric & data publication\n\n\nFour areas of evaluation with 31 sub-areas\n\n40/100: Research competence\n40/100: Thesis report\n10/100: Colloquium\n10/100: Examination\n\n\n\n‘Data Management’ under ‘Research Competence’\n\n6: Data is fully documented, organized, easy to reproduce, and publication ready. Everything is stored on Google Drive.\n\n\n\nBut, data publication requirement\n\nObtaining a 6 from all sub-areas but not publishing the data in the form of a repository will result in a maximum allowed grade of 5.75.\n\n\n\n\nOur Grading rubrics"
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#eth-board-open-research-data-position",
+    "href": "slides/lec-00-opening.html#eth-board-open-research-data-position",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "ETH Board Open Research Data position",
+    "text": "ETH Board Open Research Data position\n\n\nAccess Open Research Data Position of the ETH Domain"
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#eth-board-open-research-data-position-1",
+    "href": "slides/lec-00-opening.html#eth-board-open-research-data-position-1",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "ETH Board Open Research Data position",
+    "text": "ETH Board Open Research Data position\n\n\nAccess Open Research Data Position of the ETH Domain"
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#structure-naming-conventions",
+    "href": "slides/lec-00-opening.html#structure-naming-conventions",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "Structure & naming conventions",
+    "text": "Structure & naming conventions\n\n\nGHE Google Shared Drive\n\nghe-supervision\n\narchive\nbachelors\nmasters\n\nmsc-sem-proj\nmsc-thesis\n\n2024-msc-thesis-lschoebitz\n\n\nphds\n\n\n\nConvention\n\nYYYY-degree-type-ethzid\n\nA unqiue identifier for each student (and staff) that is used in several places.\n\n\n\nAccess anonymised data from ghedata"
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#safe-learning-environments",
+    "href": "slides/lec-00-opening.html#safe-learning-environments",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "Safe learning environments",
+    "text": "Safe learning environments\n\n\nGrowth-mindset for better learning outcomes\n\nFixed mindset: ‘I’m not good’\nGrowth mindset: ‘I can learn’\n\n\n\nCreate safe learner environments\n\nRegular 1:1 research data management meetings\nBi-monthly half day team events\nYearly retreat\n\n\n\n\nAccess our Strategy & Planning\n\n\nIf people believe that competence in some area is intrinsic (i.e. that you either “have the gene” for it or you don’t), everyone does worse, including the supposedly advantaged. The reason is that if someone doesn’t do well at first, they assume that they lack that aptitude, which biases their future performance.\nFrom: https://teachtogether.tech/en/index.html#s:motivation"
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#section-2",
+    "href": "slides/lec-00-opening.html#section-2",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "",
+    "text": "4 ECTS\nOffered to BSc / MSc / PhD students\nBest practices for data management\nBest practices for survey based research\nData Science tools: R, Git, GitHub, Quarto\nTransferable skills\nIndependent of ETHZ infrastructure\n\n\n\nCourse website FS25: https://rbtl-fs25.github.io/website/"
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#disclaimer-data-at-ghe",
+    "href": "slides/lec-00-opening.html#disclaimer-data-at-ghe",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "Disclaimer: Data at GHE",
+    "text": "Disclaimer: Data at GHE\n\n\n\nsmall (few MBs)\ntabular\nnon-sensitive\ntopics\n\nwaste management\nsanitation\nair quality\netc.\n\n\n\n\n\n\nPhoto: Kiteezi Landfill, Kampala, Uganda"
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#three-terms-for-three-stages",
+    "href": "slides/lec-00-opening.html#three-terms-for-three-stages",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "Three terms for three stages",
+    "text": "Three terms for three stages"
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#three-terms-for-three-stages-1",
+    "href": "slides/lec-00-opening.html#three-terms-for-three-stages-1",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "Three terms for three stages",
+    "text": "Three terms for three stages\n\n\n\n\n\n\n\n\nterm\nexplanation\nfile format\n\n\n\n\nunprocessed raw data\ndata that is not processed and remains in its original form and file type\noften XLSX, also CSV and others"
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#three-terms-for-three-stages-2",
+    "href": "slides/lec-00-opening.html#three-terms-for-three-stages-2",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "Three terms for three stages",
+    "text": "Three terms for three stages\n\n\n\n\n\n\n\n\nterm\nexplanation\nfile format\n\n\n\n\nunprocessed raw data\ndata that is not processed and remains in its original form and file type\noften XLSX, also CSV and others\n\n\nprocessed analysis-ready data\ndata that is processed to prepare for an analysis and is exported in its new form as a new file\nCSV, R data package"
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#three-terms-for-three-stages-3",
+    "href": "slides/lec-00-opening.html#three-terms-for-three-stages-3",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "Three terms for three stages",
+    "text": "Three terms for three stages\n\n\n\n\n\n\n\n\nterm\nexplanation\nfile format\n\n\n\n\nunprocessed raw data\ndata that is not processed and remains in its original form and file type\noften XLSX, also CSV and others\n\n\nprocessed analysis-ready data\ndata that is processed to prepare for an analysis and is exported in its new form as a new file\nCSV, R data package\n\n\nfinal data underlying a publication\ndata that is the result of an analysis (e.g descriptive statistics or data visualization) and shown in a publication, but then also exported in its new form as a new file\nCSV\n\n\n\n\nSelf-nomination for Swiss Reproducibility Award 2024"
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#section-17",
+    "href": "slides/lec-00-opening.html#section-17",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "",
+    "text": "https://doi.org/10.4209/aaqr.240095"
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#section-18",
+    "href": "slides/lec-00-opening.html#section-18",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "",
+    "text": "https://doi.org/10.4209/aaqr.240095"
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#section-19",
+    "href": "slides/lec-00-opening.html#section-19",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "",
+    "text": "Automation from ETH Research Collection"
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#section-20",
+    "href": "slides/lec-00-opening.html#section-20",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "",
+    "text": "Automation from Zenodo\n\nhttps://www.research-collection.ethz.ch/handle/20.500.11850/666386"
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#section-21",
+    "href": "slides/lec-00-opening.html#section-21",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "",
+    "text": "Automation from GitHub\n\nhttps://zenodo.org/records/12685803"
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#section-22",
+    "href": "slides/lec-00-opening.html#section-22",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "",
+    "text": "Open Source\n\nmade for collaboration\n\n\nhttps://github.com/Global-Health-Engineering/bcsa"
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#section-23",
+    "href": "slides/lec-00-opening.html#section-23",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "",
+    "text": "Automation from GitHub\n\nmade for humans\n\n\nhttps://global-health-engineering.github.io/bcsa/"
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#meet-a-professor-1",
+    "href": "slides/lec-00-opening.html#meet-a-professor-1",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "Meet a professor",
+    "text": "Meet a professor\n\n\n\nPlans for ‘tomorrow’\nIs ready for increasing requirements\nDedicates financial resources to data stewardship"
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#funding-schemes",
+    "href": "slides/lec-00-opening.html#funding-schemes",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "Funding schemes",
+    "text": "Funding schemes\nswissuniversities\n\n2021 - 2024: swissuniversities - Open Science I\n\n2025 - 2028: swissuniversities - Open Science II (~ CHF 10 to 30 million)\nWatch: Action Line B5.2 - Professionalisation of ORD specialists and related services\nNewsletter sign-up: https://sympa.ethz.ch/sympa/subscribe/isci"
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#funding-schemes-1",
+    "href": "slides/lec-00-opening.html#funding-schemes-1",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "Funding schemes",
+    "text": "Funding schemes\nETH Board\n\nGlobal Health Engineering was awarded 2 Contribute and 3 Explore projects worth 500’000 CHF\n2021 - 2024: ~ 100 projects funded (~ CHF 10 million in total)\nNewsletter sign-up: https://open-research-data-portal.ch/ (bottom of page)\n\n\nswissuniversities Action Plan"
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#take-aways-from-30-minutes",
+    "href": "slides/lec-00-opening.html#take-aways-from-30-minutes",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "10 take-aways from 30 minutes",
+    "text": "10 take-aways from 30 minutes\n\n#1 Technology is not on our side\n#2 ETH wants reproducibility\n#3 Data management is project management\n#4 Predictability wins\n#5 Low IT affinity is not a lack of aptitude\n#6 Data != Data\n#7 Data management is a process, not a checkbox\n#8 Findable: Publish for humans and computers\n#9: 9 to 5 is possible\n#10 Funding for Open Research Data exists"
+  },
+  {
+    "objectID": "slides/lec-00-opening.html#thanks",
+    "href": "slides/lec-00-opening.html#thanks",
+    "title": "FAIR Data Publishing Workshop",
+    "section": "Thanks! 🌻",
+    "text": "Thanks! 🌻\nSlides created via revealjs and Quarto: https://quarto.org/docs/presentations/revealjs/\nSlide background image taken from Danielle Navarro\nAccess slides as PDF on GitHub\nAll material is licensed under Creative Commons Attribution Share Alike 4.0 International."
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#section",
+    "href": "slides/lec-01-welcome.html#section",
+    "title": "Welcome & get ready for the workshop",
+    "section": "",
+    "text": "This class is being recorded. Access to the recording is restricted to ETH members."
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#why-all-of-this",
+    "href": "slides/lec-01-welcome.html#why-all-of-this",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Why all of this?",
+    "text": "Why all of this?"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#your-turn-about-you",
+    "href": "slides/lec-01-welcome.html#your-turn-about-you",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Your turn: About you",
+    "text": "Your turn: About you\n\nPick an item and take notes for 1 minute:\nWhat does the item you have picked have to do with the reason for you being here?\n\n\n\n\n\n−+\n01:00"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#in-pairs",
+    "href": "slides/lec-01-welcome.html#in-pairs",
+    "title": "Welcome & get ready for the workshop",
+    "section": "In pairs",
+    "text": "In pairs\n\nTake 2 minutes each to share with your partner:\nWhat does the item you have picked have to do with the reason for you being here?\n\n\n\n\n\n−+\n05:00"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#course-structure",
+    "href": "slides/lec-01-welcome.html#course-structure",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Course structure",
+    "text": "Course structure\n\nMy turn: Lecture segments + live coding\nOur turn: Live coding + follow along\nYour turn: Exercises in pairs"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#my-turn-lecture-segments-live-coding",
+    "href": "slides/lec-01-welcome.html#my-turn-lecture-segments-live-coding",
+    "title": "Welcome & get ready for the workshop",
+    "section": "My turn: Lecture segments + live coding",
+    "text": "My turn: Lecture segments + live coding\n\nInstructor writes and narrates code out loud\nInstructor explains concepts and principles that are relevant\nCode is displayed on screen"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#our-turn-live-coding-follow-along",
+    "href": "slides/lec-01-welcome.html#our-turn-live-coding-follow-along",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Our turn: Live coding + follow along",
+    "text": "Our turn: Live coding + follow along\n\nInstructor writes and narrates code out loud\nInstructor explains concepts and principles that are relevant\nCode is displayed on screen\nLearners join by writing and executing the same code"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#your-turn-exercises-in-pairs",
+    "href": "slides/lec-01-welcome.html#your-turn-exercises-in-pairs",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Your turn: Exercises in pairs",
+    "text": "Your turn: Exercises in pairs\n\nTwo learners work together in pairs\nOne person does the typing (the driver)\nOne person offers comments and suggestions (the navigator)"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#getting-help",
+    "href": "slides/lec-01-welcome.html#getting-help",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Getting help",
+    "text": "Getting help\n\nplease use a pink sticky note to indicate that you have a problem. I will try to address your issue if time permits.\nduring your turn exercises, please use a yellow sticky note to indicate when you have completed an exercise."
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#platforms-and-tools",
+    "href": "slides/lec-01-welcome.html#platforms-and-tools",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Platforms and Tools",
+    "text": "Platforms and Tools\n\nCourse website\nR\ntidyverse R Packages\nwashr R Package\nPosit Cloud\nRStudio IDE\nGit / GitHub"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#course-website",
+    "href": "slides/lec-01-welcome.html#course-website",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Course website",
+    "text": "Course website\nfairdatapub-washcentre.github.io/website/"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#our-turn-open-and-bookmark-the-course-webiste",
+    "href": "slides/lec-01-welcome.html#our-turn-open-and-bookmark-the-course-webiste",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Our turn: Open and bookmark the course webiste",
+    "text": "Our turn: Open and bookmark the course webiste\n\nOpen a web browser on your laptop.\nNavigate to the course website: fairdatapub-washcentre.github.io/website/\nCreate a bookmarks folder named fairdatapub-washcentre in your bookmarks toolbar\nAdd a bookmark of the course website to the folder fairdatapub-washcentre\n\n\n\n\n−+\n05:00"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#section-8",
+    "href": "slides/lec-01-welcome.html#section-8",
+    "title": "Welcome & get ready for the workshop",
+    "section": "",
+    "text": "Artwork from @juliesquid for @openscapes (illustrated by @allison_horst)"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#version-control-with-git-and-github",
+    "href": "slides/lec-01-welcome.html#version-control-with-git-and-github",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Version Control with Git and GitHub",
+    "text": "Version Control with Git and GitHub\nA way to share files with others, so they can:\n\ndownload\nre-use\ncontribute\n\nYou can view the history of files, and jump back in time to any point."
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#why-is-it-useful",
+    "href": "slides/lec-01-welcome.html#why-is-it-useful",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Why is it useful?",
+    "text": "Why is it useful?"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#git-and-github",
+    "href": "slides/lec-01-welcome.html#git-and-github",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Git and GitHub",
+    "text": "Git and GitHub\n\n\n\n\n\n\n\n\n\n\n\n\nGit is a software for version control\nCreated in 2005\nPopular among programmers collaboratively developing code\nTracks changes in a set of files (directory/folder/repository)\n\n\n\n\n\n\n\n\n\n\n\n\nGitHub is a hosting platform for version control using Git\nLaunched in 2008, aquired by Microsoft in in 2018, Microsoft for US$ 7.5 billion\n\n100 million Users (20.5 in 2022 alone) (October, 2023)\n\nSocial media for software developers"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#my-turn-a-tour-of-github",
+    "href": "slides/lec-01-welcome.html#my-turn-a-tour-of-github",
+    "title": "Welcome & get ready for the workshop",
+    "section": "My turn: A tour of GitHub",
+    "text": "My turn: A tour of GitHub\n\nSit back and enjoy!"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#your-turn-get-a-github-account",
+    "href": "slides/lec-01-welcome.html#your-turn-get-a-github-account",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Your turn: Get a GitHub account",
+    "text": "Your turn: Get a GitHub account\n\nOpen a web browser on your laptop.\nNavigate to the course website: fairdatapub-washcentre.github.io/website/\nIf you haven’t yet, bookmark the course website\nIn the left-hand menu, clock on Module 1, then select am-01: GitHub\nFollow the instructions\nPlace a yellow sticky note on your laptop when you have completed the assignment\n\n\n\n\n−+\n05:00"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#section-9",
+    "href": "slides/lec-01-welcome.html#section-9",
+    "title": "Welcome & get ready for the workshop",
+    "section": "-",
+    "text": "-"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#section-10",
+    "href": "slides/lec-01-welcome.html#section-10",
+    "title": "Welcome & get ready for the workshop",
+    "section": "-",
+    "text": "-"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#section-11",
+    "href": "slides/lec-01-welcome.html#section-11",
+    "title": "Welcome & get ready for the workshop",
+    "section": "-",
+    "text": "-"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#section-12",
+    "href": "slides/lec-01-welcome.html#section-12",
+    "title": "Welcome & get ready for the workshop",
+    "section": "-",
+    "text": "-"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#section-13",
+    "href": "slides/lec-01-welcome.html#section-13",
+    "title": "Welcome & get ready for the workshop",
+    "section": "-",
+    "text": "-"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#section-14",
+    "href": "slides/lec-01-welcome.html#section-14",
+    "title": "Welcome & get ready for the workshop",
+    "section": "-",
+    "text": "-"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#section-15",
+    "href": "slides/lec-01-welcome.html#section-15",
+    "title": "Welcome & get ready for the workshop",
+    "section": "-",
+    "text": "-"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#your-turn-log-into-posit-cloud-with-github-account",
+    "href": "slides/lec-01-welcome.html#your-turn-log-into-posit-cloud-with-github-account",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Your turn: Log into Posit Cloud with GitHub account",
+    "text": "Your turn: Log into Posit Cloud with GitHub account\n\nOpen a web browser on your laptop.\nNavigate to the course website: fairdatapub-washcentre.github.io/website/\nIf you haven’t yet, bookmark the course website\nIn the left-hand menu, clock on Module 1, then select am-02: Posit Cloud\nFollow the instructions\nPlace a yellow sticky note on your laptop when you have completed the assignment\n\n\n\n\n\n\n\nGitHub Authorisation\n\n\n\nIf this is your first time logging in to Posit Cloud with your GitHub account, you will be prompted to authorize Posit Cloud to access your GitHub account information.\nOnce you have authorized access, you will be redirected back to the Posit Cloud website and logged in to your account.\n\n\n\n\n\n\n\n−+\n05:00"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#take-a-break",
+    "href": "slides/lec-01-welcome.html#take-a-break",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Take a break",
+    "text": "Take a break\nPlease get up and move! Let your emails rest in peace.\n\n\ncountdown(minutes = 15)\n\n\n−+\n15:00\n\n\n\n\n\nPhoto by Blake Wisz"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#your-turn-md-01-exercises",
+    "href": "slides/lec-01-welcome.html#your-turn-md-01-exercises",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Your turn: md-01-exercises",
+    "text": "Your turn: md-01-exercises\n\n\nOpen posit.cloud in your browser (use your bookmark).\nOpen the rbt-fs24 workspace for the course.\nClick Start next to md-01-exercises.\nIn the File Manager in the bottom right window, locate the hello-quarto.qmd file and click on it to open it in the top left window.\nRender the document.\nAdd your name to the author: key in the YAML header\nRender the document\nInspect components of the document and make one more update and re-render.\nDiscuss notes about updates you’ve made with your neighbor. Note any aspects of the document that are not clear after the tour and your first interaction with it."
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#take-a-break-1",
+    "href": "slides/lec-01-welcome.html#take-a-break-1",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Take a break",
+    "text": "Take a break\nPlease get up and move! Let your emails rest in peace.\n\n\ncountdown(minutes = 15)\n\n\n−+\n15:00\n\n\n\n\n\nPhoto by Blake Wisz"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#module-1-documentation",
+    "href": "slides/lec-01-welcome.html#module-1-documentation",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Module 1 documentation",
+    "text": "Module 1 documentation\n\nfairdatapub-washcentre.github.io/website/modules/md-01.html"
+  },
+  {
+    "objectID": "slides/lec-01-welcome.html#thanks",
+    "href": "slides/lec-01-welcome.html#thanks",
+    "title": "Welcome & get ready for the workshop",
+    "section": "Thanks! 🌻",
+    "text": "Thanks! 🌻\nSlides created via revealjs and Quarto: https://quarto.org/docs/presentations/revealjs/ Access slides as PDF on GitHub\nAll material is licensed under Creative Commons Attribution Share Alike 4.0 International.\n\n\n\n fairdatapub-washcentre.github.io/website/"
+  },
+  {
+    "objectID": "assignments/md-01/am-01-1-github.html",
+    "href": "assignments/md-01/am-01-1-github.html",
+    "title": "Get an account on GitHub",
+    "section": "",
+    "text": "To set up an account on GitHub, follow these general steps:\n\nGo to the GitHub website at https://github.com/.\nClick on the “Sign up” button on the top right corner of the page.\nEnter your preferred username, email address, and password in the provided fields.\nChoose whether you want to receive updates and announcements via email.\nComplete the verification process by solving a puzzle and entering a verification code sent to your email.\n\n\n\n\n\n\n\nUsername advice from: Happy Git and GitHub for the useR\n\n\n\n\n\nYou will be able to upgrade to a paid level of service, apply discounts, join organizations, etc. in the future, so don’t fret about any of that now. Except your username. You might want to give that some thought.\nA few tips, which sadly tend to contradict each other:\n\nIncorporate your actual name! People like to know who they’re dealing with. Also makes your username easier for people to guess or remember.\nReuse your username from other contexts, e.g., Twitter or Slack. But, of course, someone with no GitHub activity will probably be squatting on that.\nPick a username you will be comfortable revealing to your future boss.\nShorter is better than longer.\nBe as unique as possible in as few characters as possible. In some settings GitHub auto-completes or suggests usernames.\nMake it timeless. Don’t highlight your current university, employer, or place of residence, e.g. JennyFromTheBlock.\nAvoid words laden with special meaning in programming.\nAvoid the use of upper vs. lower case to separate words. We highly recommend all lowercase. GitHub treats usernames in a case insensitive way, but using all lowercase is kinder to people doing downstream regular expression work with usernames, in various languages. A better strategy for word separation is to use a hyphen -.\n\nYou can change your username later, but better to get this right the first time.\n\nhttps://help.github.com/articles/changing-your-github-username/\nhttps://help.github.com/articles/what-happens-when-i-change-my-username/",
+    "crumbs": [
+      "Module 01",
+      "am-01: GitHub Account"
+    ]
+  },
+  {
+    "objectID": "assignments/md-01/am-01-1-github.html#step-1-get-an-account-on-github",
+    "href": "assignments/md-01/am-01-1-github.html#step-1-get-an-account-on-github",
+    "title": "Get an account on GitHub",
+    "section": "",
+    "text": "To set up an account on GitHub, follow these general steps:\n\nGo to the GitHub website at https://github.com/.\nClick on the “Sign up” button on the top right corner of the page.\nEnter your preferred username, email address, and password in the provided fields.\nChoose whether you want to receive updates and announcements via email.\nComplete the verification process by solving a puzzle and entering a verification code sent to your email.\n\n\n\n\n\n\n\nUsername advice from: Happy Git and GitHub for the useR\n\n\n\n\n\nYou will be able to upgrade to a paid level of service, apply discounts, join organizations, etc. in the future, so don’t fret about any of that now. Except your username. You might want to give that some thought.\nA few tips, which sadly tend to contradict each other:\n\nIncorporate your actual name! People like to know who they’re dealing with. Also makes your username easier for people to guess or remember.\nReuse your username from other contexts, e.g., Twitter or Slack. But, of course, someone with no GitHub activity will probably be squatting on that.\nPick a username you will be comfortable revealing to your future boss.\nShorter is better than longer.\nBe as unique as possible in as few characters as possible. In some settings GitHub auto-completes or suggests usernames.\nMake it timeless. Don’t highlight your current university, employer, or place of residence, e.g. JennyFromTheBlock.\nAvoid words laden with special meaning in programming.\nAvoid the use of upper vs. lower case to separate words. We highly recommend all lowercase. GitHub treats usernames in a case insensitive way, but using all lowercase is kinder to people doing downstream regular expression work with usernames, in various languages. A better strategy for word separation is to use a hyphen -.\n\nYou can change your username later, but better to get this right the first time.\n\nhttps://help.github.com/articles/changing-your-github-username/\nhttps://help.github.com/articles/what-happens-when-i-change-my-username/",
+    "crumbs": [
+      "Module 01",
+      "am-01: GitHub Account"
+    ]
+  },
+  {
+    "objectID": "assignments/md-01/am-01-1-github.html#step-2-open-an-issue-on-github",
+    "href": "assignments/md-01/am-01-1-github.html#step-2-open-an-issue-on-github",
+    "title": "Get an account on GitHub",
+    "section": " Step 2: Open an issue on GitHub",
+    "text": "Step 2: Open an issue on GitHub\n\n\nOpen github.com in your browser and login with your credentials\nExchange your GitHub username with your neighbor\nFind and open the website repository in the rbtl-fs24 GitHub organisation\nFind the issue tracker\nOpen an issue with the title “Open first issue on GitHub”\nAdd a comment to the issue and tag Lars with @larnsce. Add some text.\nClick submit new issue",
+    "crumbs": [
+      "Module 01",
+      "am-01: GitHub Account"
+    ]
+  },
+  {
+    "objectID": "assignments/md-01/am-01-2-posit.html",
+    "href": "assignments/md-01/am-01-2-posit.html",
+    "title": "Working with R, RStudio on Posit Cloud",
+    "section": "",
+    "text": "Log into Posit Cloud with GitHub account\nHere are the instructions to login to Posit Cloud using a GitHub account:\n\nGo to the Posit Cloud Sign Up page: https://login.posit.cloud/register\nClick on the “Sign Up with GitHub” button.\nEnter your GitHub username and password when prompted.\nIf this is your first time logging in to Posit Cloud with your GitHub account, you will be prompted to authorize Posit Cloud to access your GitHub account information.\nOnce you have authorized access, you will be redirected back to the Posit Cloud website and logged in to your account.\n\nNote that you will need to have a GitHub account in order to use this login method. If you do not have a GitHub account, you will need to create one before you can log in to Posit Cloud.\n\n\nJoin the course workspace on Posit Cloud\n\nOpen this link: https://posit.cloud/spaces/484002/join?access_code=VQqBWZMZpA364I1KAvJfoepjZ8Ek0h_TOfNEkq-o",
+    "crumbs": [
+      "Module 01",
+      "am-02: Posit Cloud"
+    ]
+  },
+  {
+    "objectID": "assignments/md-01/am-01-3-github.html",
+    "href": "assignments/md-01/am-01-3-github.html",
+    "title": "Interaction with GitHub",
+    "section": "",
+    "text": "Here are the step-by-step instructions to set up a GitHub personal access token:\n\n\n\n\n\n\nImportant\n\n\n\n\n\nTreat your access tokens like passwords and keep them secure (e.g. a password managing software).\n\n\n\n\nLog in to your GitHub account.\nClick on your profile picture in the top-right corner of the page.\nSelect “Settings” from the dropdown menu.\nIn the left sidebar, click on “Developer settings”.\nClick on “Personal access tokens”.\nClick on “Tokens (classic)”.\nClick on “Generate new token” and from the dropdown menu select “Generate new token (classic)”.\nIn the “Note” field, give your token the name: GITHUB_PAT\nUnder Expiration, select “No expiration”\nUnder “Select scopes”, select: repo, workflow, user\nClick on “Generate token”.\nYour personal access token will be displayed on the screen. Copy it and store it in a safe place.\n\nRemember to treat your access tokens like passwords and keep them secure (e.g. a password manager software).\nWe will use this GitHub PAT in class next week.",
+    "crumbs": [
+      "Module 01",
+      "am-03: GitHub PAT"
+    ]
+  },
+  {
+    "objectID": "assignments/md-01/am-01-3-github.html#step-1-set-up-a-github-personal-access-token",
+    "href": "assignments/md-01/am-01-3-github.html#step-1-set-up-a-github-personal-access-token",
+    "title": "Interaction with GitHub",
+    "section": "",
+    "text": "Here are the step-by-step instructions to set up a GitHub personal access token:\n\n\n\n\n\n\nImportant\n\n\n\n\n\nTreat your access tokens like passwords and keep them secure (e.g. a password managing software).\n\n\n\n\nLog in to your GitHub account.\nClick on your profile picture in the top-right corner of the page.\nSelect “Settings” from the dropdown menu.\nIn the left sidebar, click on “Developer settings”.\nClick on “Personal access tokens”.\nClick on “Tokens (classic)”.\nClick on “Generate new token” and from the dropdown menu select “Generate new token (classic)”.\nIn the “Note” field, give your token the name: GITHUB_PAT\nUnder Expiration, select “No expiration”\nUnder “Select scopes”, select: repo, workflow, user\nClick on “Generate token”.\nYour personal access token will be displayed on the screen. Copy it and store it in a safe place.\n\nRemember to treat your access tokens like passwords and keep them secure (e.g. a password manager software).\nWe will use this GitHub PAT in class next week.",
+    "crumbs": [
+      "Module 01",
+      "am-03: GitHub PAT"
+    ]
+  },
+  {
+    "objectID": "assignments/md-01/am-01-4-github.html",
+    "href": "assignments/md-01/am-01-4-github.html",
+    "title": "Interaction with GitHub",
+    "section": "",
+    "text": "Open github.com in your browser.\nNavigate to the GitHub organisation for the course.\nFind the repository git-configuration-USERNAME that ends with your GitHub username, and open it.\nClick on the green “Code” button.\nCopy the HTTPS URL to your clipboard.\nOpen the rbtl-fs24 workspace on posit.cloud\nClick New Project &gt; New Project from Git Repository\nPaste the HTTPS URL from GitHub into the “URL of your Git Repository” field.\nWait until the project is deployed\nContinue with the next step",
+    "crumbs": [
+      "Module 01",
+      "am-04: Git configuration"
+    ]
+  },
+  {
+    "objectID": "assignments/md-01/am-01-4-github.html#step-1-clone-a-repository",
+    "href": "assignments/md-01/am-01-4-github.html#step-1-clone-a-repository",
+    "title": "Interaction with GitHub",
+    "section": "",
+    "text": "Open github.com in your browser.\nNavigate to the GitHub organisation for the course.\nFind the repository git-configuration-USERNAME that ends with your GitHub username, and open it.\nClick on the green “Code” button.\nCopy the HTTPS URL to your clipboard.\nOpen the rbtl-fs24 workspace on posit.cloud\nClick New Project &gt; New Project from Git Repository\nPaste the HTTPS URL from GitHub into the “URL of your Git Repository” field.\nWait until the project is deployed\nContinue with the next step",
+    "crumbs": [
+      "Module 01",
+      "am-04: Git configuration"
+    ]
+  },
+  {
+    "objectID": "assignments/md-01/am-01-4-github.html#step-2-introduce-yourself-to-git",
+    "href": "assignments/md-01/am-01-4-github.html#step-2-introduce-yourself-to-git",
+    "title": "Interaction with GitHub",
+    "section": "Step 2: Introduce yourself to git",
+    "text": "Step 2: Introduce yourself to git\n\nIn Posit Cloud, open the git-configuration-USERNAME project that ends with your GitHub username.\nOpen the git-configuration.qmd file from the bottom right window of RStudio.\nEdit the code chunk under “Git configuration details” and replace the placeholders with your name and email address (these will be the details that git will use to identify you when you commit changes to the repository)\nRender the document\nContinue with the next step\n\n\nlibrary(usethis)\n\n# Replace Your Name and Your Email with your details. Do not delete the quotes \"\".\nuse_git_config(user.name = \"Your Name\", user.email = \"Your Email\")",
+    "crumbs": [
+      "Module 01",
+      "am-04: Git configuration"
+    ]
+  },
+  {
+    "objectID": "assignments/md-01/am-01-4-github.html#step-3-commit-and-push-your-changes",
+    "href": "assignments/md-01/am-01-4-github.html#step-3-commit-and-push-your-changes",
+    "title": "Interaction with GitHub",
+    "section": "Step 3: Commit and push your changes",
+    "text": "Step 3: Commit and push your changes\n\nNavigate to the Git pane in the top-right window of RStudio\nCheck the box next to the git-configuration.qmd file to stage it for commit\nClick on the “Commit” button\nEnter a commit message in the “Commit message” field\nClick on the “Commit” button\nClick on the “Push” button\nEnter your GitHub username and GitHub Personal Access Token (PAT) in the “Username” and “Password” fields\n\n\n\n\n\n\n\nDo not use your GitHub password\n\n\n\nYou need to enter the GitHub Personal Access Token (PAT) you created in your homework assignment from Module 1 to push your changes back to GitHub.",
+    "crumbs": [
+      "Module 01",
+      "am-04: Git configuration"
+    ]
+  },
+  {
+    "objectID": "assignments/md-01/am-01-4-github.html#step-4-open-an-issue-on-github",
+    "href": "assignments/md-01/am-01-4-github.html#step-4-open-an-issue-on-github",
+    "title": "Interaction with GitHub",
+    "section": "Step 4: Open an issue on GitHub",
+    "text": "Step 4: Open an issue on GitHub\n\nOpen github.com in your browser.\nNavigate to the GitHub organisation for the course.\nFind the repository git-configuration that ends with your GitHub username.\nClick on the “Issues” tab.\nClick on the green “New issue” button.\nIn the “Title” field write: “Completed git configuration assignments”.\nIn the “Leave a comment” field, tag the course instructor @larnsce.",
+    "crumbs": [
+      "Module 01",
+      "am-04: Git configuration"
+    ]
+  }
+]

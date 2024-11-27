@@ -1,11 +1,34 @@
 ---
-title: "website"
+title: "FAIR Data Publishing - Workshop"
+editor: source
+execute: 
+  echo: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
 ---
 
-This is a Quarto website.
+Thank you for your interest in this workshop. Your course instructor [Lars Schöbitz](https://ghe.ethz.ch/about/people/person-detail.MjkyODc2.TGlzdC80MTI2LC0xNDYwMDMwNTU3.html) is looking forward to meet you. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+The location for this 1-day workshop will be communicated by Email. 
 
-```{r}
-1 + 1
+Please ensure you bring the following items to the workshop:
+
+-   a laptop that can connect to Wifi
+-   a browser installation on your laptop
+
+## {{< fa circle-question >}} What is this workshop all about?
+
+This workshop is designed to provide you with an introduction to the principles of FAIR data publishing. It draws from experiences and workflows established by the [Global Health Engineering group at ETH Zurich](https://ghe.ethz.ch/) and through their work on the [openwashdata community](https://openwashdata.org/).
+
+## {{< fa display >}} Opening 
+
+The workshop will open with a 30-minute talk to set the scene and allow participants to get impression of the bigger picture. 
+
+[View slides in full screen](../slides/lec-00-opening.html) | [Download slides as PDF](https://github.com/fairdatapub-washcentre/website/raw/main/slides/lec-00-opening.pdf)
+
+```{=html}
+<iframe class="slide-deck" src="../slides/lec-00-opening.html" height="420" width="747" style="border: 1px solid #123233;"></iframe>
 ```
+
+
