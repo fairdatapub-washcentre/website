@@ -353,16 +353,16 @@ Add numbers - Key question (next slide): How can we make the data publication pr
 ## Data Publishing Guide
 
 ::: learn-more
-[global-health-engineering.github.io/ghedatapublishing/](https://global-health-engineering.github.io/ghedatapublishing/)
+[openwashdata.github.io/fair-publishing/](https://openwashdata.github.io/fair-publishing/)
 
 ```{=html}
-<iframe src="https://global-health-engineering.github.io/ghedatapublishing/" width="100%" height="500" style="border:2px solid #123233;" title="Data Publishing Guide"></iframe>
+<iframe src="https://openwashdata.github.io/fair-publishing/" width="100%" height="500" style="border:2px solid #123233;" title="Data Publishing Guide"></iframe>
 ```
 :::
 
 ## Your turn: Bookmark the guide
 
-1. Navigate to the Data Publishing Guide website: [global-health-engineering.github.io/ghedatapublishing/](https://global-health-engineering.github.io/ghedatapublishing/)
+1. Navigate to the Data Publishing Guide website: [openwashdata.github.io/fair-publishing/](https://openwashdata.github.io/fair-publishing/)
 2. Bookmark the page and add it to your bookmarks folder.
 
 ```{r}
@@ -389,7 +389,7 @@ countdown(5)
 
 `washr` source code: <https://github.com/openwashdata/washr>
 
-`washr` guide: <https://global-health-engineering.github.io/ghedatapublishing>
+`washr` guide: <https://openwashdata.github.io/fair-publishing>
 
 openwashdata: <https://openwashdata.org>
 
